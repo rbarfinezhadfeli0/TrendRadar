@@ -1,0 +1,989 @@
+# Keyword Summary: mcp_server/tools
+
+**Folder**: `mcp_server/tools`
+
+This file contains merged keywords from all files in this folder.
+
+## A
+
+- **Accept**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Accept
+- **Agent**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Agent
+- **align**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: align
+- **alive**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: alive
+- **analysis**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: analysis
+- **analytics**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: analytics
+- **AnalyticsTools**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: class: AnalyticsTools
+- **analyze_data_insights_unified**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: analyze_data_insights_unified
+- **analyze_keyword_cooccurrence**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: analyze_keyword_cooccurrence
+- **analyze_sentiment**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: analyze_sentiment
+- **analyze_topic_lifecycle**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: analyze_topic_lifecycle
+- **analyze_topic_trend_unified**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: analyze_topic_trend_unified
+- **append**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: append
+  - `mcp_server/tools/search_tools.py`: identifier: append
+  - `mcp_server/tools/analytics.py`: identifier: append
+- **AppleWebKit**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: AppleWebKit
+- **application**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: application
+- **Args**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: Args
+  - `mcp_server/tools/system.py`: identifier: Args
+  - `mcp_server/tools/search_tools.py`: identifier: Args
+  - `mcp_server/tools/analytics.py`: identifier: Args
+  - `mcp_server/tools/data_query.py`: identifier: Args
+- **Arial**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Arial
+- **Asia**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Asia
+- **auto**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: auto
+  - `mcp_server/tools/analytics.py`: identifier: auto
+
+## B
+
+- **background**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: background
+- **body**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: body
+- **bold**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: bold
+- **bool**: found in 4 location(s)
+  - `mcp_server/tools/system.py`: identifier: bool
+  - `mcp_server/tools/search_tools.py`: identifier: bool
+  - `mcp_server/tools/analytics.py`: identifier: bool
+  - `mcp_server/tools/data_query.py`: identifier: bool
+- **border**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: border
+- **bottom**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: bottom
+- **busiyi**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: busiyi
+
+## C
+
+- **c62828**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: c62828
+- **cache**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: cache
+- **Cache**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Cache
+- **calculate_news_weight**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: calculate_news_weight
+- **charset**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: charset
+- **ChatGPT**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: ChatGPT
+- **class**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: class
+  - `mcp_server/tools/system.py`: identifier: class
+  - `mcp_server/tools/search_tools.py`: identifier: class
+  - `mcp_server/tools/analytics.py`: identifier: class
+  - `mcp_server/tools/data_query.py`: identifier: class
+- **clean_title**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: function: clean_title
+- **cleaned**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: cleaned
+- **code**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: code
+  - `mcp_server/tools/system.py`: identifier: code
+  - `mcp_server/tools/search_tools.py`: identifier: code
+  - `mcp_server/tools/analytics.py`: identifier: code
+  - `mcp_server/tools/data_query.py`: identifier: code
+- **collections**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: collections
+  - `mcp_server/tools/analytics.py`: identifier: collections
+- **color**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: color
+- **compare_platforms**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: compare_platforms
+- **completed**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: completed
+- **confidence**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: confidence
+- **config**: found in 4 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: config
+  - `mcp_server/tools/system.py`: identifier: config
+  - `mcp_server/tools/analytics.py`: identifier: config
+  - `mcp_server/tools/data_query.py`: identifier: config
+- **ConfigManagementTools**: found in 1 location(s)
+  - `mcp_server/tools/config_mgmt.py`: class: ConfigManagementTools
+- **Connection**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Connection
+- **container**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: container
+- **content**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: content
+- **continue**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: continue
+- **Control**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Control
+- **cooccurrence**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: cooccurrence
+- **count**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: count
+  - `mcp_server/tools/analytics.py`: identifier: count
+- **Counter**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: Counter
+  - `mcp_server/tools/analytics.py`: identifier: Counter
+- **counts**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: counts
+- **crawler**: found in 2 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: crawler
+  - `mcp_server/tools/system.py`: identifier: crawler
+- **CrawlTaskError**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: CrawlTaskError
+- **current**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: identifier: current
+- **custom**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: custom
+
+## D
+
+- **daily**: found in 2 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: daily
+  - `mcp_server/tools/data_query.py`: identifier: daily
+- **data**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: data
+- **DataNotFoundError**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: DataNotFoundError
+  - `mcp_server/tools/analytics.py`: identifier: DataNotFoundError
+- **DataQueryTools**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: class: DataQueryTools
+- **DataService**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: DataService
+  - `mcp_server/tools/system.py`: identifier: DataService
+  - `mcp_server/tools/search_tools.py`: identifier: DataService
+  - `mcp_server/tools/analytics.py`: identifier: DataService
+  - `mcp_server/tools/data_query.py`: identifier: DataService
+- **date**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: date
+  - `mcp_server/tools/analytics.py`: identifier: date
+  - `mcp_server/tools/data_query.py`: identifier: date
+- **dates**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: dates
+- **datetime**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: datetime
+  - `mcp_server/tools/search_tools.py`: identifier: datetime
+  - `mcp_server/tools/analytics.py`: identifier: datetime
+- **days**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: days
+  - `mcp_server/tools/analytics.py`: identifier: days
+  - `mcp_server/tools/data_query.py`: identifier: days
+- **decoration**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: decoration
+- **default**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: default
+  - `mcp_server/tools/analytics.py`: identifier: default
+  - `mcp_server/tools/data_query.py`: identifier: default
+- **defaultdict**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: defaultdict
+- **detect_viral_topics**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: detect_viral_topics
+- **device**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: device
+- **Dict**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: Dict
+  - `mcp_server/tools/system.py`: identifier: Dict
+  - `mcp_server/tools/search_tools.py`: identifier: Dict
+  - `mcp_server/tools/analytics.py`: identifier: Dict
+  - `mcp_server/tools/data_query.py`: identifier: Dict
+- **dict**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: dict
+  - `mcp_server/tools/search_tools.py`: identifier: dict
+  - `mcp_server/tools/analytics.py`: identifier: dict
+- **difflib**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: difflib
+  - `mcp_server/tools/analytics.py`: identifier: difflib
+- **directory**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: directory
+- **DOCTYPE**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: constant: DOCTYPE
+
+## E
+
+- **earliest**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: earliest
+- **elif**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: elif
+  - `mcp_server/tools/analytics.py`: identifier: elif
+- **else**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: else
+  - `mcp_server/tools/search_tools.py`: identifier: else
+  - `mcp_server/tools/analytics.py`: identifier: else
+- **encoding**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: encoding
+- **ensure_directory_exists**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: function: ensure_directory_exists
+- **entity**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: entity
+  - `mcp_server/tools/analytics.py`: identifier: entity
+- **enumerate**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: enumerate
+  - `mcp_server/tools/analytics.py`: identifier: enumerate
+- **error**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: error
+  - `mcp_server/tools/system.py`: identifier: error
+  - `mcp_server/tools/search_tools.py`: identifier: error
+  - `mcp_server/tools/analytics.py`: identifier: error
+  - `mcp_server/tools/data_query.py`: identifier: error
+- **errors**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: errors
+  - `mcp_server/tools/system.py`: identifier: errors
+  - `mcp_server/tools/search_tools.py`: identifier: errors
+  - `mcp_server/tools/analytics.py`: identifier: errors
+  - `mcp_server/tools/data_query.py`: identifier: errors
+- **Example**: found in 4 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: Example
+  - `mcp_server/tools/system.py`: identifier: Example
+  - `mcp_server/tools/search_tools.py`: identifier: Example
+  - `mcp_server/tools/data_query.py`: identifier: Example
+- **Examples**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: Examples
+  - `mcp_server/tools/analytics.py`: identifier: Examples
+- **except**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: except
+  - `mcp_server/tools/system.py`: identifier: except
+  - `mcp_server/tools/search_tools.py`: identifier: except
+  - `mcp_server/tools/analytics.py`: identifier: except
+  - `mcp_server/tools/data_query.py`: identifier: except
+- **Exception**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: Exception
+  - `mcp_server/tools/system.py`: identifier: Exception
+  - `mcp_server/tools/search_tools.py`: identifier: Exception
+  - `mcp_server/tools/analytics.py`: identifier: Exception
+  - `mcp_server/tools/data_query.py`: identifier: Exception
+- **existing**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: existing
+- **exists**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: exists
+- **extend**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: extend
+  - `mcp_server/tools/analytics.py`: identifier: extend
+
+## F
+
+- **f5f5f5**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: f5f5f5
+- **failed**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: failed
+- **family**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: family
+- **ffebee**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: ffebee
+- **filename**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: filename
+- **find_similar_news**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: find_similar_news
+- **findall**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: findall
+- **float**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: float
+  - `mcp_server/tools/analytics.py`: identifier: float
+- **font**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: font
+- **FREQUENCY_WEIGHT**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: constant: FREQUENCY_WEIGHT
+- **friday**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: identifier: friday
+- **fuzzy**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: fuzzy
+
+## G
+
+- **generate_summary_report**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: generate_summary_report
+- **get_current_config**: found in 1 location(s)
+  - `mcp_server/tools/config_mgmt.py`: function: get_current_config
+- **get_latest_news**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: function: get_latest_news
+- **get_news_by_date**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: function: get_news_by_date
+- **get_platform_activity_stats**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: get_platform_activity_stats
+- **get_system_status**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: function: get_system_status
+- **get_topic_trend_analysis**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: get_topic_trend_analysis
+- **get_trending_topics**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: function: get_trending_topics
+- **granularity**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: granularity
+- **group**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: group
+
+## H
+
+- **head**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: head
+- **headers**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: headers
+- **HHMM**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: constant: HHMM
+- **HOTNESS_WEIGHT**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: constant: HOTNESS_WEIGHT
+- **hour**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: hour
+- **hover**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: hover
+- **href**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: href
+- **html**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: html
+- **HTML**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: constant: HTML
+- **http**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: http
+  - `mcp_server/tools/analytics.py`: identifier: http
+- **https**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: https
+
+## I
+
+- **incremental**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: identifier: incremental
+- **index**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: index
+  - `mcp_server/tools/analytics.py`: identifier: index
+- **info**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: info
+  - `mcp_server/tools/search_tools.py`: identifier: info
+  - `mcp_server/tools/analytics.py`: identifier: info
+- **initial**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: initial
+- **INTERNAL_ERROR**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: constant: INTERNAL_ERROR
+  - `mcp_server/tools/system.py`: constant: INTERNAL_ERROR
+  - `mcp_server/tools/search_tools.py`: constant: INTERNAL_ERROR
+  - `mcp_server/tools/analytics.py`: constant: INTERNAL_ERROR
+  - `mcp_server/tools/data_query.py`: constant: INTERNAL_ERROR
+- **intersection**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: intersection
+- **InvalidParameterError**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: InvalidParameterError
+  - `mcp_server/tools/analytics.py`: identifier: InvalidParameterError
+- **iPhone**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: iPhone
+  - `mcp_server/tools/analytics.py`: identifier: iPhone
+- **isinstance**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: isinstance
+- **item**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: item
+  - `mcp_server/tools/analytics.py`: identifier: item
+- **items**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: items
+  - `mcp_server/tools/search_tools.py`: identifier: items
+  - `mcp_server/tools/analytics.py`: identifier: items
+
+## J
+
+- **Jaccard**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: Jaccard
+- **join**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: join
+- **json**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: json
+
+## K
+
+- **keep**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: keep
+- **keys**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: keys
+  - `mcp_server/tools/analytics.py`: identifier: keys
+- **keyword**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: keyword
+  - `mcp_server/tools/analytics.py`: identifier: keyword
+  - `mcp_server/tools/data_query.py`: identifier: keyword
+- **keyword1**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: keyword1
+- **keyword2**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: keyword2
+- **keywords**: found in 3 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: keywords
+  - `mcp_server/tools/search_tools.py`: identifier: keywords
+  - `mcp_server/tools/analytics.py`: identifier: keywords
+- **keywords1**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: keywords1
+- **keywords2**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: keywords2
+
+## L
+
+- **lambda**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: lambda
+  - `mcp_server/tools/search_tools.py`: identifier: lambda
+  - `mcp_server/tools/analytics.py`: identifier: lambda
+- **Language**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Language
+- **last**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: identifier: last
+- **latest**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: latest
+  - `mcp_server/tools/search_tools.py`: identifier: latest
+- **left**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: left
+- **lifecycle**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: lifecycle
+- **limit**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: limit
+  - `mcp_server/tools/analytics.py`: identifier: limit
+  - `mcp_server/tools/data_query.py`: identifier: limit
+- **line**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: line
+- **link**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: link
+- **List**: found in 4 location(s)
+  - `mcp_server/tools/system.py`: identifier: List
+  - `mcp_server/tools/search_tools.py`: identifier: List
+  - `mcp_server/tools/analytics.py`: identifier: List
+  - `mcp_server/tools/data_query.py`: identifier: List
+- **list**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: list
+  - `mcp_server/tools/search_tools.py`: identifier: list
+  - `mcp_server/tools/analytics.py`: identifier: list
+- **loads**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: loads
+- **location**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: location
+- **lower**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: lower
+  - `mcp_server/tools/analytics.py`: identifier: lower
+
+## M
+
+- **main**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: main
+  - `mcp_server/tools/analytics.py`: identifier: main
+- **margin**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: margin
+- **markdown**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: markdown
+- **match**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: match
+- **matches**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: matches
+- **MCP**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: constant: MCP
+  - `mcp_server/tools/__init__.py`: constant: MCP
+  - `mcp_server/tools/analytics.py`: constant: MCP
+- **MCPError**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: MCPError
+  - `mcp_server/tools/system.py`: identifier: MCPError
+  - `mcp_server/tools/search_tools.py`: identifier: MCPError
+  - `mcp_server/tools/analytics.py`: identifier: MCPError
+  - `mcp_server/tools/data_query.py`: identifier: MCPError
+- **message**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: message
+  - `mcp_server/tools/system.py`: identifier: message
+  - `mcp_server/tools/search_tools.py`: identifier: message
+  - `mcp_server/tools/analytics.py`: identifier: message
+  - `mcp_server/tools/data_query.py`: identifier: message
+- **meta**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: meta
+- **method**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: method
+- **mkdir**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: mkdir
+- **MOBILE**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: constant: MOBILE
+- **mobileUrl**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: mobileUrl
+  - `mcp_server/tools/search_tools.py`: identifier: mobileUrl
+  - `mcp_server/tools/analytics.py`: identifier: mobileUrl
+- **mode**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: identifier: mode
+- **monday**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: identifier: monday
+- **Mozilla**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Mozilla
+
+## N
+
+- **name**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: name
+- **news**: found in 4 location(s)
+  - `mcp_server/tools/system.py`: identifier: news
+  - `mcp_server/tools/search_tools.py`: identifier: news
+  - `mcp_server/tools/analytics.py`: identifier: news
+  - `mcp_server/tools/data_query.py`: identifier: news
+- **newsnow**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: newsnow
+- **next**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: next
+- **NO_DATA_AVAILABLE**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: constant: NO_DATA_AVAILABLE
+- **note**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: note
+  - `mcp_server/tools/search_tools.py`: identifier: note
+  - `mcp_server/tools/analytics.py`: identifier: note
+
+## O
+
+- **open**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: open
+- **Optional**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: Optional
+  - `mcp_server/tools/system.py`: identifier: Optional
+  - `mcp_server/tools/search_tools.py`: identifier: Optional
+  - `mcp_server/tools/analytics.py`: identifier: Optional
+  - `mcp_server/tools/data_query.py`: identifier: Optional
+- **organization**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: organization
+- **output**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: output
+  - `mcp_server/tools/search_tools.py`: identifier: output
+
+## P
+
+- **padding**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: padding
+- **pair**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: pair
+- **parent**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: parent
+- **parents**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: parents
+- **parser**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: parser
+  - `mcp_server/tools/analytics.py`: identifier: parser
+- **pass**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: pass
+  - `mcp_server/tools/analytics.py`: identifier: pass
+- **Path**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Path
+- **pathlib**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: pathlib
+- **person**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: person
+- **plain**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: plain
+- **platform**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: platform
+  - `mcp_server/tools/search_tools.py`: identifier: platform
+  - `mcp_server/tools/analytics.py`: identifier: platform
+- **platforms**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: platforms
+  - `mcp_server/tools/system.py`: identifier: platforms
+  - `mcp_server/tools/search_tools.py`: identifier: platforms
+  - `mcp_server/tools/analytics.py`: identifier: platforms
+  - `mcp_server/tools/data_query.py`: identifier: platforms
+- **predict**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: predict
+- **predict_trending_topics**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: predict_trending_topics
+- **prediction**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: prediction
+- **print**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: print
+  - `mcp_server/tools/system.py`: identifier: print
+  - `mcp_server/tools/search_tools.py`: identifier: print
+  - `mcp_server/tools/analytics.py`: identifier: print
+  - `mcp_server/tools/data_query.py`: identifier: print
+- **push**: found in 1 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: push
+- **pytz**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: pytz
+
+## Q
+
+- **query**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: query
+- **quot**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: quot
+
+## R
+
+- **radius**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: radius
+- **raise**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: raise
+  - `mcp_server/tools/search_tools.py`: identifier: raise
+  - `mcp_server/tools/analytics.py`: identifier: raise
+- **randint**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: randint
+- **random**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: random
+- **range**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: range
+- **rank**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: rank
+  - `mcp_server/tools/search_tools.py`: identifier: rank
+  - `mcp_server/tools/analytics.py`: identifier: rank
+- **RANK_WEIGHT**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: constant: RANK_WEIGHT
+- **ranks**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: ranks
+  - `mcp_server/tools/search_tools.py`: identifier: ranks
+  - `mcp_server/tools/analytics.py`: identifier: ranks
+- **ratio**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: ratio
+  - `mcp_server/tools/analytics.py`: identifier: ratio
+- **relevance**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: relevance
+- **replace**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: replace
+- **requests**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: requests
+- **response**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: response
+- **result**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: result
+  - `mcp_server/tools/system.py`: identifier: result
+  - `mcp_server/tools/search_tools.py`: identifier: result
+  - `mcp_server/tools/analytics.py`: identifier: result
+  - `mcp_server/tools/data_query.py`: identifier: result
+- **results**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: results
+  - `mcp_server/tools/search_tools.py`: identifier: results
+- **retries**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: retries
+- **Returns**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: Returns
+  - `mcp_server/tools/system.py`: identifier: Returns
+  - `mcp_server/tools/search_tools.py`: identifier: Returns
+  - `mcp_server/tools/analytics.py`: identifier: Returns
+  - `mcp_server/tools/data_query.py`: identifier: Returns
+- **reverse**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: reverse
+  - `mcp_server/tools/analytics.py`: identifier: reverse
+- **reversed**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: reversed
+- **right**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: right
+- **round**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: round
+  - `mcp_server/tools/analytics.py`: identifier: round
+
+## S
+
+- **sans**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: sans
+- **scale**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: scale
+- **score**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: score
+- **search_by_entity**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: search_by_entity
+- **search_news_by_keyword**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: function: search_news_by_keyword
+- **search_news_unified**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: function: search_news_unified
+- **search_related_news_history**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: function: search_related_news_history
+- **SearchTools**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: class: SearchTools
+- **section**: found in 1 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: section
+- **self**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: self
+  - `mcp_server/tools/system.py`: identifier: self
+  - `mcp_server/tools/search_tools.py`: identifier: self
+  - `mcp_server/tools/analytics.py`: identifier: self
+  - `mcp_server/tools/data_query.py`: identifier: self
+- **SequenceMatcher**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: SequenceMatcher
+  - `mcp_server/tools/analytics.py`: identifier: SequenceMatcher
+- **serif**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: serif
+- **services**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: services
+  - `mcp_server/tools/system.py`: identifier: services
+  - `mcp_server/tools/search_tools.py`: identifier: services
+  - `mcp_server/tools/analytics.py`: identifier: services
+  - `mcp_server/tools/data_query.py`: identifier: services
+- **set1**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: set1
+- **set2**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: set2
+- **Shanghai**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Shanghai
+- **similarity**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: similarity
+  - `mcp_server/tools/analytics.py`: identifier: similarity
+- **size**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: size
+- **sleep**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: sleep
+- **solid**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: solid
+- **sort**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: sort
+  - `mcp_server/tools/search_tools.py`: identifier: sort
+  - `mcp_server/tools/analytics.py`: identifier: sort
+- **sorted**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: sorted
+- **span**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: span
+- **split**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: split
+- **start**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: start
+  - `mcp_server/tools/analytics.py`: identifier: start
+  - `mcp_server/tools/data_query.py`: identifier: start
+- **statistics**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: statistics
+  - `mcp_server/tools/analytics.py`: identifier: statistics
+- **stats**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: stats
+- **status**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: status
+- **stopwords**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: stopwords
+  - `mcp_server/tools/analytics.py`: identifier: stopwords
+- **strftime**: found in 4 location(s)
+  - `mcp_server/tools/system.py`: identifier: strftime
+  - `mcp_server/tools/search_tools.py`: identifier: strftime
+  - `mcp_server/tools/analytics.py`: identifier: strftime
+  - `mcp_server/tools/data_query.py`: identifier: strftime
+- **strip**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: strip
+  - `mcp_server/tools/analytics.py`: identifier: strip
+- **style**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: style
+- **success**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: success
+  - `mcp_server/tools/system.py`: identifier: success
+  - `mcp_server/tools/search_tools.py`: identifier: success
+  - `mcp_server/tools/analytics.py`: identifier: success
+  - `mcp_server/tools/data_query.py`: identifier: success
+- **suggestion**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: suggestion
+  - `mcp_server/tools/search_tools.py`: identifier: suggestion
+  - `mcp_server/tools/analytics.py`: identifier: suggestion
+- **summary**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: summary
+  - `mcp_server/tools/analytics.py`: identifier: summary
+- **system**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: system
+- **SystemManagementTools**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: class: SystemManagementTools
+
+## T
+
+- **target**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: target
+- **text**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: text
+  - `mcp_server/tools/search_tools.py`: identifier: text
+- **text1**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: text1
+  - `mcp_server/tools/analytics.py`: identifier: text1
+- **text2**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: text2
+  - `mcp_server/tools/analytics.py`: identifier: text2
+- **threshold**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: threshold
+  - `mcp_server/tools/analytics.py`: identifier: threshold
+- **time**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: time
+- **timedelta**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: timedelta
+  - `mcp_server/tools/analytics.py`: identifier: timedelta
+- **timeout**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: timeout
+- **timestamp**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: timestamp
+- **timestamps**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: timestamps
+  - `mcp_server/tools/analytics.py`: identifier: timestamps
+- **timezone**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: timezone
+- **title**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: title
+  - `mcp_server/tools/search_tools.py`: identifier: title
+  - `mcp_server/tools/analytics.py`: identifier: title
+- **titles**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: titles
+  - `mcp_server/tools/analytics.py`: identifier: titles
+- **today**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: today
+- **tools**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: tools
+  - `mcp_server/tools/system.py`: identifier: tools
+  - `mcp_server/tools/search_tools.py`: identifier: tools
+  - `mcp_server/tools/analytics.py`: identifier: tools
+  - `mcp_server/tools/data_query.py`: identifier: tools
+- **TOP**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: constant: TOP
+- **topic**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: topic
+- **topics**: found in 1 location(s)
+  - `mcp_server/tools/data_query.py`: identifier: topics
+- **total**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: total
+  - `mcp_server/tools/data_query.py`: identifier: total
+- **traceback**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: traceback
+- **trend**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: trend
+- **TrendRadar**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: TrendRadar
+- **trigger_crawl**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: function: trigger_crawl
+- **tuple**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: tuple
+  - `mcp_server/tools/analytics.py`: identifier: tuple
+- **Tuple**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: Tuple
+- **TXT**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: constant: TXT
+- **typing**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: typing
+  - `mcp_server/tools/system.py`: identifier: typing
+  - `mcp_server/tools/search_tools.py`: identifier: typing
+  - `mcp_server/tools/analytics.py`: identifier: typing
+  - `mcp_server/tools/data_query.py`: identifier: typing
+
+## U
+
+- **underline**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: underline
+- **uniform**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: uniform
+- **union**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: union
+- **unique**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: unique
+- **update**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: update
+- **URL**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: constant: URL
+  - `mcp_server/tools/search_tools.py`: constant: URL
+  - `mcp_server/tools/analytics.py`: constant: URL
+- **User**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: User
+- **UTF**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: constant: UTF
+- **utils**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: utils
+  - `mcp_server/tools/system.py`: identifier: utils
+  - `mcp_server/tools/search_tools.py`: identifier: utils
+  - `mcp_server/tools/analytics.py`: identifier: utils
+  - `mcp_server/tools/data_query.py`: identifier: utils
+
+## V
+
+- **validators**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: validators
+  - `mcp_server/tools/system.py`: identifier: validators
+  - `mcp_server/tools/search_tools.py`: identifier: validators
+  - `mcp_server/tools/analytics.py`: identifier: validators
+  - `mcp_server/tools/data_query.py`: identifier: validators
+- **ValueError**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: ValueError
+- **values**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: values
+- **version**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: version
+- **viewport**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: viewport
+- **viral**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: viral
+
+## W
+
+- **Warning**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: Warning
+- **weekly**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: identifier: weekly
+- **weibo**: found in 4 location(s)
+  - `mcp_server/tools/system.py`: identifier: weibo
+  - `mcp_server/tools/search_tools.py`: identifier: weibo
+  - `mcp_server/tools/analytics.py`: identifier: weibo
+  - `mcp_server/tools/data_query.py`: identifier: weibo
+- **weight**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: weight
+  - `mcp_server/tools/search_tools.py`: identifier: weight
+- **weights**: found in 1 location(s)
+  - `mcp_server/tools/config_mgmt.py`: identifier: weights
+- **while**: found in 3 location(s)
+  - `mcp_server/tools/system.py`: identifier: while
+  - `mcp_server/tools/search_tools.py`: identifier: while
+  - `mcp_server/tools/analytics.py`: identifier: while
+- **white**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: white
+- **width**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: width
+- **Win64**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Win64
+- **Windows**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: Windows
+- **word**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: word
+  - `mcp_server/tools/analytics.py`: identifier: word
+- **words**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: words
+  - `mcp_server/tools/analytics.py`: identifier: words
+- **world**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: world
+- **write**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: identifier: write
+
+## Y
+
+- **yaml**: found in 2 location(s)
+  - `mcp_server/tools/system.py`: identifier: yaml
+  - `mcp_server/tools/analytics.py`: identifier: yaml
+- **yesterday**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: identifier: yesterday
+  - `mcp_server/tools/analytics.py`: identifier: yesterday
+  - `mcp_server/tools/data_query.py`: identifier: yesterday
+- **YYYY**: found in 3 location(s)
+  - `mcp_server/tools/search_tools.py`: constant: YYYY
+  - `mcp_server/tools/analytics.py`: constant: YYYY
+  - `mcp_server/tools/data_query.py`: constant: YYYY
+
+## Z
+
+- **zhihu**: found in 4 location(s)
+  - `mcp_server/tools/system.py`: identifier: zhihu
+  - `mcp_server/tools/search_tools.py`: identifier: zhihu
+  - `mcp_server/tools/analytics.py`: identifier: zhihu
+  - `mcp_server/tools/data_query.py`: identifier: zhihu
+
+## _
+
+- **__init__**: found in 5 location(s)
+  - `mcp_server/tools/config_mgmt.py`: function: __init__
+  - `mcp_server/tools/system.py`: function: __init__
+  - `mcp_server/tools/search_tools.py`: function: __init__
+  - `mcp_server/tools/analytics.py`: function: __init__
+  - `mcp_server/tools/data_query.py`: function: __init__
+- **_calculate_keyword_overlap**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: function: _calculate_keyword_overlap
+- **_calculate_similarity**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: function: _calculate_similarity
+  - `mcp_server/tools/analytics.py`: function: _calculate_similarity
+- **_create_sentiment_analysis_prompt**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: _create_sentiment_analysis_prompt
+- **_extract_keywords**: found in 2 location(s)
+  - `mcp_server/tools/search_tools.py`: function: _extract_keywords
+  - `mcp_server/tools/analytics.py`: function: _extract_keywords
+- **_find_unique_topics**: found in 1 location(s)
+  - `mcp_server/tools/analytics.py`: function: _find_unique_topics
+- **_fuzzy_match**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: function: _fuzzy_match
+- **_generate_simple_html**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: function: _generate_simple_html
+- **_html_escape**: found in 1 location(s)
+  - `mcp_server/tools/system.py`: function: _html_escape
+- **_search_by_entity_mode**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: function: _search_by_entity_mode
+- **_search_by_fuzzy_mode**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: function: _search_by_fuzzy_mode
+- **_search_by_keyword_mode**: found in 1 location(s)
+  - `mcp_server/tools/search_tools.py`: function: _search_by_keyword_mode
+

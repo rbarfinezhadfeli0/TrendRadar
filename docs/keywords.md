@@ -1,0 +1,6139 @@
+# Global Keywords Index
+
+**Repository**: TrendRadar
+
+**Total Unique Keywords**: 2162
+
+This is a comprehensive A-Z index of all keywords found across the repository.
+
+## A
+
+- **A652**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): constant: A652
+- **A8AI**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): constant: A8AI
+- **ABOVE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ABOVE
+- **above**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: above
+- **absolute**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: absolute
+  - [main.py](./main_py_docs.md): identifier: absolute
+- **ABSOLUTELY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ABSOLUTELY
+- **abspath**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: abspath
+- **abuse**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: abuse
+- **Accept**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Accept
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Accept
+- **acceptance**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: acceptance
+- **accompanies**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: accompanies
+- **achieve**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: achieve
+- **acknowledges**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: acknowledges
+- **acquired**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: acquired
+- **across**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: across
+  - [LICENSE](./LICENSE_docs.md): identifier: across
+- **action**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: action
+- **Actions**: found in 7 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Actions
+  - [readme.md](./readme_md_docs.md): identifier: Actions
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Actions
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: Actions
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: Actions
+  - ... and 2 more
+- **actions**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: actions
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: actions
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: actions
+- **active**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: active
+  - [main.py](./main_py_docs.md): identifier: active
+- **activity**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: activity
+- **adapt**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: adapt
+- **addEventListener**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: addEventListener
+  - [main.py](./main_py_docs.md): identifier: addEventListener
+- **adding**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: adding
+- **additional**: found in 4 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: additional
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: additional
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: additional
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: additional
+- **addr**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: addr
+- **adoc**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: adoc
+- **ADVISED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ADVISED
+- **affects**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: affects
+- **after**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: after
+- **again**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: again
+- **Agent**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Agent
+- **aggregate**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: aggregate
+- **agree**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: agree
+- **AGREED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: AGREED
+- **agreement**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: agreement
+- **ajax**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: ajax
+  - [main.py](./main_py_docs.md): identifier: ajax
+- **alerts**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: alerts
+- **alias**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: alias
+- **align**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: align
+  - [main.py](./main_py_docs.md): identifier: align
+  - [readme.md](./readme_md_docs.md): identifier: align
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: align
+- **alive**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: alive
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: alive
+- **ALL**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ALL
+- **ALL_CAPS**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: ALL_CAPS
+- **alleging**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: alleging
+- **allowed**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: allowed
+  - [main.py](./main_py_docs.md): identifier: allowed
+  - [LICENSE](./LICENSE_docs.md): identifier: allowed
+- **allowTaint**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: allowTaint
+- **already**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: already
+  - [LICENSE](./LICENSE_docs.md): identifier: already
+- **Also**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Also
+- **also**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: also
+- **although**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: although
+- **alwaysAllow**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: alwaysAllow
+- **AMD**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): constant: AMD
+- **amd64**: found in 3 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: amd64
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: amd64
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: amd64
+- **among**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: among
+- **analysis**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: analysis
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: analysis
+- **analytics**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: analytics
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: analytics
+- **AnalyticsTools**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: AnalyticsTools
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): class: AnalyticsTools
+- **Analyze**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Analyze
+- **analyze_data_insights**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: analyze_data_insights
+- **analyze_data_insights_unified**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: analyze_data_insights_unified
+- **analyze_keyword_cooccurrence**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: analyze_keyword_cooccurrence
+- **analyze_sentiment**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: analyze_sentiment
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: analyze_sentiment
+- **analyze_topic_lifecycle**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: analyze_topic_lifecycle
+- **analyze_topic_trend**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: analyze_topic_trend
+- **analyze_topic_trend_unified**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: analyze_topic_trend_unified
+- **analyzed**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: analyzed
+- **analyzer**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: analyzer
+  - [readme.md](./readme_md_docs.md): identifier: analyzer
+- **anchor**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: anchor
+- **AND**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: AND
+- **Android**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Android
+- **anonymous**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: anonymous
+  - [main.py](./main_py_docs.md): identifier: anonymous
+- **another**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: another
+- **Anthropic**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: Anthropic
+- **ANY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ANY
+- **anyone**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: anyone
+- **anything**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: anything
+- **Apache**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Apache
+- **API**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: API
+  - [readme.md](./readme_md_docs.md): constant: API
+- **APP**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: APP
+- **APPDATA**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: APPDATA
+- **appears**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: appears
+- **append**: found in 7 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: append
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: append
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: append
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: append
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: append
+  - ... and 2 more
+- **appendChild**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: appendChild
+  - [main.py](./main_py_docs.md): identifier: appendChild
+- **apple**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: apple
+  - [main.py](./main_py_docs.md): identifier: apple
+  - [readme.md](./readme_md_docs.md): identifier: apple
+- **AppleWebKit**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: AppleWebKit
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: AppleWebKit
+- **APPLICABLE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: APPLICABLE
+- **applicable**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: applicable
+- **Application**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Application
+- **application**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: application
+- **applied**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: applied
+- **Apply**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Apply
+- **approximates**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: approximates
+- **apps**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: apps
+- **aptible**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: aptible
+- **Arch**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Arch
+- **architecture**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: architecture
+- **archive**: found in 2 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: archive
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: archive
+- **area**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: area
+- **ARG**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: ARG
+- **argparse**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: argparse
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: argparse
+- **args**: found in 4 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: args
+  - [readme.md](./readme_md_docs.md): identifier: args
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: args
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: args
+- **Args**: found in 11 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: Args
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: Args
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Args
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Args
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: Args
+  - ... and 6 more
+- **ArgumentParser**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: ArgumentParser
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: ArgumentParser
+- **Arguments**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Arguments
+- **argv**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: argv
+- **Arial**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Arial
+- **arise**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: arise
+- **ARISING**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ARISING
+- **arm64**: found in 2 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: arm64
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: arm64
+- **Array**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: Array
+  - [main.py](./main_py_docs.md): identifier: Array
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Array
+- **articles**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: articles
+- **Asia**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: Asia
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Asia
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Asia
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: Asia
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: Asia
+- **assignees**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: assignees
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: assignees
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: assignees
+- **associated**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: associated
+- **ASSUME**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ASSUME
+- **assumption**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: assumption
+- **astral**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: astral
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: astral
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: astral
+- **async**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: async
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: async
+- **attach**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: attach
+- **attempt**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: attempt
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: attempt
+- **attempts**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: attempts
+- **attributed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: attributed
+- **attributes**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: attributes
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: attributes
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: attributes
+- **attributions**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: attributions
+- **Author**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Author
+- **author**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: author
+- **Authorization**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Authorization
+- **auto**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: auto
+  - [main.py](./main_py_docs.md): identifier: auto
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: auto
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: auto
+- **Auto**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Auto
+- **autoApprove**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: autoApprove
+- **automatically**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: automatically
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: automatically
+- **Available**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Available
+- **await**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: await
+  - [main.py](./main_py_docs.md): identifier: await
+
+## B
+
+- **backdrop**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: backdrop
+  - [main.py](./main_py_docs.md): identifier: backdrop
+- **backend**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: backend
+- **background**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: background
+  - [main.py](./main_py_docs.md): identifier: background
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: background
+- **backgroundColor**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: backgroundColor
+- **badge**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: badge
+- **baidu**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: baidu
+  - [readme.md](./readme_md_docs.md): identifier: baidu
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: baidu
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: baidu
+- **banner**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: banner
+- **Banner**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Banner
+- **based**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: based
+  - [LICENSE](./LICENSE_docs.md): identifier: based
+- **baseFilename**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: baseFilename
+  - [main.py](./main_py_docs.md): constant: baseFilename
+- **bases**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bases
+- **bash**: found in 7 file(s)
+  - [start-http.sh](./start-http_sh_docs.md): identifier: bash
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: bash
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bash
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: bash
+  - [readme.md](./readme_md_docs.md): identifier: bash
+  - ... and 2 more
+- **BATCH_SEND_INTERVAL**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: BATCH_SEND_INTERVAL
+- **batches**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: batches
+- **bclass**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bclass
+- **bconst**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bconst
+- **bdef**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bdef
+- **Bearer**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Bearer
+- **been**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: been
+  - [LICENSE](./LICENSE_docs.md): identifier: been
+- **BEEN**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: BEEN
+- **before**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: before
+- **behavior**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: behavior
+- **BEING**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: BEING
+- **believe**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: believe
+- **benum**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: benum
+- **Best**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Best
+- **best**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: best
+- **between**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: between
+  - [main.py](./main_py_docs.md): identifier: between
+- **beyond**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: beyond
+- **bfunction**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bfunction
+- **bilibili**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: bilibili
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: bilibili
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: bilibili
+- **binary**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: binary
+- **Binary**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Binary
+- **binterface**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: binterface
+- **binwiederhier**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: binwiederhier
+- **blet**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: blet
+- **BlinkMacSystemFont**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: BlinkMacSystemFont
+- **blob**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: blob
+- **block**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: block
+- **BLUE**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: BLUE
+- **blue**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: blue
+- **blur**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: blur
+- **BNaRQnYJYiPSqHHDb58B0yaPfCu**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: BNaRQnYJYiPSqHHDb58B0yaPfCu
+  - [main.py](./main_py_docs.md): identifier: BNaRQnYJYiPSqHHDb58B0yaPfCu
+- **body**: found in 7 file(s)
+  - [index.html](./index_html_docs.md): identifier: body
+  - [main.py](./main_py_docs.md): identifier: body
+  - [LICENSE](./LICENSE_docs.md): identifier: body
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: body
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: body
+  - ... and 2 more
+- **BOLD**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: BOLD
+- **bold**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: bold
+- **BOOK**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: BOOK
+  - [docs/.progress.log](docs/_progress_log_docs.md): constant: BOOK
+- **Book**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Book
+- **book**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: book
+- **bool**: found in 11 file(s)
+  - [main.py](./main_py_docs.md): identifier: bool
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bool
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: bool
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: bool
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: bool
+  - ... and 6 more
+- **Bootstrap**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Bootstrap
+- **border**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: border
+  - [main.py](./main_py_docs.md): identifier: border
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: border
+- **botbuilder**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: botbuilder
+- **BotFather**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: BotFather
+- **both**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: both
+- **bots**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: bots
+- **bottom**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: bottom
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: bottom
+- **branch**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: branch
+- **break**: found in 2 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: break
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: break
+- **brief**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: brief
+  - [LICENSE](./LICENSE_docs.md): identifier: brief
+- **browse**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: browse
+- **btime**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: btime
+- **btype**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: btype
+- **build**: found in 5 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: build
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: build
+  - [readme.md](./readme_md_docs.md): identifier: build
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: build
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: build
+- **Build**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Build
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Build
+- **Builder**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Builder
+- **BUILDKIT_INLINE_CACHE**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): constant: BUILDKIT_INLINE_CACHE
+- **BUILDKIT_PROGRESS**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): constant: BUILDKIT_PROGRESS
+- **Buildx**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Buildx
+- **buildx**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: buildx
+- **busiyi**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: busiyi
+  - [readme.md](./readme_md_docs.md): identifier: busiyi
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: busiyi
+- **BUT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: BUT
+- **button**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: button
+  - [main.py](./main_py_docs.md): constant: button
+- **buttons**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: buttons
+  - [main.py](./main_py_docs.md): constant: buttons
+- **bvar**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bvar
+- **Bypass**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Bypass
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: Bypass
+- **bytedance**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: bytedance
+- **bytes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: bytes
+- **Bytes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Bytes
+
+## C
+
+- **c62828**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: c62828
+- **c8e6c9**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: c8e6c9
+- **C8evK**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: C8evK
+- **cache**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: cache
+  - [readme.md](./readme_md_docs.md): identifier: cache
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: cache
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: cache
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: cache
+  - ... and 2 more
+- **Cache**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Cache
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Cache
+- **cached**: found in 2 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: cached
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: cached
+- **CacheService**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): class: CacheService
+- **calculate_news_weight**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): function: calculate_news_weight
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: calculate_news_weight
+- **call**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: call
+- **called**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: called
+- **camelCase**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: camelCase
+- **cannot**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: cannot
+  - [LICENSE](./LICENSE_docs.md): identifier: cannot
+- **canvas**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: canvas
+  - [main.py](./main_py_docs.md): constant: canvas
+- **cargo**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: cargo
+- **case**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: case
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: case
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: case
+- **catch**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: catch
+- **category**: found in 2 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: category
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: category
+- **cause**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: cause
+- **causes**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: causes
+- **cdnjs**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: cdnjs
+- **center**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: center
+  - [main.py](./main_py_docs.md): identifier: center
+  - [readme.md](./readme_md_docs.md): identifier: center
+- **certificates**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: certificates
+- **change**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: change
+- **changes**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: changes
+- **Chapter**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Chapter
+- **characters**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: characters
+- **chars**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: chars
+- **charset**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: charset
+  - [main.py](./main_py_docs.md): identifier: charset
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: charset
+- **Chart**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Chart
+- **Chat**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Chat
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: Chat
+- **chat**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: chat
+- **ChatGPT**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: ChatGPT
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: ChatGPT
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: ChatGPT
+- **chatgpt**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: chatgpt
+- **chcp**: found in 2 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: chcp
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: chcp
+- **Check**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Check
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Check
+- **check**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: check
+- **check_version_update**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: check_version_update
+- **Checking**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Checking
+- **Checkout**: found in 2 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Checkout
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Checkout
+- **checkout**: found in 2 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: checkout
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: checkout
+- **checkpoint**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: checkpoint
+- **checks**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: checks
+- **checksum**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: checksum
+- **checksums**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: checksums
+- **cherry**: found in 2 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: cherry
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: cherry
+- **Cherry**: found in 7 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Cherry
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Cherry
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: Cherry
+  - [readme.md](./readme_md_docs.md): identifier: Cherry
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Cherry
+  - ... and 2 more
+- **child**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: child
+  - [main.py](./main_py_docs.md): identifier: child
+- **chmod**: found in 2 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: chmod
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: chmod
+- **choices**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: choices
+- **choose**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: choose
+- **Chrome**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Chrome
+- **chunk**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: chunk
+- **claim**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: claim
+- **class**: found in 14 file(s)
+  - [index.html](./index_html_docs.md): identifier: class
+  - [main.py](./main_py_docs.md): identifier: class
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: class
+  - [LICENSE](./LICENSE_docs.md): identifier: class
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: class
+  - ... and 9 more
+- **Classes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Classes
+- **classes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: classes
+- **classification**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: classification
+- **classify**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: classify
+- **className**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: className
+- **Claude**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Claude
+- **claude**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: claude
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: claude
+- **clean**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: clean
+- **clean_title**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): function: clean_title
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): function: clean_title
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): function: clean_title
+- **cleaned**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: cleaned
+- **cleanup_expired**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): function: cleanup_expired
+- **cleanup_old_records**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: cleanup_old_records
+- **clear**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): function: clear
+- **clearly**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: clearly
+- **CLI**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: CLI
+- **click**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: click
+  - [main.py](./main_py_docs.md): identifier: click
+- **Cline**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Cline
+- **Clone**: found in 2 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Clone
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Clone
+- **clone**: found in 3 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: clone
+  - [readme.md](./readme_md_docs.md): identifier: clone
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: clone
+- **clonedButtons**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: clonedButtons
+  - [main.py](./main_py_docs.md): constant: clonedButtons
+- **clonedContainer**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: clonedContainer
+  - [main.py](./main_py_docs.md): constant: clonedContainer
+- **cloneNode**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: cloneNode
+  - [main.py](./main_py_docs.md): identifier: cloneNode
+- **Close**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Close
+- **cloudflare**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: cloudflare
+  - [main.py](./main_py_docs.md): identifier: cloudflare
+- **cmdline**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: cmdline
+- **CN_DATE_MAPPING**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): constant: CN_DATE_MAPPING
+- **Code**: found in 3 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Code
+  - [readme.md](./readme_md_docs.md): identifier: Code
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Code
+- **code**: found in 10 file(s)
+  - [main.py](./main_py_docs.md): identifier: code
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: code
+  - [readme.md](./readme_md_docs.md): identifier: code
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: code
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: code
+  - ... and 5 more
+- **codebase**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: codebase
+- **coding**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: coding
+- **Collect**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Collect
+- **collect**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: collect
+- **collections**: found in 4 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: collections
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: collections
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: collections
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: collections
+- **color**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: color
+  - [main.py](./main_py_docs.md): identifier: color
+  - [readme.md](./readme_md_docs.md): identifier: color
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: color
+- **Color**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: Color
+- **column**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: column
+  - [main.py](./main_py_docs.md): identifier: column
+- **columns**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: columns
+  - [main.py](./main_py_docs.md): identifier: columns
+- **combination**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: combination
+- **combine**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: combine
+- **combined**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: combined
+- **Command**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Command
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: Command
+- **command**: found in 3 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: command
+  - [readme.md](./readme_md_docs.md): identifier: command
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: command
+- **commands**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: commands
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: commands
+- **comment**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: comment
+- **Commit**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Commit
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: Commit
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Commit
+- **commit**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: commit
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: commit
+- **commitment**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: commitment
+- **common**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: common
+- **communication**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: communication
+- **compare_platforms**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: compare_platforms
+- **compilation**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: compilation
+- **Complete**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Complete
+- **COMPLETE**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: COMPLETE
+- **complete**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: complete
+- **completed**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: completed
+- **Component**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Component
+- **compose**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: compose
+- **comprehensive**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: comprehensive
+- **Comprehensive**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Comprehensive
+- **Compute**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Compute
+- **compute_file_hash**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: compute_file_hash
+- **concerning**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: concerning
+- **concerns**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: concerns
+- **conditioned**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: conditioned
+- **CONDITIONS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: CONDITIONS
+- **conditions**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: conditions
+- **conf**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: conf
+- **confidence**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: confidence
+- **config**: found in 24 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: config
+  - [main.py](./main_py_docs.md): identifier: config
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: config
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: config
+  - [readme.md](./readme_md_docs.md): identifier: config
+  - ... and 19 more
+- **CONFIG**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: CONFIG
+- **CONFIG_PATH**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): constant: CONFIG_PATH
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: CONFIG_PATH
+  - [docker/manage.py](docker/manage_py_docs.md): constant: CONFIG_PATH
+- **ConfigManagementTools**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: ConfigManagementTools
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): class: ConfigManagementTools
+- **configuration**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: configuration
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: configuration
+- **Configuration**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Configuration
+- **CONFIGURATION_ERROR**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): constant: CONFIGURATION_ERROR
+- **ConfigurationError**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): class: ConfigurationError
+- **connect**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: connect
+- **connection**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: connection
+- **Connection**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Connection
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Connection
+- **ConnectionError**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: ConnectionError
+- **ConnectTimeout**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: ConnectTimeout
+- **consequence**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: consequence
+- **CONSEQUENTIAL**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: CONSEQUENTIAL
+- **consider**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: consider
+- **Consolas**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Consolas
+- **console**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: console
+  - [main.py](./main_py_docs.md): identifier: console
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: console
+- **const**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: const
+- **constants**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: constants
+- **construed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: construed
+- **consumer**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: consumer
+- **contact**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: contact
+- **container**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: container
+  - [main.py](./main_py_docs.md): constant: container
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: container
+- **containerRect**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: containerRect
+  - [main.py](./main_py_docs.md): constant: containerRect
+- **containing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: containing
+- **contains**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: contains
+  - [LICENSE](./LICENSE_docs.md): identifier: contains
+- **content**: found in 9 file(s)
+  - [index.html](./index_html_docs.md): identifier: content
+  - [main.py](./main_py_docs.md): identifier: content
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: content
+  - [LICENSE](./LICENSE_docs.md): identifier: content
+  - [readme.md](./readme_md_docs.md): identifier: content
+  - ... and 4 more
+- **Contents**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Contents
+- **contents**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: contents
+- **context**: found in 7 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: context
+  - [LICENSE](./LICENSE_docs.md): identifier: context
+  - [readme.md](./readme_md_docs.md): identifier: context
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: context
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: context
+  - ... and 2 more
+- **Context**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Context
+- **continue**: found in 4 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: continue
+  - [readme.md](./readme_md_docs.md): identifier: continue
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: continue
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: continue
+- **Continue**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Continue
+- **contrast**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: contrast
+- **Control**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Control
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Control
+- **control**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: control
+- **convenient**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: convenient
+- **Convey**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Convey
+- **conveyed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: conveyed
+- **CONVEYS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: CONVEYS
+- **cooccurrence**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: cooccurrence
+- **Copies**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Copies
+- **copy**: found in 4 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: copy
+  - [main.py](./main_py_docs.md): identifier: copy
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: copy
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: copy
+- **COPY**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: COPY
+- **copying**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: copying
+- **COPYRIGHT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: COPYRIGHT
+- **copyrightable**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: copyrightable
+- **core**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: core
+- **CORRECTION**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: CORRECTION
+- **Corresponding**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Corresponding
+- **COST**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: COST
+- **Could**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Could
+- **count**: found in 6 file(s)
+  - [index.html](./index_html_docs.md): identifier: count
+  - [main.py](./main_py_docs.md): identifier: count
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: count
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: count
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: count
+  - ... and 1 more
+- **count_word_frequency**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: count_word_frequency
+- **count_words**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: count_words
+- **Counter**: found in 3 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Counter
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: Counter
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: Counter
+- **counts**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: counts
+- **court**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: court
+- **covenant**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: covenant
+- **crawl**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: crawl
+- **CRAWL_TASK_ERROR**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): constant: CRAWL_TASK_ERROR
+- **crawl_websites**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: crawl_websites
+- **crawler**: found in 8 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: crawler
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: crawler
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: crawler
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: crawler
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: crawler
+  - ... and 3 more
+- **Crawler**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Crawler
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Crawler
+- **CrawlTaskError**: found in 2 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: CrawlTaskError
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): class: CrawlTaskError
+- **Create**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Create
+- **Created**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Created
+- **created**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: created
+- **createElement**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: createElement
+  - [main.py](./main_py_docs.md): identifier: createElement
+- **criterion**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: criterion
+- **CRLF**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: CRLF
+- **cron**: found in 7 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: cron
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: cron
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: cron
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: cron
+  - [docker/.env](docker/_env_docs.md): identifier: cron
+  - ... and 2 more
+- **CRON_SCHEDULE**: found in 6 file(s)
+  - [readme.md](./readme_md_docs.md): constant: CRON_SCHEDULE
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: CRON_SCHEDULE
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: CRON_SCHEDULE
+  - [docker/.env](docker/_env_docs.md): constant: CRON_SCHEDULE
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): constant: CRON_SCHEDULE
+  - ... and 1 more
+- **crontab**: found in 2 file(s)
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: crontab
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: crontab
+- **crossorigin**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: crossorigin
+  - [main.py](./main_py_docs.md): identifier: crossorigin
+- **cssText**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: cssText
+- **ctime**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: ctime
+- **Ctrl**: found in 3 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: Ctrl
+  - [start-http.sh](./start-http_sh_docs.md): identifier: Ctrl
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: Ctrl
+- **curl**: found in 3 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: curl
+  - [readme.md](./readme_md_docs.md): identifier: curl
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: curl
+- **current**: found in 8 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: current
+  - [main.py](./main_py_docs.md): identifier: current
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: current
+  - [readme.md](./readme_md_docs.md): identifier: current
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: current
+  - ... and 3 more
+- **Current**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Current
+- **currentSegment**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: currentSegment
+  - [main.py](./main_py_docs.md): variable: currentSegment
+- **cursor**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: cursor
+  - [main.py](./main_py_docs.md): identifier: cursor
+  - [readme.md](./readme_md_docs.md): identifier: cursor
+- **Cursor**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Cursor
+- **custom**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: custom
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: custom
+
+## D
+
+- **daily**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: daily
+  - [readme.md](./readme_md_docs.md): identifier: daily
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: daily
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: daily
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: daily
+  - ... and 2 more
+- **DAMAGES**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: DAMAGES
+- **danger**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: danger
+- **DATA**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: DATA
+- **data**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: data
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: data
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: data
+- **DATA_NOT_FOUND**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): constant: DATA_NOT_FOUND
+- **DataFetcher**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): class: DataFetcher
+- **DataNotFoundError**: found in 5 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: DataNotFoundError
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: DataNotFoundError
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): class: DataNotFoundError
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: DataNotFoundError
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: DataNotFoundError
+- **DataQueryTools**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: DataQueryTools
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): class: DataQueryTools
+- **DataService**: found in 7 file(s)
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: DataService
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: DataService
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: DataService
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: DataService
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: DataService
+  - ... and 2 more
+- **Date**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: Date
+  - [main.py](./main_py_docs.md): identifier: Date
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Date
+  - [readme.md](./readme_md_docs.md): identifier: Date
+- **date**: found in 9 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: date
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: date
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: date
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: date
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: date
+  - ... and 4 more
+- **DateParser**: found in 2 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: DateParser
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): class: DateParser
+- **dates**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: dates
+- **datetime**: found in 8 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: datetime
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: datetime
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: datetime
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: datetime
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: datetime
+  - ... and 3 more
+- **days**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: days
+  - [LICENSE](./LICENSE_docs.md): identifier: days
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: days
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: days
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: days
+  - ... and 2 more
+- **dc2626**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: dc2626
+- **decide**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: decide
+- **decode**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: decode
+- **decoration**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: decoration
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: decoration
+- **deemed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: deemed
+- **deepmind**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: deepmind
+- **DeepSeek**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: DeepSeek
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: DeepSeek
+- **default**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: default
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: default
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: default
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: default
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: default
+  - ... and 2 more
+- **DEFAULT_PROXY**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: DEFAULT_PROXY
+- **defaultdict**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: defaultdict
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: defaultdict
+- **DEFECTIVE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: DEFECTIVE
+- **defenses**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: defenses
+- **defined**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: defined
+  - [LICENSE](./LICENSE_docs.md): identifier: defined
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: defined
+- **definition**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: definition
+- **definitions**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): class: definitions
+- **delay**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: delay
+- **DELETE**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: DELETE
+- **delete**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): function: delete
+- **denied**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: denied
+- **denominated**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: denominated
+- **dependencies**: found in 3 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: dependencies
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: dependencies
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: dependencies
+- **dependency**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: dependency
+- **Dependency**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Dependency
+- **description**: found in 10 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: description
+  - [main.py](./main_py_docs.md): identifier: description
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: description
+  - [readme.md](./readme_md_docs.md): identifier: description
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: description
+  - ... and 5 more
+- **descriptions**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: descriptions
+- **designed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: designed
+- **Desktop**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Desktop
+- **detail**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: detail
+  - [LICENSE](./LICENSE_docs.md): identifier: detail
+- **details**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: details
+  - [readme.md](./readme_md_docs.md): identifier: details
+- **detect_latest_new_titles**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: detect_latest_new_titles
+- **detect_viral_topics**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: detect_viral_topics
+- **detected**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: detected
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: detected
+- **Determine**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Determine
+- **determining**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: determining
+- **developer**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: developer
+- **Developers**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Developers
+- **developers**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: developers
+- **device**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: device
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: device
+- **Dict**: found in 10 file(s)
+  - [main.py](./main_py_docs.md): identifier: Dict
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Dict
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: Dict
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: Dict
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Dict
+  - ... and 5 more
+- **dict**: found in 10 file(s)
+  - [main.py](./main_py_docs.md): identifier: dict
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: dict
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: dict
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: dict
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: dict
+  - ... and 5 more
+- **diff**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: diff
+- **differ**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: differ
+- **differently**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: differently
+- **difflib**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: difflib
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: difflib
+- **dingtalk**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: dingtalk
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: dingtalk
+- **DINGTALK_BATCH_SIZE**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: DINGTALK_BATCH_SIZE
+- **DINGTALK_WEBHOOK_URL**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): constant: DINGTALK_WEBHOOK_URL
+  - [readme.md](./readme_md_docs.md): constant: DINGTALK_WEBHOOK_URL
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: DINGTALK_WEBHOOK_URL
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: DINGTALK_WEBHOOK_URL
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: DINGTALK_WEBHOOK_URL
+  - ... and 2 more
+- **direction**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: direction
+- **directly**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: directly
+- **directories**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: directories
+- **Directory**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Directory
+- **directory**: found in 8 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: directory
+  - [main.py](./main_py_docs.md): identifier: directory
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: directory
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: directory
+  - [readme.md](./readme_md_docs.md): identifier: directory
+  - ... and 3 more
+- **dirname**: found in 2 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: dirname
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: dirname
+- **disabled**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: disabled
+  - [main.py](./main_py_docs.md): identifier: disabled
+  - [readme.md](./readme_md_docs.md): identifier: disabled
+- **disclaim**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: disclaim
+- **Disclaimer**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Disclaimer
+- **display**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: display
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: display
+- **dist**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: dist
+- **distinguishing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: distinguishing
+- **distribute**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: distribute
+- **distributed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: distributed
+- **DJI**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): constant: DJI
+- **Docker**: found in 7 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Docker
+  - [readme.md](./readme_md_docs.md): identifier: Docker
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Docker
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: Docker
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: Docker
+  - ... and 2 more
+- **docker**: found in 6 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: docker
+  - [.dockerignore](./_dockerignore_docs.md): identifier: docker
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: docker
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: docker
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: docker
+  - ... and 1 more
+- **DOCKER_CONTAINER**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: DOCKER_CONTAINER
+- **Dockerfile**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Dockerfile
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Dockerfile
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: Dockerfile
+- **dockerfile**: found in 1 file(s)
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: dockerfile
+- **DOCKERHUB_TOKEN**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): constant: DOCKERHUB_TOKEN
+- **DOCKERHUB_USERNAME**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): constant: DOCKERHUB_USERNAME
+- **dockerignore**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: dockerignore
+- **docs**: found in 5 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: docs
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: docs
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: docs
+  - [readme.md](./readme_md_docs.md): identifier: docs
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: docs
+- **Docs**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Docs
+- **docstrings**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: docstrings
+- **DOCTYPE**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): constant: DOCTYPE
+  - [main.py](./main_py_docs.md): constant: DOCTYPE
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): constant: DOCTYPE
+- **document**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: document
+  - [main.py](./main_py_docs.md): identifier: document
+  - [LICENSE](./LICENSE_docs.md): identifier: document
+  - [readme.md](./readme_md_docs.md): identifier: document
+- **Document**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Document
+- **Documentation**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Documentation
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Documentation
+- **documentation**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: documentation
+- **docx**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: docx
+- **domain**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: domain
+- **domains**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: domains
+- **DOMContentLoaded**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: DOMContentLoaded
+- **done**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: done
+- **DOTALL**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: DOTALL
+- **Dots**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Dots
+- **douyin**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: douyin
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: douyin
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: douyin
+- **down**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: down
+- **download**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: download
+  - [main.py](./main_py_docs.md): identifier: download
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: download
+- **Download**: found in 4 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Download
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Download
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Download
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: Download
+- **Downloading**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: Downloading
+- **downloads**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: downloads
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: downloads
+- **driver**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: driver
+- **Droid**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Droid
+- **droid**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: droid
+- **dropdown**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: dropdown
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: dropdown
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: dropdown
+- **dump**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: dump
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: dump
+- **dumps**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: dumps
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: dumps
+- **dwelling**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: dwelling
+- **dylib**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: dylib
+- **dynamically**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: dynamically
+
+## E
+
+- **e0f2f1**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: e0f2f1
+- **e1bee7**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: e1bee7
+- **e3f2fd**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: e3f2fd
+- **e5e7eb**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: e5e7eb
+- **e8631edc1775000d119b70fd40339a7238eece14**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: e8631edc1775000d119b70fd40339a7238eece14
+- **e8f5e9**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: e8f5e9
+- **ea580c**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: ea580c
+  - [main.py](./main_py_docs.md): identifier: ea580c
+- **Each**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Each
+- **earlier**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: earlier
+- **earliest**: found in 3 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: earliest
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: earliest
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: earliest
+- **ease**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: ease
+- **Eason**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Eason
+- **echo**: found in 8 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: echo
+  - [start-http.sh](./start-http_sh_docs.md): identifier: echo
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: echo
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: echo
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: echo
+  - ... and 3 more
+- **editorconfig**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: editorconfig
+- **effective**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: effective
+- **effectively**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: effectively
+- **efforts**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: efforts
+- **ehlo**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: ehlo
+- **EITHER**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: EITHER
+- **either**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: either
+- **electronic**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: electronic
+- **element**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: element
+  - [main.py](./main_py_docs.md): constant: element
+- **elements**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: elements
+  - [main.py](./main_py_docs.md): constant: elements
+- **elif**: found in 8 file(s)
+  - [main.py](./main_py_docs.md): identifier: elif
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: elif
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: elif
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: elif
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: elif
+  - ... and 3 more
+- **else**: found in 15 file(s)
+  - [index.html](./index_html_docs.md): identifier: else
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: else
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: else
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: else
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: else
+  - ... and 10 more
+- **Email**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Email
+- **email**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: email
+- **EMAIL_FROM**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: EMAIL_FROM
+  - [readme.md](./readme_md_docs.md): constant: EMAIL_FROM
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: EMAIL_FROM
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: EMAIL_FROM
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: EMAIL_FROM
+  - ... and 1 more
+- **EMAIL_PASSWORD**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: EMAIL_PASSWORD
+  - [readme.md](./readme_md_docs.md): constant: EMAIL_PASSWORD
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: EMAIL_PASSWORD
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: EMAIL_PASSWORD
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: EMAIL_PASSWORD
+  - ... and 1 more
+- **EMAIL_SMTP_PORT**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: EMAIL_SMTP_PORT
+  - [readme.md](./readme_md_docs.md): constant: EMAIL_SMTP_PORT
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: EMAIL_SMTP_PORT
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: EMAIL_SMTP_PORT
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: EMAIL_SMTP_PORT
+  - ... and 1 more
+- **EMAIL_SMTP_SERVER**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: EMAIL_SMTP_SERVER
+  - [readme.md](./readme_md_docs.md): constant: EMAIL_SMTP_SERVER
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: EMAIL_SMTP_SERVER
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: EMAIL_SMTP_SERVER
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: EMAIL_SMTP_SERVER
+  - ... and 1 more
+- **EMAIL_TO**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: EMAIL_TO
+  - [readme.md](./readme_md_docs.md): constant: EMAIL_TO
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: EMAIL_TO
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: EMAIL_TO
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: EMAIL_TO
+  - ... and 1 more
+- **embodied**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: embodied
+- **EN_DATE_MAPPING**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): constant: EN_DATE_MAPPING
+- **enable**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: enable
+- **ENABLE_CRAWLER**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): constant: ENABLE_CRAWLER
+  - [readme.md](./readme_md_docs.md): constant: ENABLE_CRAWLER
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: ENABLE_CRAWLER
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: ENABLE_CRAWLER
+  - [docker/.env](docker/_env_docs.md): constant: ENABLE_CRAWLER
+- **ENABLE_NOTIFICATION**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): constant: ENABLE_NOTIFICATION
+  - [readme.md](./readme_md_docs.md): constant: ENABLE_NOTIFICATION
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: ENABLE_NOTIFICATION
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: ENABLE_NOTIFICATION
+  - [docker/.env](docker/_env_docs.md): constant: ENABLE_NOTIFICATION
+- **ENABLED**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: ENABLED
+- **enabled**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: enabled
+  - [readme.md](./readme_md_docs.md): identifier: enabled
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: enabled
+- **enabledelayedexpansion**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: enabledelayedexpansion
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: enabledelayedexpansion
+- **enables**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: enables
+- **encode**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: encode
+- **encoding**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: encoding
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: encoding
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: encoding
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: encoding
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: encoding
+- **encountered**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: encountered
+- **encryption**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: encryption
+- **END**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: END
+  - [LICENSE](./LICENSE_docs.md): constant: END
+- **endswith**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: endswith
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: endswith
+- **enhancement**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: enhancement
+- **ensure_directory_exists**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): function: ensure_directory_exists
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): function: ensure_directory_exists
+- **ensure_record_dir**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: ensure_record_dir
+- **entered**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: entered
+- **ENTIRE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ENTIRE
+- **entirely**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: entirely
+- **entity**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: entity
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: entity
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: entity
+- **entry**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: entry
+- **ENTRYPOINT**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: ENTRYPOINT
+- **entrypoint**: found in 2 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: entrypoint
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: entrypoint
+- **enum**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: enum
+- **enumerate**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: enumerate
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: enumerate
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: enumerate
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: enumerate
+- **ENV**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: ENV
+- **environ**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: environ
+- **environment**: found in 5 file(s)
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: environment
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: environment
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: environment
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: environment
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: environment
+- **epilog**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: epilog
+- **errcode**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: errcode
+- **errmsg**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: errmsg
+- **error**: found in 11 file(s)
+  - [index.html](./index_html_docs.md): identifier: error
+  - [main.py](./main_py_docs.md): identifier: error
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: error
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: error
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: error
+  - ... and 6 more
+- **ERROR**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: ERROR
+- **Error**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Error
+- **errorlevel**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: errorlevel
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: errorlevel
+- **errors**: found in 10 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: errors
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: errors
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: errors
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: errors
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: errors
+  - ... and 5 more
+- **Errors**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Errors
+- **errorSection**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: errorSection
+- **esac**: found in 2 file(s)
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: esac
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: esac
+- **essential**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: essential
+- **Estimate**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Estimate
+- **estimated**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: estimated
+- **EVEN**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: EVEN
+- **event**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: event
+  - [main.py](./main_py_docs.md): identifier: event
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: event
+- **EVENT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: EVENT
+- **every**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: every
+- **Everyone**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Everyone
+- **exact**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: exact
+- **example**: found in 4 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: example
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: example
+  - [readme.md](./readme_md_docs.md): identifier: example
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: example
+- **Example**: found in 5 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Example
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: Example
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Example
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Example
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: Example
+- **examples**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: examples
+- **Examples**: found in 6 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: Examples
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Examples
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: Examples
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: Examples
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: Examples
+  - ... and 1 more
+- **except**: found in 12 file(s)
+  - [main.py](./main_py_docs.md): identifier: except
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: except
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: except
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: except
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: except
+  - ... and 7 more
+- **EXCEPT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: EXCEPT
+- **Exception**: found in 12 file(s)
+  - [main.py](./main_py_docs.md): identifier: Exception
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Exception
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: Exception
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Exception
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Exception
+  - ... and 7 more
+- **exceptions**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: exceptions
+  - [LICENSE](./LICENSE_docs.md): identifier: exceptions
+- **excluding**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: excluding
+- **exclusive**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: exclusive
+- **exclusively**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: exclusively
+- **exec**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: exec
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: exec
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: exec
+- **executable**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: executable
+- **executing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: executing
+- **execution**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: execution
+- **ExecutionPolicy**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: ExecutionPolicy
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: ExecutionPolicy
+- **exist**: found in 3 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: exist
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: exist
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: exist
+- **existing**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: existing
+- **exists**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: exists
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: exists
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: exists
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: exists
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: exists
+  - ... and 1 more
+- **exit**: found in 8 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: exit
+  - [start-http.sh](./start-http_sh_docs.md): identifier: exit
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: exit
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: exit
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: exit
+  - ... and 3 more
+- **expected**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: expected
+- **experimental**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: experimental
+- **explains**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: explains
+- **export**: found in 2 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: export
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: export
+- **EXPRESSED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: EXPRESSED
+- **extend**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: extend
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: extend
+  - [LICENSE](./LICENSE_docs.md): identifier: extend
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: extend
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: extend
+  - ... and 2 more
+- **EXTENT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: EXTENT
+- **extent**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: extent
+- **External**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: External
+- **Extract**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Extract
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Extract
+- **extract_keywords**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: extract_keywords
+- **extracted**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: extracted
+
+## F
+
+- **f0f0f0**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: f0f0f0
+  - [main.py](./main_py_docs.md): identifier: f0f0f0
+- **f3e5f5**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: f3e5f5
+- **f5f5f5**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: f5f5f5
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: f5f5f5
+- **f8f9fa**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: f8f9fa
+  - [main.py](./main_py_docs.md): identifier: f8f9fa
+- **f9f9f9**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: f9f9f9
+- **fafafa**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: fafafa
+- **fail**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: fail
+- **failed**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: failed
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: failed
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: failed
+- **FAILURE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: FAILURE
+- **fair**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: fair
+- **family**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: family
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: family
+- **FAQ**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: FAQ
+- **fastmcp**: found in 3 file(s)
+  - [requirements.txt](./requirements_txt_docs.md): identifier: fastmcp
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: fastmcp
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: fastmcp
+- **FastMCP**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: FastMCP
+- **fce4ec**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: fce4ec
+- **fe4947**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: fe4947
+- **feature**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: feature
+- **fecaca**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: fecaca
+- **fef2f2**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: fef2f2
+- **feishu**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: feishu
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: feishu
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: feishu
+- **FEISHU_BATCH_SIZE**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: FEISHU_BATCH_SIZE
+- **FEISHU_MESSAGE_SEPARATOR**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: FEISHU_MESSAGE_SEPARATOR
+- **FEISHU_SHOW_VERSION_UPDATE**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: FEISHU_SHOW_VERSION_UPDATE
+- **FEISHU_WEBHOOK_URL**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): constant: FEISHU_WEBHOOK_URL
+  - [readme.md](./readme_md_docs.md): constant: FEISHU_WEBHOOK_URL
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: FEISHU_WEBHOOK_URL
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: FEISHU_WEBHOOK_URL
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: FEISHU_WEBHOOK_URL
+  - ... and 2 more
+- **fetch_data**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: fetch_data
+- **FF6B6B**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: FF6B6B
+- **ffebee**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: ffebee
+- **fff3e0**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: fff3e0
+- **fff9c4**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: fff9c4
+- **ffffff**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: ffffff
+  - [main.py](./main_py_docs.md): identifier: ffffff
+- **file**: found in 4 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: file
+  - [readme.md](./readme_md_docs.md): identifier: file
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: file
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: file
+- **File**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: File
+- **FILE_PARSE_ERROR**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): constant: FILE_PARSE_ERROR
+- **filename**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: filename
+  - [main.py](./main_py_docs.md): constant: filename
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: filename
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: filename
+- **FileNotFoundError**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: FileNotFoundError
+- **FileParseError**: found in 3 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): class: FileParseError
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: FileParseError
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: FileParseError
+- **filepath**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: filepath
+- **Files**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Files
+- **files**: found in 5 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: files
+  - [readme.md](./readme_md_docs.md): identifier: files
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: files
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: files
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: files
+- **fill**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: fill
+- **filter**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: filter
+- **Filter**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Filter
+- **filtered**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: filtered
+  - [docker/.env](docker/_env_docs.md): identifier: filtered
+- **FINAL**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: FINAL
+- **Final**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Final
+- **finally**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: finally
+- **find**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: find
+- **Find**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Find
+  - [readme.md](./readme_md_docs.md): identifier: Find
+- **find_similar_news**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: find_similar_news
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: find_similar_news
+- **findall**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: findall
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: findall
+- **finditer**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: finditer
+- **findstr**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: findstr
+- **first**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: first
+  - [main.py](./main_py_docs.md): identifier: first
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: first
+  - [LICENSE](./LICENSE_docs.md): identifier: first
+- **fish**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: fish
+- **FITNESS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: FITNESS
+- **fixed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: fixed
+- **flat**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: flat
+- **flex**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: flex
+  - [main.py](./main_py_docs.md): identifier: flex
+- **float**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: float
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: float
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: float
+- **flow**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: flow
+- **flowchart**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: flowchart
+- **FOCUS_NEW_ONLY**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: FOCUS_NEW_ONLY
+- **folder**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: folder
+- **folders**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: folders
+- **follow**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: follow
+- **font**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: font
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: font
+- **footer**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: footer
+  - [main.py](./main_py_docs.md): constant: footer
+- **footerRect**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: footerRect
+  - [main.py](./main_py_docs.md): constant: footerRect
+- **FOR**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: FOR
+- **for**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): variable: for
+- **force**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: force
+- **forEach**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: forEach
+  - [main.py](./main_py_docs.md): identifier: forEach
+- **foreignObjectRendering**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: foreignObjectRendering
+  - [main.py](./main_py_docs.md): identifier: foreignObjectRendering
+- **fork**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: fork
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: fork
+- **Fork**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Fork
+- **forks**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: forks
+- **Forks**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Forks
+- **format**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: format
+  - [LICENSE](./LICENSE_docs.md): identifier: format
+- **format_date_folder**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): function: format_date_folder
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): function: format_date_folder
+- **format_rank_display**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: format_rank_display
+- **format_time_display**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: format_time_display
+- **format_time_filename**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: format_time_filename
+- **format_title_for_platform**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: format_title_for_platform
+- **formataddr**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: formataddr
+- **formatdate**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: formatdate
+- **Forms**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Forms
+- **forms**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: forms
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: forms
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: forms
+- **found**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: found
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: found
+- **Free**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Free
+- **freedom**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: freedom
+- **frequency**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: frequency
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: frequency
+- **FREQUENCY_WEIGHT**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: FREQUENCY_WEIGHT
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): constant: FREQUENCY_WEIGHT
+- **FREQUENCY_WORDS_PATH**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): constant: FREQUENCY_WORDS_PATH
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: FREQUENCY_WORDS_PATH
+  - [docker/manage.py](docker/manage_py_docs.md): constant: FREQUENCY_WORDS_PATH
+- **friday**: found in 2 file(s)
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: friday
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: friday
+- **FROM**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: FROM
+- **fromtimestamp**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: fromtimestamp
+- **full**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: full
+  - [LICENSE](./LICENSE_docs.md): identifier: full
+- **Full**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Full
+- **func**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: func
+- **function**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: function
+  - [main.py](./main_py_docs.md): identifier: function
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: function
+- **Function**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Function
+- **functions**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: functions
+- **Functions**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Functions
+- **fundamentally**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: fundamentally
+- **further**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: further
+- **fuzzy**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: fuzzy
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: fuzzy
+
+## G
+
+- **Gecko**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Gecko
+- **gemini**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: gemini
+- **GENERAL**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: GENERAL
+- **generally**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: generally
+- **generate**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: generate
+- **Generate**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Generate
+- **generate_comprehensive_book**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_comprehensive_book
+- **generate_file_docs**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_file_docs
+- **generate_file_keywords**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_file_keywords
+- **generate_folder_docs**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_folder_docs
+- **generate_global_index**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_global_index
+- **generate_global_keywords**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_global_keywords
+- **generate_html_report**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: generate_html_report
+- **generate_manifest**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_manifest
+- **generate_readme**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_readme
+- **generate_summary_report**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: generate_summary_report
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: generate_summary_report
+- **generate_verification_report**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: generate_verification_report
+- **Generated**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Generated
+- **generated**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: generated
+- **Generating**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Generating
+- **generating**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: generating
+- **GENERATION**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: GENERATION
+- **generation**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: generation
+- **GENERATOR**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: GENERATOR
+  - [docs/.progress.log](docs/_progress_log_docs.md): constant: GENERATOR
+- **Generator**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Generator
+- **generator**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: generator
+- **Generic**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Generic
+- **get**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): function: get
+- **get_available_date_range**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: get_available_date_range
+- **get_beijing_time**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: get_beijing_time
+- **get_cache**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): function: get_cache
+- **get_current_config**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: get_current_config
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): function: get_current_config
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: get_current_config
+- **get_date_folder_name**: found in 1 file(s)
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): function: get_date_folder_name
+- **get_git_metadata**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: get_git_metadata
+- **get_latest_news**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: get_latest_news
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): function: get_latest_news
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: get_latest_news
+- **get_news_by_date**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: get_news_by_date
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): function: get_news_by_date
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: get_news_by_date
+- **get_output_path**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: get_output_path
+- **get_platform_activity_stats**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: get_platform_activity_stats
+- **get_stats**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): function: get_stats
+- **get_supported_platforms**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: get_supported_platforms
+- **get_system_status**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: get_system_status
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): function: get_system_status
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: get_system_status
+- **get_today_record_file**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: get_today_record_file
+- **get_topic_trend_analysis**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: get_topic_trend_analysis
+- **get_trending_topics**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: get_trending_topics
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): function: get_trending_topics
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: get_trending_topics
+- **getBoundingClientRect**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: getBoundingClientRect
+  - [main.py](./main_py_docs.md): identifier: getBoundingClientRect
+- **getDate**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: getDate
+  - [main.py](./main_py_docs.md): identifier: getDate
+- **getFullYear**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: getFullYear
+  - [main.py](./main_py_docs.md): identifier: getFullYear
+- **getHours**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: getHours
+  - [main.py](./main_py_docs.md): identifier: getHours
+- **getMinutes**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: getMinutes
+- **getMonth**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: getMonth
+  - [main.py](./main_py_docs.md): identifier: getMonth
+- **getting**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: getting
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: getting
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: getting
+- **getUpdates**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: getUpdates
+- **gitattributes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: gitattributes
+- **GitHub**: found in 8 file(s)
+  - [index.html](./index_html_docs.md): identifier: GitHub
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: GitHub
+  - [readme.md](./readme_md_docs.md): identifier: GitHub
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: GitHub
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: GitHub
+  - ... and 3 more
+- **github**: found in 12 file(s)
+  - [index.html](./index_html_docs.md): identifier: github
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: github
+  - [main.py](./main_py_docs.md): identifier: github
+  - [readme.md](./readme_md_docs.md): identifier: github
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: github
+  - ... and 7 more
+- **Github**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Github
+- **GITHUB_ACTIONS**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: GITHUB_ACTIONS
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: GITHUB_ACTIONS
+- **githubusercontent**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: githubusercontent
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: githubusercontent
+- **gitignore**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: gitignore
+  - [.dockerignore](./_dockerignore_docs.md): identifier: gitignore
+- **give**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: give
+- **gives**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: gives
+- **glob**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: glob
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: glob
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: glob
+- **global**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: global
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: global
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): identifier: global
+- **Global**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Global
+- **Gmail**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Gmail
+  - [readme.md](./readme_md_docs.md): identifier: Gmail
+- **gmail**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: gmail
+  - [readme.md](./readme_md_docs.md): identifier: gmail
+- **GNU**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: GNU
+- **google**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: google
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: google
+- **Google**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Google
+- **GPL**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: GPL
+  - [readme.md](./readme_md_docs.md): constant: GPL
+- **GPLv2**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: GPLv2
+- **gradient**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: gradient
+  - [main.py](./main_py_docs.md): identifier: gradient
+- **grant**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: grant
+- **grants**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: grants
+- **granularity**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: granularity
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: granularity
+- **graphql**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: graphql
+- **gratis**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: gratis
+- **green**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: green
+  - [readme.md](./readme_md_docs.md): identifier: green
+- **GREEN**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: GREEN
+- **grep**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: grep
+- **grid**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: grid
+- **group**: found in 6 file(s)
+  - [index.html](./index_html_docs.md): identifier: group
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: group
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: group
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: group
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: group
+  - ... and 1 more
+- **Group**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Group
+- **groupNewsItems**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: groupNewsItems
+- **groupRect**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: groupRect
+  - [main.py](./main_py_docs.md): constant: groupRect
+- **groups**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: groups
+- **gU33kqBtgNS4tSPHuGibyoeqMV**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: gU33kqBtgNS4tSPHuGibyoeqMV
+  - [main.py](./main_py_docs.md): identifier: gU33kqBtgNS4tSPHuGibyoeqMV
+- **guarantee**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: guarantee
+- **GUI**: found in 4 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): constant: GUI
+  - [LICENSE](./LICENSE_docs.md): constant: GUI
+  - [readme.md](./readme_md_docs.md): constant: GUI
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): constant: GUI
+- **guidance**: found in 1 file(s)
+  - [AGENTS.md](./AGENTS_md_docs.md): identifier: guidance
+
+## H
+
+- **HarmonyOS**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: HarmonyOS
+- **HAS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: HAS
+- **has_pushed_today**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: has_pushed_today
+- **Hash**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Hash
+- **hash**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: hash
+- **hashlib**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: hashlib
+- **hatch**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: hatch
+- **hatchling**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: hatchling
+- **Having**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Having
+- **head**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: head
+  - [main.py](./main_py_docs.md): identifier: head
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: head
+- **HEAD**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: HEAD
+- **header**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: header
+  - [main.py](./main_py_docs.md): constant: header
+- **Header**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Header
+- **headerHeight**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: headerHeight
+  - [main.py](./main_py_docs.md): variable: headerHeight
+- **headerRect**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: headerRect
+  - [main.py](./main_py_docs.md): constant: headerRect
+- **headers**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: headers
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: headers
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: headers
+- **heads**: found in 3 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: heads
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: heads
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: heads
+- **health**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: health
+- **healthy**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: healthy
+- **heckel**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: heckel
+- **height**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: height
+  - [main.py](./main_py_docs.md): identifier: height
+  - [readme.md](./readme_md_docs.md): identifier: height
+- **hellogithub**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: hellogithub
+- **help**: found in 4 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: help
+  - [readme.md](./readme_md_docs.md): identifier: help
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: help
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: help
+- **helper**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: helper
+- **here**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: here
+- **hexdigest**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: hexdigest
+- **HHMM**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): constant: HHMM
+- **hidden**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: hidden
+  - [main.py](./main_py_docs.md): identifier: hidden
+- **high**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: high
+  - [main.py](./main_py_docs.md): identifier: high
+- **High**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: High
+- **history**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: history
+- **History**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: History
+- **HOLDER**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: HOLDER
+- **HOLDERS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: HOLDERS
+- **HOME**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: HOME
+- **home**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: home
+- **hope**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: hope
+- **host**: found in 4 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: host
+  - [start-http.sh](./start-http_sh_docs.md): identifier: host
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: host
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: host
+- **hosts**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: hosts
+- **hotmail**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: hotmail
+- **Hotmail**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Hotmail
+- **HOTNESS_WEIGHT**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: HOTNESS_WEIGHT
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): constant: HOTNESS_WEIGHT
+- **hottopic**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: hottopic
+- **hour**: found in 2 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: hour
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: hour
+- **hover**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: hover
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: hover
+- **however**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: however
+- **href**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: href
+  - [main.py](./main_py_docs.md): identifier: href
+  - [readme.md](./readme_md_docs.md): identifier: href
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: href
+- **html**: found in 8 file(s)
+  - [index.html](./index_html_docs.md): identifier: html
+  - [main.py](./main_py_docs.md): identifier: html
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: html
+  - [LICENSE](./LICENSE_docs.md): identifier: html
+  - [readme.md](./readme_md_docs.md): identifier: html
+  - ... and 3 more
+- **HTML**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): constant: HTML
+  - [readme.md](./readme_md_docs.md): constant: HTML
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): constant: HTML
+- **html2canvas**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: html2canvas
+  - [main.py](./main_py_docs.md): identifier: html2canvas
+- **html_escape**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: html_escape
+- **HTTP**: found in 7 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): constant: HTTP
+  - [start-http.sh](./start-http_sh_docs.md): constant: HTTP
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): constant: HTTP
+  - [main.py](./main_py_docs.md): constant: HTTP
+  - [readme.md](./readme_md_docs.md): constant: HTTP
+  - ... and 2 more
+- **http**: found in 11 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: http
+  - [start-http.sh](./start-http_sh_docs.md): identifier: http
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: http
+  - [main.py](./main_py_docs.md): identifier: http
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: http
+  - ... and 6 more
+- **https**: found in 18 file(s)
+  - [index.html](./index_html_docs.md): identifier: https
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: https
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: https
+  - [main.py](./main_py_docs.md): identifier: https
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: https
+  - ... and 13 more
+- **hypothetical**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: hypothetical
+
+## I
+
+- **i**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): variable: i
+- **id1625396347**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: id1625396347
+- **idea**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: idea
+  - [LICENSE](./LICENSE_docs.md): identifier: idea
+  - [.dockerignore](./_dockerignore_docs.md): identifier: idea
+- **ideas**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: ideas
+- **idempotent**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: idempotent
+- **ident**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: ident
+- **identifier**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: identifier
+- **identifiers**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: identifiers
+- **ifeng**: found in 1 file(s)
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: ifeng
+- **IGNORECASE**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: IGNORECASE
+- **image**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: image
+  - [main.py](./main_py_docs.md): identifier: image
+  - [readme.md](./readme_md_docs.md): identifier: image
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: image
+- **IMAGE_NAME**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): constant: IMAGE_NAME
+- **images**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: images
+  - [main.py](./main_py_docs.md): constant: images
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: images
+- **Images**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Images
+- **imageTimeout**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: imageTimeout
+  - [main.py](./main_py_docs.md): identifier: imageTimeout
+- **IMAP**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: IMAP
+- **IMMEDIATE_RUN**: found in 6 file(s)
+  - [readme.md](./readme_md_docs.md): constant: IMMEDIATE_RUN
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: IMMEDIATE_RUN
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: IMMEDIATE_RUN
+  - [docker/.env](docker/_env_docs.md): constant: IMMEDIATE_RUN
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): constant: IMMEDIATE_RUN
+  - ... and 1 more
+- **impact**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: impact
+- **implementation**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: implementation
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: implementation
+- **IMPLIED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: IMPLIED
+- **implied**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: implied
+- **IMPORTANT**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: IMPORTANT
+- **imports**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: imports
+- **Imports**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Imports
+- **impose**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: impose
+- **in**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: in
+  - [docker/manage.py](docker/manage_py_docs.md): variable: in
+- **INABILITY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: INABILITY
+- **INACCURATE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: INACCURATE
+- **INCIDENTAL**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: INCIDENTAL
+- **Include**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Include
+- **INCLUDING**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: INCLUDING
+- **Inclusion**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Inclusion
+- **Incompatible**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Incompatible
+- **incorporating**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: incorporating
+- **incorporation**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: incorporation
+- **incremental**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: incremental
+  - [readme.md](./readme_md_docs.md): identifier: incremental
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: incremental
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: incremental
+- **indemnification**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: indemnification
+- **indent**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: indent
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: indent
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: indent
+- **index**: found in 6 file(s)
+  - [index.html](./index_html_docs.md): identifier: index
+  - [main.py](./main_py_docs.md): identifier: index
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: index
+  - [.dockerignore](./_dockerignore_docs.md): identifier: index
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: index
+  - ... and 1 more
+- **Index**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Index
+- **indexes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: indexes
+- **individual**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: individual
+- **individuals**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: individuals
+- **industrial**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: industrial
+- **info**: found in 8 file(s)
+  - [index.html](./index_html_docs.md): identifier: info
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: info
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: info
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: info
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: info
+  - ... and 3 more
+- **inform**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: inform
+- **infringe**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: infringe
+- **inherits**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: inherits
+- **initial**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: initial
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: initial
+- **injection**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: injection
+- **inline**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: inline
+- **innerHeight**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: innerHeight
+  - [main.py](./main_py_docs.md): identifier: innerHeight
+- **innerWidth**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: innerWidth
+- **inspect**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: inspect
+- **Inspector**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Inspector
+- **inspector**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: inspector
+- **install**: found in 7 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: install
+  - [LICENSE](./LICENSE_docs.md): identifier: install
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: install
+  - [readme.md](./readme_md_docs.md): identifier: install
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: install
+  - ... and 2 more
+- **Install**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Install
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Install
+- **installation**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: installation
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: installation
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: installation
+- **Installation**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Installation
+- **installed**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: installed
+  - [LICENSE](./LICENSE_docs.md): identifier: installed
+- **Installing**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Installing
+- **installing**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: installing
+- **instead**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: instead
+- **intact**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: intact
+- **integrity**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: integrity
+  - [main.py](./main_py_docs.md): identifier: integrity
+- **Integrity**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Integrity
+- **interaction**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: interaction
+- **interchange**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: interchange
+- **interface**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: interface
+- **interfered**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: interfered
+- **INTERNAL_ERROR**: found in 5 file(s)
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): constant: INTERNAL_ERROR
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): constant: INTERNAL_ERROR
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): constant: INTERNAL_ERROR
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): constant: INTERNAL_ERROR
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): constant: INTERNAL_ERROR
+- **intersection**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: intersection
+- **interval**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: interval
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: interval
+- **intimate**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: intimate
+- **into**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: into
+- **INVALID_PARAMETER**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): constant: INVALID_PARAMETER
+- **InvalidParameterError**: found in 5 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: InvalidParameterError
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: InvalidParameterError
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): class: InvalidParameterError
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: InvalidParameterError
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: InvalidParameterError
+- **ipad**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: ipad
+- **iPhone**: found in 5 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: iPhone
+  - [readme.md](./readme_md_docs.md): identifier: iPhone
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: iPhone
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: iPhone
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: iPhone
+- **iphone**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: iphone
+- **irrevocable**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: irrevocable
+- **is_first_crawl_today**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: is_first_crawl_today
+- **is_in_time_range**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: is_in_time_range
+- **is_text_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: is_text_file
+- **isdigit**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: isdigit
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: isdigit
+- **isinstance**: found in 3 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: isinstance
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: isinstance
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: isinstance
+- **isoformat**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: isoformat
+- **issue**: found in 4 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: issue
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: issue
+  - [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config_yml_docs.md): identifier: issue
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: issue
+- **issues**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: issues
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: issues
+  - [readme.md](./readme_md_docs.md): identifier: issues
+- **Issues**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Issues
+- **item**: found in 6 file(s)
+  - [index.html](./index_html_docs.md): identifier: item
+  - [main.py](./main_py_docs.md): identifier: item
+  - [LICENSE](./LICENSE_docs.md): identifier: item
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: item
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: item
+  - ... and 1 more
+- **Item**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Item
+- **items**: found in 9 file(s)
+  - [index.html](./index_html_docs.md): identifier: items
+  - [main.py](./main_py_docs.md): identifier: items
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: items
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: items
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: items
+  - ... and 4 more
+- **iter**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: iter
+- **iterdir**: found in 2 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: iterdir
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: iterdir
+
+## J
+
+- **Jaccard**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Jaccard
+- **java**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: java
+- **jayzqj**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: jayzqj
+- **jobs**: found in 2 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: jobs
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: jobs
+- **join**: found in 5 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: join
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: join
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: join
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: join
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: join
+- **jpeg**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: jpeg
+- **JPG**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: JPG
+- **json**: found in 9 file(s)
+  - [main.py](./main_py_docs.md): identifier: json
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: json
+  - [readme.md](./readme_md_docs.md): identifier: json
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: json
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: json
+  - ... and 4 more
+- **JSON**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: JSON
+  - [readme.md](./readme_md_docs.md): constant: JSON
+- **JSONDecodeError**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: JSONDecodeError
+- **just**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: just
+- **justify**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: justify
+  - [main.py](./main_py_docs.md): identifier: justify
+- **jzn0vLiQFX408opcfpPPxQ**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: jzn0vLiQFX408opcfpPPxQ
+
+## K
+
+- **kangfenmao**: found in 2 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: kangfenmao
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: kangfenmao
+- **keep**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: keep
+  - [LICENSE](./LICENSE_docs.md): identifier: keep
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: keep
+- **KEY**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): constant: KEY
+- **KeyboardInterrupt**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: KeyboardInterrupt
+- **keys**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: keys
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: keys
+  - [LICENSE](./LICENSE_docs.md): identifier: keys
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: keys
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: keys
+  - ... and 1 more
+- **Keys**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Keys
+- **keyword**: found in 7 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: keyword
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: keyword
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: keyword
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: keyword
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: keyword
+  - ... and 2 more
+- **Keyword**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Keyword
+- **keyword1**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: keyword1
+- **keyword2**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: keyword2
+- **keywords**: found in 7 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: keywords
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: keywords
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: keywords
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: keywords
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: keywords
+  - ... and 2 more
+- **Keywords**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Keywords
+- **keywords1**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: keywords1
+- **keywords2**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: keywords2
+- **KHTML**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: KHTML
+- **KIND**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: KIND
+- **kinds**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: kinds
+- **know**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: know
+- **knowingly**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: knowingly
+
+## L
+
+- **label**: found in 5 file(s)
+  - [index.html](./index_html_docs.md): identifier: label
+  - [main.py](./main_py_docs.md): identifier: label
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: label
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: label
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: label
+- **labels**: found in 4 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: labels
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: labels
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: labels
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: labels
+- **lambda**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: lambda
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: lambda
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: lambda
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: lambda
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: lambda
+  - ... and 2 more
+- **Language**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Language
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Language
+- **language**: found in 5 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: language
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: language
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: language
+  - [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config_yml_docs.md): identifier: language
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: language
+- **Large**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Large
+- **last**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: last
+  - [main.py](./main_py_docs.md): identifier: last
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: last
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: last
+- **latest**: found in 11 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: latest
+  - [main.py](./main_py_docs.md): identifier: latest
+  - [readme.md](./readme_md_docs.md): identifier: latest
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: latest
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: latest
+  - ... and 6 more
+- **LAW**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: LAW
+- **lawsuit**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: lawsuit
+- **left**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: left
+  - [main.py](./main_py_docs.md): identifier: left
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: left
+- **legal**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: legal
+- **Legal**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Legal
+- **length**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: length
+- **less**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: less
+- **Lesser**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Lesser
+- **letter**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: letter
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: letter
+- **Level**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Level
+- **level**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: level
+- **lgpl**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: lgpl
+- **Liability**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Liability
+- **LIABLE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: LIABLE
+- **Libraries**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Libraries
+- **Library**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Library
+  - [readme.md](./readme_md_docs.md): identifier: Library
+- **libs**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: libs
+- **LICENSE**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: LICENSE
+  - [readme.md](./readme_md_docs.md): constant: LICENSE
+- **License**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: License
+- **license**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: license
+- **licensed**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: licensed
+- **licensee**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: licensee
+- **licensees**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: licensees
+- **licenses**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: licenses
+- **Licensing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Licensing
+- **lifecycle**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: lifecycle
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: lifecycle
+- **likewise**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: likewise
+- **Limit**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Limit
+- **limit**: found in 7 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: limit
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: limit
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: limit
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: limit
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: limit
+  - ... and 2 more
+- **LIMITED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: LIMITED
+- **Limiting**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Limiting
+- **line**: found in 7 file(s)
+  - [index.html](./index_html_docs.md): identifier: line
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: line
+  - [main.py](./main_py_docs.md): identifier: line
+  - [LICENSE](./LICENSE_docs.md): identifier: line
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: line
+  - ... and 2 more
+- **linear**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: linear
+  - [main.py](./main_py_docs.md): identifier: linear
+- **lines**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: lines
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: lines
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: lines
+- **Lines**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Lines
+- **link**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: link
+  - [main.py](./main_py_docs.md): constant: link
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: link
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: link
+- **links**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: links
+- **Links**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Links
+- **linux**: found in 4 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: linux
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: linux
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: linux
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: linux
+- **Linux**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Linux
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: Linux
+- **LinuxDo**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: LinuxDo
+- **List**: found in 11 file(s)
+  - [main.py](./main_py_docs.md): identifier: List
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: List
+  - [readme.md](./readme_md_docs.md): identifier: List
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: List
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: List
+  - ... and 6 more
+- **list**: found in 7 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: list
+  - [readme.md](./readme_md_docs.md): identifier: list
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: list
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: list
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: list
+  - ... and 2 more
+- **lists**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: lists
+- **load**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: load
+- **load_config**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: load_config
+- **load_frequency_words**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: load_frequency_words
+- **loads**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: loads
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: loads
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: loads
+- **local**: found in 4 file(s)
+  - [.dockerignore](./_dockerignore_docs.md): identifier: local
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: local
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: local
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: local
+- **localhost**: found in 5 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: localhost
+  - [start-http.sh](./start-http_sh_docs.md): identifier: localhost
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: localhost
+  - [readme.md](./readme_md_docs.md): identifier: localhost
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: localhost
+- **localize**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: localize
+- **localtime**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: localtime
+- **location**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: location
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: location
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: location
+- **locations**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: locations
+- **Lock**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): identifier: Lock
+- **log_progress**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: log_progress
+- **logging**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: logging
+- **login**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: login
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: login
+- **Login**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Login
+- **logo**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: logo
+- **logoColor**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: logoColor
+- **logs**: found in 4 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: logs
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: logs
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: logs
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: logs
+- **loops**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: loops
+- **LOSS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: LOSS
+- **LOSSES**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: LOSSES
+- **lower**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: lower
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: lower
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: lower
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: lower
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: lower
+  - ... and 2 more
+- **lsof**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: lsof
+- **LsSf**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: LsSf
+
+## M
+
+- **machine**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: machine
+- **macOS**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: macOS
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: macOS
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: macOS
+- **mail**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: mail
+- **main**: found in 9 file(s)
+  - [main.py](./main_py_docs.md): function: main
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: main
+  - [readme.md](./readme_md_docs.md): identifier: main
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: main
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: main
+  - ... and 4 more
+- **Main**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Main
+- **maintain**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: maintain
+- **major**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: major
+- **manage**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: manage
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: manage
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: manage
+- **manifest**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: manifest
+- **manual_run**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: manual_run
+- **manually**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: manually
+- **margin**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: margin
+  - [main.py](./main_py_docs.md): identifier: margin
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: margin
+- **markdown**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: markdown
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: markdown
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: markdown
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: markdown
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: markdown
+  - ... and 1 more
+- **Markdown**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Markdown
+- **marked**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: marked
+- **marks**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: marks
+- **masks**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: masks
+- **master**: found in 4 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: master
+  - [readme.md](./readme_md_docs.md): identifier: master
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: master
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: master
+- **match**: found in 4 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: match
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: match
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: match
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: match
+- **matches**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: matches
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: matches
+- **matches_word_groups**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: matches_word_groups
+- **materially**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: materially
+- **maxHeight**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: maxHeight
+  - [main.py](./main_py_docs.md): constant: maxHeight
+- **MCP**: found in 14 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): constant: MCP
+  - [start-http.sh](./start-http_sh_docs.md): constant: MCP
+  - [pyproject.toml](./pyproject_toml_docs.md): constant: MCP
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): constant: MCP
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: MCP
+  - ... and 9 more
+- **MCP_ERROR**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): constant: MCP_ERROR
+- **MCPError**: found in 6 file(s)
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: MCPError
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: MCPError
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: MCPError
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: MCPError
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: MCPError
+  - ... and 1 more
+- **mcpServers**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: mcpServers
+- **meaning**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: meaning
+- **measure**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: measure
+- **media**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: media
+- **medium**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: medium
+- **meet**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: meet
+- **meets**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: meets
+- **members**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: members
+- **menu**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: menu
+- **MERCHANTABILITY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: MERCHANTABILITY
+- **merged**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: merged
+- **merges**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: merges
+- **mermaid**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: mermaid
+- **message**: found in 7 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: message
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: message
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: message
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: message
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: message
+  - ... and 2 more
+- **Message**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Message
+- **MESSAGE_BATCH_SIZE**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: MESSAGE_BATCH_SIZE
+- **messages**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: messages
+- **meta**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: meta
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: meta
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: meta
+- **metadata**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: metadata
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: metadata
+- **Metadata**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Metadata
+- **Method**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Method
+- **method**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: method
+- **Microsoft**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: Microsoft
+- **MIME**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: MIME
+- **mime**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: mime
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: mime
+- **mime_type**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): type: mime_type
+- **MIMEText**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: MIMEText
+- **mimetypes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: mimetypes
+- **minimal**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: minimal
+- **minor**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: minor
+- **minute**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: minute
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: minute
+- **misrepresentation**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: misrepresentation
+- **Missing**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Missing
+- **MIT**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: MIT
+- **mkdir**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: mkdir
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: mkdir
+  - [readme.md](./readme_md_docs.md): identifier: mkdir
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: mkdir
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: mkdir
+- **MOBILE**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): constant: MOBILE
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): constant: MOBILE
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): constant: MOBILE
+- **mobileUrl**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: mobileUrl
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: mobileUrl
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: mobileUrl
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: mobileUrl
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: mobileUrl
+  - ... and 1 more
+- **mockups**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: mockups
+- **mode**: found in 7 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: mode
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: mode
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: mode
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: mode
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: mode
+  - ... and 2 more
+- **MODE_STRATEGIES**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: MODE_STRATEGIES
+- **Model**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Model
+- **modelcontextprotocol**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: modelcontextprotocol
+- **modelContextProtocolServers**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: modelContextProtocolServers
+- **modification**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: modification
+- **Modified**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Modified
+- **modified**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: modified
+- **MODIFIES**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: MODIFIES
+- **modify**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: modify
+- **module**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: module
+- **Module**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Module
+- **modules**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: modules
+- **monday**: found in 2 file(s)
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: monday
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: monday
+- **Mono**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Mono
+- **month**: found in 2 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: month
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: month
+- **monthly**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: monthly
+- **more**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: more
+- **Moreover**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Moreover
+- **most**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: most
+- **Mozilla**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Mozilla
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Mozilla
+- **msgtype**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: msgtype
+- **mtime**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: mtime
+- **Multi**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Multi
+- **MULTILINE**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: MULTILINE
+- **multipart**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: multipart
+- **must**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: must
+- **myqcloud**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: myqcloud
+
+## N
+
+- **name**: found in 13 file(s)
+  - [index.html](./index_html_docs.md): identifier: name
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: name
+  - [readme.md](./readme_md_docs.md): identifier: name
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: name
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: name
+  - ... and 8 more
+- **Naming**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Naming
+- **NAS**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: NAS
+- **Navigate**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Navigate
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Navigate
+- **navigation**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: navigation
+- **NECESSARY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: NECESSARY
+- **need**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: need
+- **needed**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: needed
+  - [LICENSE](./LICENSE_docs.md): identifier: needed
+- **Nested**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Nested
+- **netstat**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: netstat
+- **Network**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Network
+- **network**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: network
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: network
+- **NEW**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: NEW
+- **newbot**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: newbot
+- **news**: found in 9 file(s)
+  - [index.html](./index_html_docs.md): identifier: news
+  - [main.py](./main_py_docs.md): identifier: news
+  - [readme.md](./readme_md_docs.md): identifier: news
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: news
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: news
+  - ... and 4 more
+- **News**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: News
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: News
+- **NewsAnalyzer**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): class: NewsAnalyzer
+- **newSection**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: newSection
+- **newsItems**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: newsItems
+- **newsnow**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: newsnow
+  - [readme.md](./readme_md_docs.md): identifier: newsnow
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: newsnow
+- **next**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: next
+  - [LICENSE](./LICENSE_docs.md): identifier: next
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: next
+- **nFailed**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: nFailed
+- **nidaye996**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: nidaye996
+- **NO_DATA_AVAILABLE**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): constant: NO_DATA_AVAILABLE
+- **normal**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: normal
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: normal
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: normal
+- **normalize_time**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: normalize_time
+- **normally**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: normally
+- **normpath**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: normpath
+- **not**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: not
+- **NOT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: NOT
+- **Note**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Note
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: Note
+- **note**: found in 3 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: note
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: note
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: note
+- **Notes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Notes
+- **notes**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: notes
+- **nothing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: nothing
+- **notification**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: notification
+  - [readme.md](./readme_md_docs.md): identifier: notification
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: notification
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: notification
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: notification
+  - ... and 1 more
+- **notify**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: notify
+- **Notwithstanding**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Notwithstanding
+- **now**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: now
+- **nowrap**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: nowrap
+  - [main.py](./main_py_docs.md): identifier: nowrap
+- **ntfy**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: ntfy
+  - [readme.md](./readme_md_docs.md): identifier: ntfy
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: ntfy
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: ntfy
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: ntfy
+  - ... and 1 more
+- **NTFY_SERVER_URL**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: NTFY_SERVER_URL
+  - [readme.md](./readme_md_docs.md): constant: NTFY_SERVER_URL
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: NTFY_SERVER_URL
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: NTFY_SERVER_URL
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: NTFY_SERVER_URL
+  - ... and 1 more
+- **NTFY_TOKEN**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: NTFY_TOKEN
+  - [readme.md](./readme_md_docs.md): constant: NTFY_TOKEN
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: NTFY_TOKEN
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: NTFY_TOKEN
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: NTFY_TOKEN
+  - ... and 1 more
+- **NTFY_TOPIC**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): constant: NTFY_TOPIC
+  - [readme.md](./readme_md_docs.md): constant: NTFY_TOPIC
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: NTFY_TOPIC
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: NTFY_TOPIC
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: NTFY_TOPIC
+  - ... and 1 more
+- **number**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: number
+  - [main.py](./main_py_docs.md): identifier: number
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: number
+  - [LICENSE](./LICENSE_docs.md): identifier: number
+- **NVIDIA**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): constant: NVIDIA
+
+## O
+
+- **obligate**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: obligate
+- **obligated**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: obligated
+- **obligations**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: obligations
+- **obvious**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: obvious
+- **occurs**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: occurs
+- **Ocean**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Ocean
+- **offsetHeight**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: offsetHeight
+  - [main.py](./main_py_docs.md): identifier: offsetHeight
+- **offsetWidth**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: offsetWidth
+- **once**: found in 2 file(s)
+  - [docker/.env](docker/_env_docs.md): identifier: once
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: once
+- **ONCE_PER_DAY**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: ONCE_PER_DAY
+- **onclick**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: onclick
+- **only**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: only
+- **opacity**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: opacity
+- **open**: found in 6 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: open
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: open
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: open
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: open
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: open
+  - ... and 1 more
+- **openai**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: openai
+- **OPERATE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: OPERATE
+- **operation**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: operation
+- **OPPO**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: OPPO
+- **option**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: option
+- **Optional**: found in 12 file(s)
+  - [main.py](./main_py_docs.md): identifier: Optional
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: Optional
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: Optional
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Optional
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Optional
+  - ... and 7 more
+- **OPTIONS**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: OPTIONS
+- **options**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: options
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: options
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: options
+- **opts**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: opts
+- **orange**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: orange
+- **order**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: order
+- **organization**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: organization
+- **organizations**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: organizations
+- **origin**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: origin
+  - [LICENSE](./LICENSE_docs.md): identifier: origin
+- **Original**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Original
+- **originalText**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: originalText
+  - [main.py](./main_py_docs.md): constant: originalText
+- **OTHER**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: OTHER
+- **OTHERWISE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: OTHERWISE
+- **ourongxing**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: ourongxing
+- **OUT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: OUT
+- **Outlook**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Outlook
+  - [readme.md](./readme_md_docs.md): identifier: Outlook
+- **outlook**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: outlook
+- **output**: found in 17 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: output
+  - [main.py](./main_py_docs.md): identifier: output
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: output
+  - [LICENSE](./LICENSE_docs.md): identifier: output
+  - [readme.md](./readme_md_docs.md): identifier: output
+  - ... and 12 more
+- **Output**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Output
+- **outputs**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: outputs
+- **over**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: over
+- **overflow**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: overflow
+  - [main.py](./main_py_docs.md): identifier: overflow
+- **Overview**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Overview
+- **overview**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: overview
+
+## P
+
+- **packaged**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: packaged
+- **packages**: found in 2 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: packages
+  - [readme.md](./readme_md_docs.md): identifier: packages
+- **packaging**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: packaging
+- **padding**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: padding
+  - [main.py](./main_py_docs.md): identifier: padding
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: padding
+- **padStart**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: padStart
+- **page**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: page
+- **Pages**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Pages
+- **pages**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: pages
+- **pair**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: pair
+- **paper**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: paper
+- **parent**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: parent
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: parent
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: parent
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: parent
+- **parents**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: parents
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: parents
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: parents
+- **parse**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: parse
+- **parse_cron_schedule**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: parse_cron_schedule
+- **parse_date_query**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): function: parse_date_query
+- **parse_file_titles**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: parse_file_titles
+- **parse_frequency_words**: found in 1 file(s)
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): function: parse_frequency_words
+- **parse_txt_file**: found in 1 file(s)
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): function: parse_txt_file
+- **parse_version**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: parse_version
+- **parse_yaml_config**: found in 1 file(s)
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): function: parse_yaml_config
+- **parser**: found in 5 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: parser
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: parser
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: parser
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: parser
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: parser
+- **ParserService**: found in 2 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: ParserService
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): class: ParserService
+- **part**: found in 3 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: part
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: part
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: part
+- **PARTICULAR**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PARTICULAR
+- **PARTIES**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PARTIES
+- **parts**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: parts
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: parts
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: parts
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: parts
+- **PARTY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PARTY
+- **PascalCase**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: PascalCase
+- **pass**: found in 5 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: pass
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: pass
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: pass
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: pass
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: pass
+- **passthrough**: found in 1 file(s)
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: passthrough
+- **password**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: password
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: password
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: password
+- **PATCH**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: PATCH
+- **Patents**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Patents
+- **path**: found in 6 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: path
+  - [main.py](./main_py_docs.md): identifier: path
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: path
+  - [readme.md](./readme_md_docs.md): identifier: path
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: path
+  - ... and 1 more
+- **Path**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: Path
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Path
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Path
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: Path
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: Path
+- **PATH**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: PATH
+- **pathlib**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: pathlib
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: pathlib
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: pathlib
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: pathlib
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: pathlib
+- **paths**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: paths
+- **pattern**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: pattern
+  - [LICENSE](./LICENSE_docs.md): identifier: pattern
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: pattern
+- **patterns**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: patterns
+- **pause**: found in 3 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: pause
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: pause
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: pause
+- **payload**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: payload
+- **peer**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: peer
+- **peers**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: peers
+- **percentage**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: percentage
+- **performance**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: performance
+- **Performance**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Performance
+- **PERFORMANCE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PERFORMANCE
+- **permanently**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: permanently
+- **Permissions**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Permissions
+- **permissions**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: permissions
+- **permits**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: permits
+- **PERMITTED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PERMITTED
+- **permitted**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: permitted
+- **person**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: person
+- **pertinent**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: pertinent
+- **Peter**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Peter
+- **physical**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: physical
+- **PID**: found in 2 file(s)
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): constant: PID
+  - [docker/manage.py](docker/manage_py_docs.md): constant: PID
+- **Ping**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Ping
+- **place**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: place
+- **placeholder**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: placeholder
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: placeholder
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: placeholder
+- **plain**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: plain
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: plain
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: plain
+- **platform**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: platform
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: platform
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: platform
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: platform
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: platform
+  - ... and 1 more
+- **PLATFORM_NOT_SUPPORTED**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): constant: PLATFORM_NOT_SUPPORTED
+- **PlatformNotSupportedError**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): class: PlatformNotSupportedError
+- **PLATFORMS**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: PLATFORMS
+- **platforms**: found in 12 file(s)
+  - [main.py](./main_py_docs.md): identifier: platforms
+  - [readme.md](./readme_md_docs.md): identifier: platforms
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: platforms
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: platforms
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: platforms
+  - ... and 7 more
+- **Play**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Play
+- **play**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: play
+- **please**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: please
+  - [LICENSE](./LICENSE_docs.md): identifier: please
+- **Please**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Please
+- **plus**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: plus
+- **point**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: point
+- **pointer**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: pointer
+  - [main.py](./main_py_docs.md): identifier: pointer
+  - [LICENSE](./LICENSE_docs.md): identifier: pointer
+- **policy**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: policy
+- **POP3**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): constant: POP3
+- **port**: found in 4 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: port
+  - [start-http.sh](./start-http_sh_docs.md): identifier: port
+  - [readme.md](./readme_md_docs.md): identifier: port
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: port
+- **portion**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: portion
+- **position**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: position
+  - [main.py](./main_py_docs.md): identifier: position
+- **possesses**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: possesses
+- **POSSIBILITY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: POSSIBILITY
+- **Possible**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Possible
+- **possible**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: possible
+- **POST**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: POST
+- **potential**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: potential
+- **potentialHeight**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: potentialHeight
+  - [main.py](./main_py_docs.md): constant: potentialHeight
+- **power**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: power
+- **PowerShell**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: PowerShell
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: PowerShell
+- **powershell**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: powershell
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: powershell
+- **pptx**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: pptx
+- **predict**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: predict
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: predict
+- **predict_trending_topics**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: predict_trending_topics
+- **prediction**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: prediction
+- **Prepare**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Prepare
+- **prepare_report_data**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: prepare_report_data
+- **present**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: present
+- **presents**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: presents
+- **prevent**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: prevent
+- **prevented**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: prevented
+- **Preview**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Preview
+- **preview**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: preview
+- **previous**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: previous
+- **price**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: price
+- **primarily**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: primarily
+- **Print**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Print
+- **print**: found in 10 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: print
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: print
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: print
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: print
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: print
+  - ... and 5 more
+- **problem**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: problem
+- **problems**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: problems
+- **proc**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: proc
+- **Process**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Process
+- **process**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: process
+- **process_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: process_file
+- **process_source_data**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: process_source_data
+- **processed**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: processed
+- **Processed**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Processed
+- **processing**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: processing
+- **Processing**: found in 1 file(s)
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: Processing
+- **produce**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: produce
+- **Produces**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Produces
+- **Product**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Product
+- **PROGRAM**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PROGRAM
+- **Program**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Program
+- **programmer**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: programmer
+- **Programming**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Programming
+- **PROGRAMS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PROGRAMS
+- **progress**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: progress
+- **Progress**: found in 1 file(s)
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: Progress
+- **prohibit**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: prohibit
+- **prohibiting**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: prohibiting
+- **project**: found in 5 file(s)
+  - [index.html](./index_html_docs.md): identifier: project
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: project
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: project
+  - [main.py](./main_py_docs.md): identifier: project
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: project
+- **Project**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Project
+  - [AGENTS.md](./AGENTS_md_docs.md): identifier: Project
+- **PROJECT_ROOT**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: PROJECT_ROOT
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: PROJECT_ROOT
+  - [setup-windows.bat](./setup-windows_bat_docs.md): constant: PROJECT_ROOT
+- **prominent**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: prominent
+- **prominently**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: prominently
+- **Promise**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: Promise
+  - [main.py](./main_py_docs.md): identifier: Promise
+- **Prompt**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Prompt
+- **propagate**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: propagate
+- **proprietary**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: proprietary
+- **Protocol**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Protocol
+- **PROVE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PROVE
+- **PROVIDE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PROVIDE
+- **provided**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: provided
+- **provisionally**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: provisionally
+- **proxies**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: proxies
+- **proxy**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: proxy
+- **PUBLIC**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PUBLIC
+- **Public**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Public
+- **publicity**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: publicity
+- **publicly**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: publicly
+- **publish**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: publish
+- **published**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: published
+- **pull**: found in 3 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: pull
+  - [readme.md](./readme_md_docs.md): identifier: pull
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: pull
+- **PURPOSE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: PURPOSE
+- **purposes**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: purposes
+- **push**: found in 8 file(s)
+  - [index.html](./index_html_docs.md): identifier: push
+  - [main.py](./main_py_docs.md): identifier: push
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: push
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: push
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: push
+  - ... and 3 more
+- **Push**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: Push
+- **PUSH_WINDOW**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: PUSH_WINDOW
+- **PUSH_WINDOW_ENABLED**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): constant: PUSH_WINDOW_ENABLED
+  - [readme.md](./readme_md_docs.md): constant: PUSH_WINDOW_ENABLED
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: PUSH_WINDOW_ENABLED
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: PUSH_WINDOW_ENABLED
+  - [docker/.env](docker/_env_docs.md): constant: PUSH_WINDOW_ENABLED
+- **PUSH_WINDOW_END**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): constant: PUSH_WINDOW_END
+  - [readme.md](./readme_md_docs.md): constant: PUSH_WINDOW_END
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: PUSH_WINDOW_END
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: PUSH_WINDOW_END
+  - [docker/.env](docker/_env_docs.md): constant: PUSH_WINDOW_END
+- **PUSH_WINDOW_ONCE_PER_DAY**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): constant: PUSH_WINDOW_ONCE_PER_DAY
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: PUSH_WINDOW_ONCE_PER_DAY
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: PUSH_WINDOW_ONCE_PER_DAY
+  - [docker/.env](docker/_env_docs.md): constant: PUSH_WINDOW_ONCE_PER_DAY
+- **PUSH_WINDOW_RETENTION_DAYS**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): constant: PUSH_WINDOW_RETENTION_DAYS
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: PUSH_WINDOW_RETENTION_DAYS
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: PUSH_WINDOW_RETENTION_DAYS
+  - [docker/.env](docker/_env_docs.md): constant: PUSH_WINDOW_RETENTION_DAYS
+- **PUSH_WINDOW_START**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): constant: PUSH_WINDOW_START
+  - [readme.md](./readme_md_docs.md): constant: PUSH_WINDOW_START
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: PUSH_WINDOW_START
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: PUSH_WINDOW_START
+  - [docker/.env](docker/_env_docs.md): constant: PUSH_WINDOW_START
+- **pushed**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: pushed
+- **PushRecordManager**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): class: PushRecordManager
+- **pyproject**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: pyproject
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: pyproject
+- **python**: found in 12 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: python
+  - [start-http.sh](./start-http_sh_docs.md): identifier: python
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: python
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: python
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: python
+  - ... and 7 more
+- **Python**: found in 7 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Python
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Python
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: Python
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: Python
+  - [.dockerignore](./_dockerignore_docs.md): identifier: Python
+  - ... and 2 more
+- **python3**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: python3
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: python3
+- **PYTHONUNBUFFERED**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: PYTHONUNBUFFERED
+- **pytz**: found in 4 file(s)
+  - [requirements.txt](./requirements_txt_docs.md): identifier: pytz
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: pytz
+  - [main.py](./main_py_docs.md): identifier: pytz
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: pytz
+- **PyYAML**: found in 2 file(s)
+  - [requirements.txt](./requirements_txt_docs.md): identifier: PyYAML
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: PyYAML
+
+## Q
+
+- **QEMU**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): constant: QEMU
+- **qemu**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: qemu
+- **qualify**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: qualify
+- **QUALITY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: QUALITY
+- **query**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: query
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: query
+- **querySelector**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: querySelector
+- **querySelectorAll**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: querySelectorAll
+  - [main.py](./main_py_docs.md): identifier: querySelectorAll
+- **question**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: question
+- **Quick**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Quick
+- **quiet**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: quiet
+- **quit**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: quit
+- **quot**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: quot
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: quot
+
+## R
+
+- **radar**: found in 4 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: radar
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: radar
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: radar
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: radar
+- **radius**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: radius
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: radius
+- **raise**: found in 9 file(s)
+  - [main.py](./main_py_docs.md): identifier: raise
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: raise
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: raise
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: raise
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: raise
+  - ... and 4 more
+- **Raises**: found in 4 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: Raises
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: Raises
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: Raises
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: Raises
+- **randint**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: randint
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: randint
+- **random**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: random
+- **range**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: range
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: range
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: range
+- **rank**: found in 7 file(s)
+  - [index.html](./index_html_docs.md): identifier: rank
+  - [main.py](./main_py_docs.md): identifier: rank
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: rank
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: rank
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: rank
+  - ... and 2 more
+- **RANK_THRESHOLD**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: RANK_THRESHOLD
+- **RANK_WEIGHT**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: RANK_WEIGHT
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): constant: RANK_WEIGHT
+- **ranks**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: ranks
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: ranks
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: ranks
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: ranks
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: ranks
+  - ... and 1 more
+- **ratio**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: ratio
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: ratio
+- **RawDescriptionHelpFormatter**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: RawDescriptionHelpFormatter
+- **Read**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Read
+- **read**: found in 3 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: read
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: read
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: read
+- **read_all_titles_for_date**: found in 1 file(s)
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): function: read_all_titles_for_date
+- **read_all_today_titles**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: read_all_today_titles
+- **README**: found in 7 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: README
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: README
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: README
+  - [readme.md](./readme_md_docs.md): constant: README
+  - [setup-windows.bat](./setup-windows_bat_docs.md): constant: README
+  - ... and 2 more
+- **ReadTimeout**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: ReadTimeout
+- **reason**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: reason
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: reason
+- **reasonable**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: reasonable
+- **receive**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: receive
+- **receives**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: receives
+- **Recipients**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Recipients
+- **recommends**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: recommends
+- **record**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: record
+- **record_push**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: record_push
+- **RECORD_RETENTION_DAYS**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: RECORD_RETENTION_DAYS
+- **rect**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: rect
+  - [main.py](./main_py_docs.md): constant: rect
+- **RED**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: RED
+- **referenced**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: referenced
+- **references**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: references
+- **References**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: References
+- **referrer**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: referrer
+  - [main.py](./main_py_docs.md): identifier: referrer
+- **referrerpolicy**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: referrerpolicy
+  - [main.py](./main_py_docs.md): identifier: referrerpolicy
+- **referring**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: referring
+- **refrain**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: refrain
+- **refs**: found in 3 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: refs
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: refs
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: refs
+- **regenerate**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: regenerate
+  - [LICENSE](./LICENSE_docs.md): identifier: regenerate
+- **Regenerating**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Regenerating
+- **REGISTRY**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): constant: REGISTRY
+- **related**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: related
+- **Related**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Related
+- **relative**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: relative
+  - [main.py](./main_py_docs.md): identifier: relative
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: relative
+- **releases**: found in 3 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: releases
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: releases
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: releases
+- **relevance**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: relevance
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: relevance
+- **relevant**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: relevant
+  - [LICENSE](./LICENSE_docs.md): identifier: relevant
+- **relicensing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: relicensing
+- **REM**: found in 3 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): constant: REM
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: REM
+  - [setup-windows.bat](./setup-windows_bat_docs.md): constant: REM
+- **remain**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: remain
+- **remains**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: remains
+- **remote**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: remote
+- **remove**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: remove
+- **removeChild**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: removeChild
+  - [main.py](./main_py_docs.md): identifier: removeChild
+- **removeContainer**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: removeContainer
+  - [main.py](./main_py_docs.md): identifier: removeContainer
+- **render_dingtalk_content**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: render_dingtalk_content
+- **render_feishu_content**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: render_feishu_content
+- **render_html_content**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: render_html_content
+- **RENDERED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: RENDERED
+- **Reopen**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Reopen
+- **REPAIR**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: REPAIR
+- **replace**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: replace
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: replace
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: replace
+- **replaced**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: replaced
+- **REPO**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: REPO
+  - [docs/.progress.log](docs/_progress_log_docs.md): constant: REPO
+- **Repo**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Repo
+- **RepoBookGenerator**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): class: RepoBookGenerator
+- **report**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: report
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: report
+  - [readme.md](./readme_md_docs.md): identifier: report
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: report
+- **Report**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Report
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Report
+- **REPORT_MODE**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): constant: REPORT_MODE
+  - [readme.md](./readme_md_docs.md): constant: REPORT_MODE
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: REPORT_MODE
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: REPORT_MODE
+  - [docker/.env](docker/_env_docs.md): constant: REPORT_MODE
+- **repos**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: repos
+- **repositories**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: repositories
+- **Repository**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Repository
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: Repository
+- **repository**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: repository
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: repository
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: repository
+- **reproduction**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: reproduction
+- **REQUEST_INTERVAL**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: REQUEST_INTERVAL
+- **requests**: found in 3 file(s)
+  - [requirements.txt](./requirements_txt_docs.md): identifier: requests
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: requests
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: requests
+- **require**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: require
+- **required**: found in 8 file(s)
+  - [main.py](./main_py_docs.md): identifier: required
+  - [LICENSE](./LICENSE_docs.md): identifier: required
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: required
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: required
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: required
+  - ... and 3 more
+- **REQUIRED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: REQUIRED
+- **requirement**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: requirement
+- **requirements**: found in 2 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: requirements
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: requirements
+- **requires**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: requires
+- **requiring**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: requiring
+- **Requiring**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Requiring
+- **research**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: research
+- **resolve**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: resolve
+- **resolved**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: resolved
+- **respect**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: respect
+- **response**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: response
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: response
+- **responsible**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: responsible
+- **restart**: found in 4 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: restart
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: restart
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: restart
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: restart
+- **restart_supercronic**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: restart_supercronic
+- **restrict**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: restrict
+- **restricting**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: restricting
+- **result**: found in 12 file(s)
+  - [main.py](./main_py_docs.md): identifier: result
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: result
+  - [LICENSE](./LICENSE_docs.md): identifier: result
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: result
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: result
+  - ... and 7 more
+- **resulting**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: resulting
+- **results**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: results
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: results
+  - [LICENSE](./LICENSE_docs.md): identifier: results
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: results
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: results
+  - ... and 1 more
+- **resumable**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: resumable
+- **retries**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: retries
+- **retry**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: retry
+- **returncode**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: returncode
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: returncode
+- **Returns**: found in 11 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: Returns
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: Returns
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Returns
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Returns
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: Returns
+  - ... and 6 more
+- **reverse**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: reverse
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: reverse
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: reverse
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: reverse
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: reverse
+- **reversed**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: reversed
+- **reviewing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: reviewing
+- **RFC**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: RFC
+- **rgba**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: rgba
+- **rglob**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: rglob
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: rglob
+- **right**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: right
+  - [main.py](./main_py_docs.md): identifier: right
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: right
+- **Rights**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Rights
+- **risk**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: risk
+- **RISK**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: RISK
+- **ROM**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: ROM
+- **ROOT**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: ROOT
+- **root**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: root
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: root
+- **round**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: round
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: round
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: round
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: round
+- **royalty**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: royalty
+- **rsplit**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: rsplit
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: rsplit
+- **rstrip**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: rstrip
+- **ruanyf**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: ruanyf
+- **run**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): function: run
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: run
+- **RUN**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: RUN
+- **run_command**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: run_command
+- **RUN_MODE**: found in 6 file(s)
+  - [readme.md](./readme_md_docs.md): constant: RUN_MODE
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: RUN_MODE
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: RUN_MODE
+  - [docker/.env](docker/_env_docs.md): constant: RUN_MODE
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): constant: RUN_MODE
+  - ... and 1 more
+- **run_server**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: run_server
+- **runs**: found in 2 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: runs
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: runs
+- **RuntimeError**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: RuntimeError
+
+## S
+
+- **sake**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: sake
+- **sale**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: sale
+- **sans**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: sans
+  - [main.py](./main_py_docs.md): identifier: sans
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: sans
+- **sansan0**: found in 7 file(s)
+  - [index.html](./index_html_docs.md): identifier: sansan0
+  - [main.py](./main_py_docs.md): identifier: sansan0
+  - [readme.md](./readme_md_docs.md): identifier: sansan0
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: sansan0
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: sansan0
+  - ... and 2 more
+- **sass**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: sass
+- **saturday**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: saturday
+- **save**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: save
+  - [main.py](./main_py_docs.md): identifier: save
+- **save_titles_to_file**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: save_titles_to_file
+- **saveAsImage**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: saveAsImage
+  - [main.py](./main_py_docs.md): function: saveAsImage
+- **saveAsMultipleImages**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: saveAsMultipleImages
+  - [main.py](./main_py_docs.md): function: saveAsMultipleImages
+- **saying**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: saying
+- **SC_CLK_TCK**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): constant: SC_CLK_TCK
+- **scala**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: scala
+- **scale**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: scale
+  - [main.py](./main_py_docs.md): constant: scale
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: scale
+- **Scan**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Scan
+- **scan**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: scan
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: scan
+- **scan_repository**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: scan_repository
+- **scanned**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: scanned
+- **Scanned**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Scanned
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: Scanned
+- **schedule**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: schedule
+- **schema**: found in 4 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: schema
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: schema
+  - [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config_yml_docs.md): identifier: schema
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: schema
+- **schemastore**: found in 4 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: schemastore
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: schemastore
+  - [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config_yml_docs.md): identifier: schemastore
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: schemastore
+- **score**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: score
+- **screenshots**: found in 2 file(s)
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: screenshots
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: screenshots
+- **script**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: script
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: script
+  - [main.py](./main_py_docs.md): identifier: script
+- **Scripts**: found in 1 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: Scripts
+- **scripts**: found in 2 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: scripts
+  - [LICENSE](./LICENSE_docs.md): identifier: scripts
+- **scrollTo**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: scrollTo
+- **scrollX**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: scrollX
+  - [main.py](./main_py_docs.md): identifier: scrollX
+- **scrollY**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: scrollY
+  - [main.py](./main_py_docs.md): identifier: scrollY
+- **scss**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: scss
+- **search**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: search
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: search
+- **search_by_entity**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: search_by_entity
+- **search_news**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: search_news
+- **search_news_by_keyword**: found in 2 file(s)
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): function: search_news_by_keyword
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: search_news_by_keyword
+- **search_news_unified**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: search_news_unified
+- **search_related_news_history**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: search_related_news_history
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: search_related_news_history
+- **SearchTools**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: SearchTools
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): class: SearchTools
+- **secret**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: secret
+  - [readme.md](./readme_md_docs.md): identifier: secret
+- **Secret**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Secret
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: Secret
+- **secrets**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: secrets
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: secrets
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: secrets
+- **Secrets**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Secrets
+- **section**: found in 8 file(s)
+  - [main.py](./main_py_docs.md): identifier: section
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: section
+  - [LICENSE](./LICENSE_docs.md): identifier: section
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: section
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: section
+  - ... and 3 more
+- **sections**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: sections
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: sections
+- **Sections**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Sections
+- **security**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: security
+- **Security**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Security
+- **segment**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: segment
+  - [main.py](./main_py_docs.md): constant: segment
+- **segments**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: segments
+  - [main.py](./main_py_docs.md): constant: segments
+- **Segoe**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: Segoe
+  - [main.py](./main_py_docs.md): identifier: Segoe
+- **self**: found in 10 file(s)
+  - [index.html](./index_html_docs.md): identifier: self
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: self
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: self
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: self
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: self
+  - ... and 5 more
+- **sell**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: sell
+- **selling**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: selling
+- **semiconductor**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: semiconductor
+- **semver**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: semver
+- **send_to_dingtalk**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: send_to_dingtalk
+- **send_to_email**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: send_to_email
+- **send_to_feishu**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: send_to_feishu
+- **send_to_notifications**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: send_to_notifications
+- **send_to_ntfy**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: send_to_ntfy
+- **send_to_telegram**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: send_to_telegram
+- **send_to_wework**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: send_to_wework
+- **sendMessage**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: sendMessage
+- **sensitive**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: sensitive
+- **SequenceMatcher**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: SequenceMatcher
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: SequenceMatcher
+- **serif**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: serif
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: serif
+- **serve**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: serve
+- **server**: found in 13 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: server
+  - [start-http.sh](./start-http_sh_docs.md): identifier: server
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: server
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: server
+  - [main.py](./main_py_docs.md): identifier: server
+  - ... and 8 more
+- **Server**: found in 7 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: Server
+  - [start-http.sh](./start-http_sh_docs.md): identifier: Server
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: Server
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Server
+  - [readme.md](./readme_md_docs.md): identifier: Server
+  - ... and 2 more
+- **Servers**: found in 2 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: Servers
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: Servers
+- **serves**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: serves
+- **service**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: service
+- **services**: found in 8 file(s)
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: services
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: services
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: services
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: services
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: services
+  - ... and 3 more
+- **SERVICING**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: SERVICING
+- **set**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): function: set
+- **set1**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: set1
+- **set2**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: set2
+- **setlocal**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: setlocal
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: setlocal
+- **setTimeout**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: setTimeout
+- **Settings**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Settings
+- **setup**: found in 9 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: setup
+  - [start-http.sh](./start-http_sh_docs.md): identifier: setup
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: setup
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: setup
+  - [readme.md](./readme_md_docs.md): identifier: setup
+  - ... and 4 more
+- **Setup**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Setup
+- **sha1sum**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: sha1sum
+- **SHA256**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: SHA256
+- **sha256**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: sha256
+- **sha512**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: sha512
+  - [main.py](./main_py_docs.md): identifier: sha512
+- **shadow**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: shadow
+  - [main.py](./main_py_docs.md): identifier: shadow
+- **Shanghai**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: Shanghai
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Shanghai
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Shanghai
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: Shanghai
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: Shanghai
+- **shanghai**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: shanghai
+- **shell**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: shell
+  - [readme.md](./readme_md_docs.md): identifier: shell
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: shell
+- **shields**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: shields
+- **short**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: short
+- **should**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: should
+  - [LICENSE](./LICENSE_docs.md): identifier: should
+- **SHOULD**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: SHOULD
+- **should_exclude**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: should_exclude
+- **Show**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Show
+- **show**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: show
+- **show_config**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: show_config
+- **show_files**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: show_files
+- **show_help**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: show_help
+- **show_logs**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: show_logs
+- **show_status**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): function: show_status
+- **SHOW_VERSION_UPDATE**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: SHOW_VERSION_UPDATE
+- **shrink**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: shrink
+- **silent**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: silent
+- **similar**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: similar
+- **similarity**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: similarity
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: similarity
+- **simultaneously**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: simultaneously
+- **sina**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: sina
+- **since**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: since
+- **single**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: single
+  - [LICENSE](./LICENSE_docs.md): identifier: single
+- **size**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: size
+  - [main.py](./main_py_docs.md): identifier: size
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: size
+- **Size**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Size
+- **sizing**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: sizing
+  - [main.py](./main_py_docs.md): identifier: sizing
+- **Skipped**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Skipped
+- **sleep**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: sleep
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: sleep
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: sleep
+- **slim**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: slim
+- **SMTP**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: SMTP
+  - [readme.md](./readme_md_docs.md): constant: SMTP
+- **smtp**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: smtp
+  - [readme.md](./readme_md_docs.md): identifier: smtp
+- **SMTP_CONFIGS**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: SMTP_CONFIGS
+- **SMTP_SSL**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: SMTP_SSL
+- **SMTPAuthenticationError**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: SMTPAuthenticationError
+- **SMTPConnectError**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: SMTPConnectError
+- **SMTPRecipientsRefused**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: SMTPRecipientsRefused
+- **SMTPSenderRefused**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: SMTPSenderRefused
+- **SMTPServerDisconnected**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: SMTPServerDisconnected
+- **Snapshot**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Snapshot
+- **Software**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Software
+- **sold**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: sold
+- **sole**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: sole
+- **solely**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: solely
+- **solid**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: solid
+  - [main.py](./main_py_docs.md): identifier: solid
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: solid
+- **sora**: found in 1 file(s)
+  - [config/frequency_words.txt](config/frequency_words_txt_docs.md): identifier: sora
+- **Sort**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Sort
+- **sort**: found in 4 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: sort
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: sort
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: sort
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: sort
+- **sorted**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: sorted
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: sorted
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: sorted
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: sorted
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: sorted
+- **source**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: source
+  - [main.py](./main_py_docs.md): identifier: source
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: source
+- **Source**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Source
+  - [LICENSE](./LICENSE_docs.md): identifier: Source
+- **sources**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: sources
+- **space**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: space
+- **spacing**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: spacing
+- **span**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: span
+  - [main.py](./main_py_docs.md): identifier: span
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: span
+- **spare**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: spare
+- **SPECIAL**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: SPECIAL
+- **specific**: found in 3 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: specific
+  - [LICENSE](./LICENSE_docs.md): identifier: specific
+  - [AGENTS.md](./AGENTS_md_docs.md): identifier: specific
+- **specifies**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: specifies
+- **specify**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: specify
+- **spirit**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: spirit
+- **split**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: split
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: split
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: split
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: split
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: split
+- **split_content_into_batches**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: split_content_into_batches
+- **splitlines**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: splitlines
+- **square**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: square
+- **SSL**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: SSL
+  - [readme.md](./readme_md_docs.md): constant: SSL
+- **sspai**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: sspai
+- **stable**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: stable
+- **staged**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: staged
+- **standards**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: standards
+- **Star**: found in 4 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Star
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: Star
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: Star
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: Star
+- **star**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: star
+- **stargazers**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: stargazers
+- **Stars**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Stars
+- **stars**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: stars
+- **start**: found in 12 file(s)
+  - [index.html](./index_html_docs.md): identifier: start
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: start
+  - [main.py](./main_py_docs.md): identifier: start
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: start
+  - [readme.md](./readme_md_docs.md): identifier: start
+  - ... and 7 more
+- **START**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: START
+- **Start**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Start
+- **started**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: started
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: started
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: started
+- **STARTING**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: STARTING
+  - [docs/.progress.log](docs/_progress_log_docs.md): constant: STARTING
+- **Starting**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Starting
+  - [docs/.progress.log](docs/_progress_log_docs.md): identifier: Starting
+- **startswith**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: startswith
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: startswith
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: startswith
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: startswith
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: startswith
+- **starttime**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: starttime
+- **STARTTLS**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: STARTTLS
+- **startup**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: startup
+- **stat**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: stat
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: stat
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: stat
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: stat
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: stat
+- **state**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: state
+- **STATED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: STATED
+- **stated**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: stated
+- **static**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: static
+  - [main.py](./main_py_docs.md): identifier: static
+- **staticmethod**: found in 2 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: staticmethod
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: staticmethod
+- **statistics**: found in 4 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: statistics
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: statistics
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: statistics
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: statistics
+- **Statistics**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Statistics
+- **stats**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: stats
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: stats
+- **status**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: status
+  - [LICENSE](./LICENSE_docs.md): identifier: status
+  - [readme.md](./readme_md_docs.md): identifier: status
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: status
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: status
+- **stderr**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: stderr
+- **STDIO**: found in 3 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: STDIO
+  - [readme.md](./readme_md_docs.md): constant: STDIO
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): constant: STDIO
+- **stdio**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: stdio
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: stdio
+- **stdout**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: stdout
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: stdout
+- **steps**: found in 4 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: steps
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: steps
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: steps
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: steps
+- **stop**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: stop
+- **stopped**: found in 2 file(s)
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: stopped
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: stopped
+- **stopwords**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: stopwords
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: stopwords
+- **Store**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Store
+  - [readme.md](./readme_md_docs.md): identifier: Store
+- **store**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: store
+- **streamableHttp**: found in 3 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: streamableHttp
+  - [readme.md](./readme_md_docs.md): identifier: streamableHttp
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: streamableHttp
+- **strftime**: found in 9 file(s)
+  - [main.py](./main_py_docs.md): identifier: strftime
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: strftime
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: strftime
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: strftime
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: strftime
+  - ... and 4 more
+- **String**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: String
+- **strip**: found in 9 file(s)
+  - [main.py](./main_py_docs.md): identifier: strip
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: strip
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: strip
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: strip
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: strip
+  - ... and 4 more
+- **Strip**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Strip
+- **strong**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: strong
+  - [readme.md](./readme_md_docs.md): identifier: strong
+- **strptime**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: strptime
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: strptime
+- **Structure**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Structure
+- **structure**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: structure
+- **studio**: found in 2 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: studio
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: studio
+- **Studio**: found in 7 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Studio
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Studio
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: Studio
+  - [readme.md](./readme_md_docs.md): identifier: Studio
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Studio
+  - ... and 2 more
+- **style**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: style
+  - [main.py](./main_py_docs.md): identifier: style
+  - [readme.md](./readme_md_docs.md): identifier: style
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: style
+- **subdir**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: subdir
+- **subfolder**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: subfolder
+- **Subfolders**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Subfolders
+- **subject**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: subject
+  - [LICENSE](./LICENSE_docs.md): identifier: subject
+- **Subject**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Subject
+- **Sublicensing**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Sublicensing
+- **Subprocess**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Subprocess
+- **subprocess**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: subprocess
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: subprocess
+- **substantial**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: substantial
+- **SUCCESS**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: SUCCESS
+- **success**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: success
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: success
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: success
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: success
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: success
+  - ... and 1 more
+- **successful**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: successful
+- **successfully**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: successfully
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: successfully
+- **SUCH**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: SUCH
+- **such**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: such
+- **suffix**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: suffix
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: suffix
+- **suggestion**: found in 8 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: suggestion
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: suggestion
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: suggestion
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: suggestion
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: suggestion
+  - ... and 3 more
+- **summaries**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: summaries
+- **Summary**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Summary
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Summary
+- **SUMMARY**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: SUMMARY
+- **summary**: found in 4 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: summary
+  - [readme.md](./readme_md_docs.md): identifier: summary
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: summary
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: summary
+- **sunday**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: sunday
+- **super**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: super
+- **supercronic**: found in 3 file(s)
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: supercronic
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: supercronic
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: supercronic
+- **SUPERCRONIC**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: SUPERCRONIC
+- **SUPERCRONIC_SHA1SUM**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: SUPERCRONIC_SHA1SUM
+- **SUPERCRONIC_URL**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: SUPERCRONIC_URL
+- **SUPERCRONIC_VERSION**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: SUPERCRONIC_VERSION
+- **Support**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Support
+- **sure**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: sure
+- **SUSTAINED**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: SUSTAINED
+- **swift**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: swift
+- **sync**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: sync
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: sync
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: sync
+- **Sync**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Sync
+- **sysconf**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: sysconf
+- **system**: found in 9 file(s)
+  - [index.html](./index_html_docs.md): identifier: system
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: system
+  - [main.py](./main_py_docs.md): identifier: system
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: system
+  - [LICENSE](./LICENSE_docs.md): identifier: system
+  - ... and 4 more
+- **System**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: System
+- **systematic**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: systematic
+- **SystemManagementTools**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: SystemManagementTools
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): class: SystemManagementTools
+
+## T
+
+- **Table**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Table
+- **table**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: table
+- **Tags**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Tags
+- **tags**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: tags
+- **tail**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: tail
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: tail
+- **take**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: take
+- **target**: found in 5 file(s)
+  - [index.html](./index_html_docs.md): identifier: target
+  - [main.py](./main_py_docs.md): identifier: target
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: target
+  - [readme.md](./readme_md_docs.md): identifier: target
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: target
+- **TARGETARCH**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: TARGETARCH
+- **targets**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: targets
+- **technological**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: technological
+- **Telegram**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: Telegram
+  - [readme.md](./readme_md_docs.md): identifier: Telegram
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: Telegram
+- **telegram**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: telegram
+  - [readme.md](./readme_md_docs.md): identifier: telegram
+- **TELEGRAM_BOT_TOKEN**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): constant: TELEGRAM_BOT_TOKEN
+  - [readme.md](./readme_md_docs.md): constant: TELEGRAM_BOT_TOKEN
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: TELEGRAM_BOT_TOKEN
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: TELEGRAM_BOT_TOKEN
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: TELEGRAM_BOT_TOKEN
+  - ... and 2 more
+- **TELEGRAM_CHAT_ID**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): constant: TELEGRAM_CHAT_ID
+  - [readme.md](./readme_md_docs.md): constant: TELEGRAM_CHAT_ID
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: TELEGRAM_CHAT_ID
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: TELEGRAM_CHAT_ID
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: TELEGRAM_CHAT_ID
+  - ... and 2 more
+- **tempContainer**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: tempContainer
+  - [main.py](./main_py_docs.md): constant: tempContainer
+- **template**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: template
+- **terminated**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: terminated
+- **terminates**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: terminates
+- **Termination**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Termination
+- **terms**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: terms
+- **TERMS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: TERMS
+- **test**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: test
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: test
+- **tests**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: tests
+- **text**: found in 7 file(s)
+  - [index.html](./index_html_docs.md): identifier: text
+  - [main.py](./main_py_docs.md): identifier: text
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: text
+  - [readme.md](./readme_md_docs.md): identifier: text
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: text
+  - ... and 2 more
+- **text1**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: text1
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: text1
+- **text2**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: text2
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: text2
+- **textarea**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: textarea
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: textarea
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: textarea
+- **textContent**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: textContent
+  - [main.py](./main_py_docs.md): identifier: textContent
+- **than**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: than
+- **THE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: THE
+- **their**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: their
+  - [LICENSE](./LICENSE_docs.md): identifier: their
+- **then**: found in 6 file(s)
+  - [start-http.sh](./start-http_sh_docs.md): identifier: then
+  - [LICENSE](./LICENSE_docs.md): identifier: then
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: then
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: then
+  - [docker/entrypoint.sh](docker/entrypoint_sh_docs.md): identifier: then
+  - ... and 1 more
+- **thepaper**: found in 2 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: thepaper
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: thepaper
+- **THERE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: THERE
+- **there**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: there
+- **these**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: these
+- **they**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: they
+- **THIRD**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: THIRD
+- **though**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: though
+- **threading**: found in 1 file(s)
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): identifier: threading
+- **threshold**: found in 3 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: threshold
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: threshold
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: threshold
+- **through**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: through
+- **Thumbs**: found in 1 file(s)
+  - [.dockerignore](./_dockerignore_docs.md): identifier: Thumbs
+- **thursday**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: thursday
+- **tieba**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: tieba
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: tieba
+- **time**: found in 5 file(s)
+  - [index.html](./index_html_docs.md): identifier: time
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: time
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): identifier: time
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: time
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: time
+- **TIME_RANGE**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: TIME_RANGE
+- **timedelta**: found in 4 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: timedelta
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: timedelta
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: timedelta
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: timedelta
+- **timeout**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: timeout
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: timeout
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: timeout
+- **timestamp**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): identifier: timestamp
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: timestamp
+  - [readme.md](./readme_md_docs.md): identifier: timestamp
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: timestamp
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: timestamp
+  - ... and 2 more
+- **timestamps**: found in 3 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: timestamps
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: timestamps
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: timestamps
+- **timezone**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: timezone
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: timezone
+- **title**: found in 11 file(s)
+  - [index.html](./index_html_docs.md): identifier: title
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: title
+  - [readme.md](./readme_md_docs.md): identifier: title
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: title
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: title
+  - ... and 6 more
+- **Title**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: Title
+- **titles**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: titles
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: titles
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: titles
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: titles
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: titles
+- **TJlSKda6FXzoEyYGjTe**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: TJlSKda6FXzoEyYGjTe
+- **TLS**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): constant: TLS
+  - [readme.md](./readme_md_docs.md): constant: TLS
+- **to_dict**: found in 1 file(s)
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): function: to_dict
+- **TOC**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: TOC
+- **toDataURL**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: toDataURL
+  - [main.py](./main_py_docs.md): identifier: toDataURL
+- **today**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: today
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: today
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: today
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: today
+- **TODO**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): constant: TODO
+- **together**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: together
+- **Token**: found in 2 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Token
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: Token
+- **TOKEN**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): constant: TOKEN
+- **tokens**: found in 2 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: tokens
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: tokens
+- **toml**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: toml
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: toml
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: toml
+- **tool**: found in 2 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: tool
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: tool
+- **tools**: found in 7 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: tools
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: tools
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: tools
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: tools
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: tools
+  - ... and 2 more
+- **Tools**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Tools
+- **TOP**: found in 2 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): constant: TOP
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): constant: TOP
+- **topic**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: topic
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: topic
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: topic
+- **Topic**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Topic
+- **topics**: found in 2 file(s)
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: topics
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: topics
+- **Total**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Total
+- **total**: found in 3 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: total
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: total
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: total
+- **toutiao**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: toutiao
+  - [mcp_server/utils/errors.py](mcp_server/utils/errors_py_docs.md): identifier: toutiao
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: toutiao
+- **traceback**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: traceback
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: traceback
+- **Track**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Track
+- **transaction**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: transaction
+- **transferred**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: transferred
+- **transform**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: transform
+  - [main.py](./main_py_docs.md): identifier: transform
+- **transition**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: transition
+- **translateY**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: translateY
+  - [main.py](./main_py_docs.md): identifier: translateY
+- **transmission**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: transmission
+- **transport**: found in 4 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: transport
+  - [start-http.sh](./start-http_sh_docs.md): identifier: transport
+  - [readme.md](./readme_md_docs.md): identifier: transport
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: transport
+- **tree**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: tree
+- **trend**: found in 7 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: trend
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: trend
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: trend
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: trend
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: trend
+  - ... and 2 more
+- **TrendRadar**: found in 17 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: TrendRadar
+  - [start-http.sh](./start-http_sh_docs.md): identifier: TrendRadar
+  - [index.html](./index_html_docs.md): identifier: TrendRadar
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: TrendRadar
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: TrendRadar
+  - ... and 12 more
+- **trendradar**: found in 5 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: trendradar
+  - [readme.md](./readme_md_docs.md): identifier: trendradar
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: trendradar
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: trendradar
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: trendradar
+- **trendRadar**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: trendRadar
+- **trendshift**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: trendshift
+- **Trendshift**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Trendshift
+- **trigger**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: trigger
+- **trigger_crawl**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: trigger_crawl
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): function: trigger_crawl
+- **truncated**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: truncated
+- **tuesday**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: tuesday
+- **Tuple**: found in 5 file(s)
+  - [main.py](./main_py_docs.md): identifier: Tuple
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Tuple
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Tuple
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: Tuple
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: Tuple
+- **tuple**: found in 3 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: tuple
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: tuple
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: tuple
+- **TXT**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): constant: TXT
+- **type**: found in 10 file(s)
+  - [index.html](./index_html_docs.md): identifier: type
+  - [main.py](./main_py_docs.md): identifier: type
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: type
+  - [LICENSE](./LICENSE_docs.md): identifier: type
+  - [readme.md](./readme_md_docs.md): identifier: type
+  - ... and 5 more
+- **Type**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Type
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Type
+- **TypeScript**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: TypeScript
+- **typing**: found in 13 file(s)
+  - [main.py](./main_py_docs.md): identifier: typing
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: typing
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: typing
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: typing
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: typing
+  - ... and 8 more
+
+## U
+
+- **U7onG1sTTdwdW2zg**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: U7onG1sTTdwdW2zg
+- **Ubuntu**: found in 1 file(s)
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: Ubuntu
+- **ubuntu**: found in 2 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: ubuntu
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: ubuntu
+- **Unable**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Unable
+- **underline**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: underline
+  - [main.py](./main_py_docs.md): identifier: underline
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: underline
+- **underscores**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: underscores
+- **uniform**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: uniform
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: uniform
+- **union**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: union
+- **Unique**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Unique
+- **unique**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: unique
+- **Unknown**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Unknown
+- **unknown**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: unknown
+- **UNLESS**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: UNLESS
+- **unless**: found in 3 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: unless
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: unless
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: unless
+- **unlimited**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: unlimited
+- **unlink**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): identifier: unlink
+- **unmodified**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: unmodified
+- **unpacking**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: unpacking
+- **Unsupported**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): identifier: Unsupported
+- **until**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: until
+- **update**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: update
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: update
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: update
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: update
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: update
+  - ... and 1 more
+- **upgrade**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: upgrade
+- **upper**: found in 2 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: upper
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: upper
+- **URL**: found in 11 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): constant: URL
+  - [main.py](./main_py_docs.md): constant: URL
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: URL
+  - [readme.md](./readme_md_docs.md): constant: URL
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): constant: URL
+  - ... and 6 more
+- **URLs**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: URLs
+- **USE**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: USE
+- **USE_PROXY**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: USE_PROXY
+- **useCORS**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: useCORS
+- **used**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: used
+- **useful**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: useful
+- **user**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: user
+- **User**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: User
+- **user1**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: user1
+- **user2**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: user2
+- **user3**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: user3
+- **userinfobot**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: userinfobot
+- **username**: found in 1 file(s)
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: username
+- **users**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: users
+  - [readme.md](./readme_md_docs.md): identifier: users
+- **Users**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Users
+- **uses**: found in 2 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: uses
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: uses
+- **using**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: using
+- **UTF**: found in 5 file(s)
+  - [index.html](./index_html_docs.md): constant: UTF
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: UTF
+  - [main.py](./main_py_docs.md): constant: UTF
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: UTF
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): constant: UTF
+- **utils**: found in 8 file(s)
+  - [main.py](./main_py_docs.md): identifier: utils
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: utils
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: utils
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: utils
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: utils
+  - ... and 3 more
+- **UV_PATH**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: UV_PATH
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: UV_PATH
+  - [setup-windows.bat](./setup-windows_bat_docs.md): constant: UV_PATH
+
+## V
+
+- **valid**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: valid
+- **validate_config_section**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_config_section
+- **validate_date**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_date
+- **validate_date_not_future**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): function: validate_date_not_future
+- **validate_date_not_too_old**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): function: validate_date_not_too_old
+- **validate_date_query**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_date_query
+- **validate_date_range**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_date_range
+- **validate_keyword**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_keyword
+- **validate_limit**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_limit
+- **validate_mode**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_mode
+- **validate_platforms**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_platforms
+- **validate_top_n**: found in 1 file(s)
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): function: validate_top_n
+- **validation**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: validation
+- **Validation**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Validation
+- **validations**: found in 3 file(s)
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: validations
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: validations
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: validations
+- **validators**: found in 5 file(s)
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: validators
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: validators
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: validators
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: validators
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: validators
+- **value**: found in 7 file(s)
+  - [index.html](./index_html_docs.md): identifier: value
+  - [.github/ISSUE_TEMPLATE/02-feature-request.yml](.github/ISSUE_TEMPLATE/02-feature-request_yml_docs.md): identifier: value
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: value
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: value
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: value
+  - ... and 2 more
+- **ValueError**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: ValueError
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: ValueError
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: ValueError
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: ValueError
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: ValueError
+  - ... and 1 more
+- **values**: found in 3 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: values
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: values
+  - [mcp_server/services/cache_service.py](mcp_server/services/cache_service_py_docs.md): identifier: values
+- **variable**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: variable
+- **variables**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: variables
+- **vendor**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: vendor
+- **venv**: found in 2 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: venv
+  - [start-http.sh](./start-http_sh_docs.md): identifier: venv
+- **verification**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: verification
+- **Verification**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Verification
+- **Verify**: found in 1 file(s)
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: Verify
+- **version**: found in 13 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: version
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: version
+  - [LICENSE](./LICENSE_docs.md): identifier: version
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: version
+  - [readme.md](./readme_md_docs.md): identifier: version
+  - ... and 8 more
+- **VERSION**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: VERSION
+- **Version**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: Version
+  - [LICENSE](./LICENSE_docs.md): identifier: Version
+  - [readme.md](./readme_md_docs.md): identifier: Version
+- **VERSION_CHECK_URL**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: VERSION_CHECK_URL
+- **versions**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: versions
+- **Versions**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: Versions
+- **view**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: view
+- **viewport**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: viewport
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: viewport
+- **viral**: found in 2 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: viral
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: viral
+- **visibility**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: visibility
+- **visible**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: visible
+  - [main.py](./main_py_docs.md): identifier: visible
+  - [LICENSE](./LICENSE_docs.md): identifier: visible
+- **Visit**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Visit
+- **visited**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: visited
+  - [main.py](./main_py_docs.md): identifier: visited
+- **vivo**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: vivo
+- **void**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: void
+- **volumes**: found in 2 file(s)
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: volumes
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): identifier: volumes
+- **VSCode**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: VSCode
+- **vscode**: found in 1 file(s)
+  - [.dockerignore](./_dockerignore_docs.md): identifier: vscode
+
+## W
+
+- **waive**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: waive
+- **walk**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: walk
+- **wallstreetcn**: found in 3 file(s)
+  - [index.html](./index_html_docs.md): identifier: wallstreetcn
+  - [readme.md](./readme_md_docs.md): identifier: wallstreetcn
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: wallstreetcn
+- **want**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: want
+- **wantcat**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: wantcat
+  - [.github/workflows/docker.yml](.github/workflows/docker_yml_docs.md): identifier: wantcat
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): identifier: wantcat
+- **warm**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: warm
+- **WARNING**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): constant: WARNING
+- **Warning**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: Warning
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: Warning
+- **WARRANTIES**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WARRANTIES
+- **warranties**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: warranties
+- **WARRANTY**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WARRANTY
+- **Webhook**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: Webhook
+- **webhook**: found in 4 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: webhook
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: webhook
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: webhook
+  - [config/config.yaml](config/config_yaml_docs.md): identifier: webhook
+- **WEBHOOK**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): constant: WEBHOOK
+- **webhooks**: found in 6 file(s)
+  - [main.py](./main_py_docs.md): identifier: webhooks
+  - [readme.md](./readme_md_docs.md): identifier: webhooks
+  - [.github/ISSUE_TEMPLATE/01-bug-report.yml](.github/ISSUE_TEMPLATE/01-bug-report_yml_docs.md): identifier: webhooks
+  - [.github/ISSUE_TEMPLATE/03-config-help.yml](.github/ISSUE_TEMPLATE/03-config-help_yml_docs.md): identifier: webhooks
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: webhooks
+  - ... and 1 more
+- **websockets**: found in 2 file(s)
+  - [requirements.txt](./requirements_txt_docs.md): identifier: websockets
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: websockets
+- **wednesday**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: wednesday
+- **weekday**: found in 2 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: weekday
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: weekday
+- **WEEKDAY_CN**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): constant: WEEKDAY_CN
+- **WEEKDAY_EN**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): constant: WEEKDAY_EN
+- **weekly**: found in 3 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: weekly
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: weekly
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: weekly
+- **weibo**: found in 8 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: weibo
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: weibo
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: weibo
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: weibo
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: weibo
+  - ... and 3 more
+- **weight**: found in 8 file(s)
+  - [index.html](./index_html_docs.md): identifier: weight
+  - [main.py](./main_py_docs.md): identifier: weight
+  - [readme.md](./readme_md_docs.md): identifier: weight
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: weight
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: weight
+  - ... and 3 more
+- **WEIGHT_CONFIG**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): constant: WEIGHT_CONFIG
+- **weights**: found in 4 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: weights
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): identifier: weights
+  - [mcp_server/utils/validators.py](mcp_server/utils/validators_py_docs.md): identifier: weights
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: weights
+- **weixin**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: weixin
+- **welcome**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: welcome
+- **wework**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: wework
+  - [readme.md](./readme_md_docs.md): identifier: wework
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: wework
+- **WEWORK_WEBHOOK_URL**: found in 7 file(s)
+  - [main.py](./main_py_docs.md): constant: WEWORK_WEBHOOK_URL
+  - [readme.md](./readme_md_docs.md): constant: WEWORK_WEBHOOK_URL
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): constant: WEWORK_WEBHOOK_URL
+  - [docker/docker-compose.yml](docker/docker-compose_yml_docs.md): constant: WEWORK_WEBHOOK_URL
+  - [docker/docker-compose-build.yml](docker/docker-compose-build_yml_docs.md): constant: WEWORK_WEBHOOK_URL
+  - ... and 2 more
+- **Wgds8Gp**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: Wgds8Gp
+- **wget**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: wget
+- **wheel**: found in 1 file(s)
+  - [pyproject.toml](./pyproject_toml_docs.md): identifier: wheel
+- **WHEN**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WHEN
+- **where**: found in 3 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: where
+  - [readme.md](./readme_md_docs.md): identifier: where
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: where
+- **which**: found in 3 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: which
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: which
+  - [readme.md](./readme_md_docs.md): identifier: which
+- **while**: found in 4 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: while
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: while
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: while
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): identifier: while
+- **white**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: white
+  - [main.py](./main_py_docs.md): identifier: white
+  - [readme.md](./readme_md_docs.md): identifier: white
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: white
+- **WHO**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WHO
+- **whole**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: whole
+- **whom**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: whom
+- **widely**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: widely
+- **width**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: width
+  - [main.py](./main_py_docs.md): identifier: width
+  - [readme.md](./readme_md_docs.md): identifier: width
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: width
+- **WILL**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WILL
+- **Win64**: found in 2 file(s)
+  - [main.py](./main_py_docs.md): identifier: Win64
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: Win64
+- **window**: found in 4 file(s)
+  - [index.html](./index_html_docs.md): identifier: window
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: window
+  - [main.py](./main_py_docs.md): identifier: window
+  - [LICENSE](./LICENSE_docs.md): identifier: window
+- **windowHeight**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: windowHeight
+  - [main.py](./main_py_docs.md): identifier: windowHeight
+- **windows**: found in 6 file(s)
+  - [start-http.bat](./start-http_bat_docs.md): identifier: windows
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: windows
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: windows
+  - [readme.md](./readme_md_docs.md): identifier: windows
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: windows
+  - ... and 1 more
+- **Windows**: found in 8 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): identifier: Windows
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Windows
+  - [readme.md](./readme_md_docs.md): identifier: Windows
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): identifier: Windows
+  - [setup-windows.bat](./setup-windows_bat_docs.md): identifier: Windows
+  - ... and 3 more
+- **windowWidth**: found in 1 file(s)
+  - [index.html](./index_html_docs.md): identifier: windowWidth
+- **WIPO**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WIPO
+- **WITH**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WITH
+- **WITHOUT**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WITHOUT
+- **woff**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: woff
+- **woff2**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: woff2
+- **word**: found in 7 file(s)
+  - [index.html](./index_html_docs.md): identifier: word
+  - [main.py](./main_py_docs.md): identifier: word
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: word
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: word
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: word
+  - ... and 2 more
+- **wordGroups**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: wordGroups
+  - [main.py](./main_py_docs.md): constant: wordGroups
+- **wordHeader**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: wordHeader
+  - [main.py](./main_py_docs.md): constant: wordHeader
+- **Words**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Words
+- **words**: found in 3 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: words
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: words
+  - [mcp_server/services/parser_service.py](mcp_server/services/parser_service_py_docs.md): identifier: words
+- **work**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: work
+  - [readme.md](./readme_md_docs.md): identifier: work
+- **WORKDIR**: found in 1 file(s)
+  - [docker/Dockerfile](docker/Dockerfile_docs.md): constant: WORKDIR
+- **workflow**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: workflow
+- **workflows**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: workflows
+- **Working**: found in 1 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: Working
+- **working**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: working
+- **world**: found in 3 file(s)
+  - [main.py](./main_py_docs.md): identifier: world
+  - [readme.md](./readme_md_docs.md): identifier: world
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: world
+- **World**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: World
+- **worldwide**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: worldwide
+- **wrap**: found in 2 file(s)
+  - [index.html](./index_html_docs.md): identifier: wrap
+  - [main.py](./main_py_docs.md): identifier: wrap
+- **write**: found in 4 file(s)
+  - [main.py](./main_py_docs.md): identifier: write
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: write
+  - [.github/workflows/crawler.yml](.github/workflows/crawler_yml_docs.md): identifier: write
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: write
+- **Write**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Write
+- **WRITING**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: WRITING
+- **Written**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: Written
+- **written**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: written
+
+## X
+
+- **xlsx**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: xlsx
+
+## Y
+
+- **yaml**: found in 20 file(s)
+  - [setup-windows-en.bat](./setup-windows-en_bat_docs.md): identifier: yaml
+  - [main.py](./main_py_docs.md): identifier: yaml
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): identifier: yaml
+  - [setup-mac.sh](./setup-mac_sh_docs.md): identifier: yaml
+  - [readme.md](./readme_md_docs.md): identifier: yaml
+  - ... and 15 more
+- **YAML**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): constant: YAML
+- **year**: found in 2 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: year
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: year
+- **YELLOW**: found in 1 file(s)
+  - [setup-mac.sh](./setup-mac_sh_docs.md): constant: YELLOW
+- **yellow**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: yellow
+- **yesterday**: found in 5 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: yesterday
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: yesterday
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): identifier: yesterday
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): identifier: yesterday
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): identifier: yesterday
+- **YOU**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): constant: YOU
+- **your**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: your
+- **yourdomain**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: yourdomain
+- **YourName**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: YourName
+- **yourself**: found in 1 file(s)
+  - [LICENSE](./LICENSE_docs.md): identifier: yourself
+- **YYYY**: found in 7 file(s)
+  - [readme.md](./readme_md_docs.md): constant: YYYY
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): constant: YYYY
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): constant: YYYY
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): constant: YYYY
+  - [mcp_server/tools/data_query.py](mcp_server/tools/data_query_py_docs.md): constant: YYYY
+  - ... and 2 more
+- **yzyf1312**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: yzyf1312
+
+## Z
+
+- **zfill**: found in 1 file(s)
+  - [docker/manage.py](docker/manage_py_docs.md): identifier: zfill
+- **zhihu**: found in 10 file(s)
+  - [index.html](./index_html_docs.md): identifier: zhihu
+  - [readme.md](./readme_md_docs.md): identifier: zhihu
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): identifier: zhihu
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): identifier: zhihu
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): identifier: zhihu
+  - ... and 5 more
+- **ZIP**: found in 2 file(s)
+  - [README-Cherry-Studio.md](./README-Cherry-Studio_md_docs.md): constant: ZIP
+  - [README-MCP-FAQ.md](./README-MCP-FAQ_md_docs.md): constant: ZIP
+- **ziventian**: found in 1 file(s)
+  - [readme.md](./readme_md_docs.md): identifier: ziventian
+
+## _
+
+- **__init__**: found in 11 file(s)
+  - [main.py](./main_py_docs.md): function: __init__
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: __init__
+  - [mcp_server/tools/config_mgmt.py](mcp_server/tools/config_mgmt_py_docs.md): function: __init__
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): function: __init__
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: __init__
+  - ... and 6 more
+- **_analyze_generic_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _analyze_generic_file
+- **_analyze_javascript_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _analyze_javascript_file
+- **_analyze_json_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _analyze_json_file
+- **_analyze_markdown_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _analyze_markdown_file
+- **_analyze_python_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _analyze_python_file
+- **_analyze_security_performance**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _analyze_security_performance
+- **_analyze_yaml_file**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _analyze_yaml_file
+- **_calculate_keyword_overlap**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: _calculate_keyword_overlap
+- **_calculate_similarity**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: _calculate_similarity
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: _calculate_similarity
+- **_check_version_update**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _check_version_update
+- **_crawl_data**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _crawl_data
+- **_create_sentiment_analysis_prompt**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: _create_sentiment_analysis_prompt
+- **_detect_docker_environment**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _detect_docker_environment
+- **_execute_mode_strategy**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _execute_mode_strategy
+- **_extract_keywords**: found in 2 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: _extract_keywords
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: _extract_keywords
+- **_find_related_files**: found in 1 file(s)
+  - [repo_book_gen.py](./repo_book_gen_py_docs.md): function: _find_related_files
+- **_find_unique_topics**: found in 1 file(s)
+  - [mcp_server/tools/analytics.py](mcp_server/tools/analytics_py_docs.md): function: _find_unique_topics
+- **_fuzzy_match**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: _fuzzy_match
+- **_generate_simple_html**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): function: _generate_simple_html
+- **_generate_summary_html**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _generate_summary_html
+- **_generate_summary_report**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _generate_summary_report
+- **_get_date_by_weekday**: found in 1 file(s)
+  - [mcp_server/utils/date_parser.py](mcp_server/utils/date_parser_py_docs.md): function: _get_date_by_weekday
+- **_get_mode_description**: found in 1 file(s)
+  - [mcp_server/services/data_service.py](mcp_server/services/data_service_py_docs.md): function: _get_mode_description
+- **_get_mode_strategy**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _get_mode_strategy
+- **_get_tools**: found in 1 file(s)
+  - [mcp_server/server.py](mcp_server/server_py_docs.md): function: _get_tools
+- **_has_notification_configured**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _has_notification_configured
+- **_has_valid_content**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _has_valid_content
+- **_html_escape**: found in 1 file(s)
+  - [mcp_server/tools/system.py](mcp_server/tools/system_py_docs.md): function: _html_escape
+- **_initialize_and_check_config**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _initialize_and_check_config
+- **_load_analysis_data**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _load_analysis_data
+- **_prepare_current_title_info**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _prepare_current_title_info
+- **_run_analysis_pipeline**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _run_analysis_pipeline
+- **_search_by_entity_mode**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: _search_by_entity_mode
+- **_search_by_fuzzy_mode**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: _search_by_fuzzy_mode
+- **_search_by_keyword_mode**: found in 1 file(s)
+  - [mcp_server/tools/search_tools.py](mcp_server/tools/search_tools_py_docs.md): function: _search_by_keyword_mode
+- **_send_notification_if_needed**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _send_notification_if_needed
+- **_setup_proxy**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _setup_proxy
+- **_should_open_browser**: found in 1 file(s)
+  - [main.py](./main_py_docs.md): function: _should_open_browser
+

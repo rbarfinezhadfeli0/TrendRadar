@@ -1,0 +1,4301 @@
+# Keyword Summary: ROOT
+
+**Folder**: `ROOT`
+
+This file contains merged keywords from all files in this folder.
+
+## A
+
+- **A652**: found in 1 location(s)
+  - `index.html`: constant: A652
+- **A8AI**: found in 1 location(s)
+  - `index.html`: constant: A8AI
+- **ABOVE**: found in 1 location(s)
+  - `LICENSE`: constant: ABOVE
+- **above**: found in 1 location(s)
+  - `LICENSE`: identifier: above
+- **absolute**: found in 2 location(s)
+  - `index.html`: identifier: absolute
+  - `main.py`: identifier: absolute
+- **ABSOLUTELY**: found in 1 location(s)
+  - `LICENSE`: constant: ABSOLUTELY
+- **abuse**: found in 1 location(s)
+  - `LICENSE`: identifier: abuse
+- **Accept**: found in 1 location(s)
+  - `main.py`: identifier: Accept
+- **acceptance**: found in 1 location(s)
+  - `LICENSE`: identifier: acceptance
+- **accompanies**: found in 1 location(s)
+  - `LICENSE`: identifier: accompanies
+- **achieve**: found in 1 location(s)
+  - `LICENSE`: identifier: achieve
+- **acknowledges**: found in 1 location(s)
+  - `LICENSE`: identifier: acknowledges
+- **acquired**: found in 1 location(s)
+  - `LICENSE`: identifier: acquired
+- **across**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: across
+  - `LICENSE`: identifier: across
+- **Actions**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: Actions
+  - `readme.md`: identifier: Actions
+  - `README-MCP-FAQ.md`: identifier: Actions
+- **actions**: found in 1 location(s)
+  - `readme.md`: identifier: actions
+- **active**: found in 2 location(s)
+  - `index.html`: identifier: active
+  - `main.py`: identifier: active
+- **activity**: found in 1 location(s)
+  - `LICENSE`: identifier: activity
+- **adapt**: found in 1 location(s)
+  - `LICENSE`: identifier: adapt
+- **addEventListener**: found in 2 location(s)
+  - `index.html`: identifier: addEventListener
+  - `main.py`: identifier: addEventListener
+- **adding**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: adding
+- **additional**: found in 1 location(s)
+  - `LICENSE`: identifier: additional
+- **addr**: found in 1 location(s)
+  - `main.py`: identifier: addr
+- **adoc**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: adoc
+- **ADVISED**: found in 1 location(s)
+  - `LICENSE`: constant: ADVISED
+- **affects**: found in 1 location(s)
+  - `LICENSE`: identifier: affects
+- **after**: found in 1 location(s)
+  - `readme.md`: identifier: after
+- **again**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: again
+- **aggregate**: found in 1 location(s)
+  - `LICENSE`: identifier: aggregate
+- **agree**: found in 1 location(s)
+  - `LICENSE`: identifier: agree
+- **AGREED**: found in 1 location(s)
+  - `LICENSE`: constant: AGREED
+- **agreement**: found in 1 location(s)
+  - `LICENSE`: identifier: agreement
+- **ajax**: found in 2 location(s)
+  - `index.html`: identifier: ajax
+  - `main.py`: identifier: ajax
+- **alerts**: found in 1 location(s)
+  - `readme.md`: identifier: alerts
+- **alias**: found in 1 location(s)
+  - `main.py`: identifier: alias
+- **align**: found in 3 location(s)
+  - `index.html`: identifier: align
+  - `main.py`: identifier: align
+  - `readme.md`: identifier: align
+- **alive**: found in 1 location(s)
+  - `main.py`: identifier: alive
+- **ALL**: found in 1 location(s)
+  - `LICENSE`: constant: ALL
+- **ALL_CAPS**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: ALL_CAPS
+- **alleging**: found in 1 location(s)
+  - `LICENSE`: identifier: alleging
+- **allowed**: found in 3 location(s)
+  - `index.html`: identifier: allowed
+  - `main.py`: identifier: allowed
+  - `LICENSE`: identifier: allowed
+- **allowTaint**: found in 1 location(s)
+  - `index.html`: identifier: allowTaint
+- **already**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: already
+  - `LICENSE`: identifier: already
+- **Also**: found in 1 location(s)
+  - `LICENSE`: identifier: Also
+- **also**: found in 1 location(s)
+  - `LICENSE`: identifier: also
+- **although**: found in 1 location(s)
+  - `LICENSE`: identifier: although
+- **alwaysAllow**: found in 1 location(s)
+  - `readme.md`: identifier: alwaysAllow
+- **among**: found in 1 location(s)
+  - `LICENSE`: identifier: among
+- **analysis**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: analysis
+- **Analyze**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Analyze
+- **analyzed**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: analyzed
+- **analyzer**: found in 2 location(s)
+  - `main.py`: identifier: analyzer
+  - `readme.md`: identifier: analyzer
+- **anchor**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: anchor
+- **AND**: found in 1 location(s)
+  - `LICENSE`: constant: AND
+- **Android**: found in 1 location(s)
+  - `readme.md`: identifier: Android
+- **anonymous**: found in 2 location(s)
+  - `index.html`: identifier: anonymous
+  - `main.py`: identifier: anonymous
+- **another**: found in 1 location(s)
+  - `readme.md`: identifier: another
+- **ANY**: found in 1 location(s)
+  - `LICENSE`: constant: ANY
+- **anyone**: found in 1 location(s)
+  - `LICENSE`: identifier: anyone
+- **anything**: found in 1 location(s)
+  - `LICENSE`: identifier: anything
+- **Apache**: found in 1 location(s)
+  - `readme.md`: identifier: Apache
+- **API**: found in 2 location(s)
+  - `repo_book_gen.py`: constant: API
+  - `readme.md`: constant: API
+- **APP**: found in 1 location(s)
+  - `readme.md`: constant: APP
+- **APPDATA**: found in 1 location(s)
+  - `readme.md`: constant: APPDATA
+- **appears**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: appears
+- **append**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: append
+- **appendChild**: found in 2 location(s)
+  - `index.html`: identifier: appendChild
+  - `main.py`: identifier: appendChild
+- **apple**: found in 3 location(s)
+  - `index.html`: identifier: apple
+  - `main.py`: identifier: apple
+  - `readme.md`: identifier: apple
+- **AppleWebKit**: found in 1 location(s)
+  - `main.py`: identifier: AppleWebKit
+- **APPLICABLE**: found in 1 location(s)
+  - `LICENSE`: constant: APPLICABLE
+- **applicable**: found in 1 location(s)
+  - `LICENSE`: identifier: applicable
+- **Application**: found in 1 location(s)
+  - `readme.md`: identifier: Application
+- **applied**: found in 1 location(s)
+  - `LICENSE`: identifier: applied
+- **Apply**: found in 1 location(s)
+  - `LICENSE`: identifier: Apply
+- **approximates**: found in 1 location(s)
+  - `LICENSE`: identifier: approximates
+- **apps**: found in 1 location(s)
+  - `readme.md`: identifier: apps
+- **archive**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: archive
+  - `README-MCP-FAQ.md`: identifier: archive
+- **area**: found in 1 location(s)
+  - `LICENSE`: identifier: area
+- **argparse**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: argparse
+- **args**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: args
+  - `readme.md`: identifier: args
+- **ArgumentParser**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: ArgumentParser
+- **Arguments**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Arguments
+- **arise**: found in 1 location(s)
+  - `LICENSE`: identifier: arise
+- **ARISING**: found in 1 location(s)
+  - `LICENSE`: constant: ARISING
+- **Array**: found in 3 location(s)
+  - `index.html`: identifier: Array
+  - `main.py`: identifier: Array
+  - `repo_book_gen.py`: identifier: Array
+- **articles**: found in 1 location(s)
+  - `index.html`: identifier: articles
+- **Asia**: found in 1 location(s)
+  - `main.py`: identifier: Asia
+- **associated**: found in 1 location(s)
+  - `LICENSE`: identifier: associated
+- **ASSUME**: found in 1 location(s)
+  - `LICENSE`: constant: ASSUME
+- **assumption**: found in 1 location(s)
+  - `LICENSE`: identifier: assumption
+- **astral**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: astral
+  - `setup-mac.sh`: identifier: astral
+  - `setup-windows.bat`: identifier: astral
+- **async**: found in 1 location(s)
+  - `index.html`: identifier: async
+- **attach**: found in 1 location(s)
+  - `main.py`: identifier: attach
+- **attempt**: found in 1 location(s)
+  - `LICENSE`: identifier: attempt
+- **attributed**: found in 1 location(s)
+  - `LICENSE`: identifier: attributed
+- **attributions**: found in 1 location(s)
+  - `LICENSE`: identifier: attributions
+- **Author**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Author
+- **author**: found in 1 location(s)
+  - `LICENSE`: identifier: author
+- **Authorization**: found in 1 location(s)
+  - `main.py`: identifier: Authorization
+- **auto**: found in 2 location(s)
+  - `index.html`: identifier: auto
+  - `main.py`: identifier: auto
+- **autoApprove**: found in 1 location(s)
+  - `readme.md`: identifier: autoApprove
+- **automatically**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: automatically
+  - `repo_book_gen.py`: identifier: automatically
+- **Available**: found in 1 location(s)
+  - `readme.md`: identifier: Available
+- **await**: found in 2 location(s)
+  - `index.html`: identifier: await
+  - `main.py`: identifier: await
+
+## B
+
+- **backdrop**: found in 2 location(s)
+  - `index.html`: identifier: backdrop
+  - `main.py`: identifier: backdrop
+- **backend**: found in 1 location(s)
+  - `pyproject.toml`: identifier: backend
+- **background**: found in 2 location(s)
+  - `index.html`: identifier: background
+  - `main.py`: identifier: background
+- **backgroundColor**: found in 1 location(s)
+  - `index.html`: identifier: backgroundColor
+- **badge**: found in 1 location(s)
+  - `readme.md`: identifier: badge
+- **baidu**: found in 2 location(s)
+  - `index.html`: identifier: baidu
+  - `readme.md`: identifier: baidu
+- **banner**: found in 1 location(s)
+  - `readme.md`: identifier: banner
+- **Banner**: found in 1 location(s)
+  - `readme.md`: identifier: Banner
+- **based**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: based
+  - `LICENSE`: identifier: based
+- **baseFilename**: found in 2 location(s)
+  - `index.html`: identifier: baseFilename
+  - `main.py`: constant: baseFilename
+- **bases**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: bases
+- **bash**: found in 6 location(s)
+  - `start-http.sh`: identifier: bash
+  - `README-Cherry-Studio.md`: identifier: bash
+  - `repo_book_gen.py`: identifier: bash
+  - `setup-mac.sh`: identifier: bash
+  - `readme.md`: identifier: bash
+- **BATCH_SEND_INTERVAL**: found in 1 location(s)
+  - `main.py`: constant: BATCH_SEND_INTERVAL
+- **batches**: found in 1 location(s)
+  - `main.py`: identifier: batches
+- **bclass**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: bclass
+- **bconst**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: bconst
+- **bdef**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: bdef
+- **Bearer**: found in 1 location(s)
+  - `main.py`: identifier: Bearer
+- **been**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: been
+  - `LICENSE`: identifier: been
+- **BEEN**: found in 1 location(s)
+  - `LICENSE`: constant: BEEN
+- **before**: found in 1 location(s)
+  - `readme.md`: identifier: before
+- **BEING**: found in 1 location(s)
+  - `LICENSE`: constant: BEING
+- **believe**: found in 1 location(s)
+  - `LICENSE`: identifier: believe
+- **benum**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: benum
+- **Best**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Best
+- **best**: found in 1 location(s)
+  - `LICENSE`: identifier: best
+- **between**: found in 2 location(s)
+  - `index.html`: identifier: between
+  - `main.py`: identifier: between
+- **beyond**: found in 1 location(s)
+  - `LICENSE`: identifier: beyond
+- **bfunction**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: bfunction
+- **bilibili**: found in 1 location(s)
+  - `readme.md`: identifier: bilibili
+- **binary**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: binary
+- **Binary**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Binary
+- **binterface**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: binterface
+- **binwiederhier**: found in 1 location(s)
+  - `readme.md`: identifier: binwiederhier
+- **blet**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: blet
+- **BlinkMacSystemFont**: found in 1 location(s)
+  - `index.html`: identifier: BlinkMacSystemFont
+- **blob**: found in 1 location(s)
+  - `readme.md`: identifier: blob
+- **block**: found in 1 location(s)
+  - `index.html`: identifier: block
+- **BLUE**: found in 1 location(s)
+  - `setup-mac.sh`: constant: BLUE
+- **blue**: found in 1 location(s)
+  - `readme.md`: identifier: blue
+- **blur**: found in 1 location(s)
+  - `index.html`: identifier: blur
+- **BNaRQnYJYiPSqHHDb58B0yaPfCu**: found in 2 location(s)
+  - `index.html`: identifier: BNaRQnYJYiPSqHHDb58B0yaPfCu
+  - `main.py`: identifier: BNaRQnYJYiPSqHHDb58B0yaPfCu
+- **body**: found in 3 location(s)
+  - `index.html`: identifier: body
+  - `main.py`: identifier: body
+  - `LICENSE`: identifier: body
+- **BOLD**: found in 1 location(s)
+  - `setup-mac.sh`: constant: BOLD
+- **BOOK**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: BOOK
+- **Book**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Book
+- **book**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: book
+- **bool**: found in 2 location(s)
+  - `main.py`: identifier: bool
+  - `repo_book_gen.py`: identifier: bool
+- **Bootstrap**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Bootstrap
+- **border**: found in 2 location(s)
+  - `index.html`: identifier: border
+  - `main.py`: identifier: border
+- **botbuilder**: found in 1 location(s)
+  - `readme.md`: identifier: botbuilder
+- **BotFather**: found in 1 location(s)
+  - `readme.md`: identifier: BotFather
+- **both**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: both
+- **bots**: found in 1 location(s)
+  - `readme.md`: identifier: bots
+- **bottom**: found in 1 location(s)
+  - `index.html`: identifier: bottom
+- **brief**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: brief
+  - `LICENSE`: identifier: brief
+- **browse**: found in 1 location(s)
+  - `index.html`: identifier: browse
+- **btype**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: btype
+- **build**: found in 3 location(s)
+  - `pyproject.toml`: identifier: build
+  - `repo_book_gen.py`: identifier: build
+  - `readme.md`: identifier: build
+- **Build**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Build
+- **Builder**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Builder
+- **busiyi**: found in 2 location(s)
+  - `main.py`: identifier: busiyi
+  - `readme.md`: identifier: busiyi
+- **BUT**: found in 1 location(s)
+  - `LICENSE`: constant: BUT
+- **button**: found in 2 location(s)
+  - `index.html`: identifier: button
+  - `main.py`: constant: button
+- **buttons**: found in 2 location(s)
+  - `index.html`: identifier: buttons
+  - `main.py`: constant: buttons
+- **bvar**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: bvar
+- **Bypass**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: Bypass
+  - `setup-windows.bat`: identifier: Bypass
+- **bytes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: bytes
+- **Bytes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Bytes
+
+## C
+
+- **c8e6c9**: found in 1 location(s)
+  - `readme.md`: identifier: c8e6c9
+- **C8evK**: found in 1 location(s)
+  - `readme.md`: identifier: C8evK
+- **cache**: found in 2 location(s)
+  - `main.py`: identifier: cache
+  - `readme.md`: identifier: cache
+- **Cache**: found in 1 location(s)
+  - `main.py`: identifier: Cache
+- **calculate_news_weight**: found in 1 location(s)
+  - `main.py`: function: calculate_news_weight
+- **call**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: call
+- **called**: found in 1 location(s)
+  - `LICENSE`: identifier: called
+- **camelCase**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: camelCase
+- **cannot**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: cannot
+  - `LICENSE`: identifier: cannot
+- **canvas**: found in 2 location(s)
+  - `index.html`: identifier: canvas
+  - `main.py`: constant: canvas
+- **cargo**: found in 1 location(s)
+  - `setup-mac.sh`: identifier: cargo
+- **catch**: found in 1 location(s)
+  - `index.html`: identifier: catch
+- **cause**: found in 1 location(s)
+  - `LICENSE`: identifier: cause
+- **causes**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: causes
+- **cdnjs**: found in 1 location(s)
+  - `index.html`: identifier: cdnjs
+- **center**: found in 3 location(s)
+  - `index.html`: identifier: center
+  - `main.py`: identifier: center
+  - `readme.md`: identifier: center
+- **change**: found in 1 location(s)
+  - `LICENSE`: identifier: change
+- **Chapter**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Chapter
+- **characters**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: characters
+- **chars**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: chars
+- **charset**: found in 2 location(s)
+  - `index.html`: identifier: charset
+  - `main.py`: identifier: charset
+- **Chart**: found in 1 location(s)
+  - `readme.md`: identifier: Chart
+- **Chat**: found in 1 location(s)
+  - `readme.md`: identifier: Chat
+- **chat**: found in 1 location(s)
+  - `readme.md`: identifier: chat
+- **ChatGPT**: found in 1 location(s)
+  - `readme.md`: identifier: ChatGPT
+- **chcp**: found in 2 location(s)
+  - `start-http.bat`: identifier: chcp
+  - `setup-windows.bat`: identifier: chcp
+- **Check**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: Check
+  - `repo_book_gen.py`: identifier: Check
+- **check_version_update**: found in 1 location(s)
+  - `main.py`: function: check_version_update
+- **Checking**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Checking
+- **checkpoint**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: checkpoint
+- **checks**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: checks
+- **checksum**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: checksum
+- **checksums**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: checksums
+- **cherry**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: cherry
+  - `README-MCP-FAQ.md`: identifier: cherry
+- **Cherry**: found in 6 location(s)
+  - `README-Cherry-Studio.md`: identifier: Cherry
+  - `setup-windows-en.bat`: identifier: Cherry
+  - `setup-mac.sh`: identifier: Cherry
+  - `readme.md`: identifier: Cherry
+  - `README-MCP-FAQ.md`: identifier: Cherry
+- **child**: found in 2 location(s)
+  - `index.html`: identifier: child
+  - `main.py`: identifier: child
+- **chmod**: found in 1 location(s)
+  - `setup-mac.sh`: identifier: chmod
+- **choose**: found in 1 location(s)
+  - `LICENSE`: identifier: choose
+- **Chrome**: found in 1 location(s)
+  - `main.py`: identifier: Chrome
+- **chunk**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: chunk
+- **claim**: found in 1 location(s)
+  - `LICENSE`: identifier: claim
+- **class**: found in 4 location(s)
+  - `index.html`: identifier: class
+  - `main.py`: identifier: class
+  - `repo_book_gen.py`: identifier: class
+  - `LICENSE`: identifier: class
+- **Classes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Classes
+- **classes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: classes
+- **classification**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: classification
+- **classify**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: classify
+- **className**: found in 1 location(s)
+  - `main.py`: identifier: className
+- **Claude**: found in 1 location(s)
+  - `readme.md`: identifier: Claude
+- **claude**: found in 1 location(s)
+  - `readme.md`: identifier: claude
+- **clean_title**: found in 1 location(s)
+  - `main.py`: function: clean_title
+- **cleanup_old_records**: found in 1 location(s)
+  - `main.py`: function: cleanup_old_records
+- **clearly**: found in 1 location(s)
+  - `LICENSE`: identifier: clearly
+- **CLI**: found in 1 location(s)
+  - `readme.md`: constant: CLI
+- **click**: found in 2 location(s)
+  - `index.html`: identifier: click
+  - `main.py`: identifier: click
+- **Cline**: found in 1 location(s)
+  - `readme.md`: identifier: Cline
+- **Clone**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: Clone
+  - `README-MCP-FAQ.md`: identifier: Clone
+- **clone**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: clone
+  - `readme.md`: identifier: clone
+  - `README-MCP-FAQ.md`: identifier: clone
+- **clonedButtons**: found in 2 location(s)
+  - `index.html`: identifier: clonedButtons
+  - `main.py`: constant: clonedButtons
+- **clonedContainer**: found in 2 location(s)
+  - `index.html`: identifier: clonedContainer
+  - `main.py`: constant: clonedContainer
+- **cloneNode**: found in 2 location(s)
+  - `index.html`: identifier: cloneNode
+  - `main.py`: identifier: cloneNode
+- **Close**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Close
+- **cloudflare**: found in 2 location(s)
+  - `index.html`: identifier: cloudflare
+  - `main.py`: identifier: cloudflare
+- **Code**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: Code
+  - `readme.md`: identifier: Code
+  - `README-MCP-FAQ.md`: identifier: Code
+- **code**: found in 3 location(s)
+  - `main.py`: identifier: code
+  - `repo_book_gen.py`: identifier: code
+  - `readme.md`: identifier: code
+- **codebase**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: codebase
+- **Collect**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Collect
+- **collect**: found in 1 location(s)
+  - `LICENSE`: identifier: collect
+- **collections**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: collections
+- **color**: found in 3 location(s)
+  - `index.html`: identifier: color
+  - `main.py`: identifier: color
+  - `readme.md`: identifier: color
+- **Color**: found in 1 location(s)
+  - `setup-mac.sh`: identifier: Color
+- **column**: found in 2 location(s)
+  - `index.html`: identifier: column
+  - `main.py`: identifier: column
+- **columns**: found in 2 location(s)
+  - `index.html`: identifier: columns
+  - `main.py`: identifier: columns
+- **combination**: found in 1 location(s)
+  - `LICENSE`: identifier: combination
+- **combine**: found in 1 location(s)
+  - `LICENSE`: identifier: combine
+- **combined**: found in 1 location(s)
+  - `LICENSE`: identifier: combined
+- **Command**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: Command
+  - `setup-windows.bat`: identifier: Command
+- **command**: found in 2 location(s)
+  - `setup-mac.sh`: identifier: command
+  - `readme.md`: identifier: command
+- **commands**: found in 1 location(s)
+  - `LICENSE`: identifier: commands
+- **comment**: found in 1 location(s)
+  - `readme.md`: identifier: comment
+- **Commit**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Commit
+- **commit**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: commit
+- **commitment**: found in 1 location(s)
+  - `LICENSE`: identifier: commitment
+- **common**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: common
+- **communication**: found in 1 location(s)
+  - `LICENSE`: identifier: communication
+- **compilation**: found in 1 location(s)
+  - `LICENSE`: identifier: compilation
+- **Complete**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Complete
+- **COMPLETE**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: COMPLETE
+- **complete**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: complete
+- **Component**: found in 1 location(s)
+  - `LICENSE`: identifier: Component
+- **compose**: found in 1 location(s)
+  - `readme.md`: identifier: compose
+- **comprehensive**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: comprehensive
+- **Comprehensive**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Comprehensive
+- **Compute**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Compute
+- **compute_file_hash**: found in 1 location(s)
+  - `repo_book_gen.py`: function: compute_file_hash
+- **concerning**: found in 1 location(s)
+  - `LICENSE`: identifier: concerning
+- **concerns**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: concerns
+- **conditioned**: found in 1 location(s)
+  - `LICENSE`: identifier: conditioned
+- **CONDITIONS**: found in 1 location(s)
+  - `LICENSE`: constant: CONDITIONS
+- **conditions**: found in 1 location(s)
+  - `LICENSE`: identifier: conditions
+- **conf**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: conf
+- **config**: found in 6 location(s)
+  - `setup-windows-en.bat`: identifier: config
+  - `main.py`: identifier: config
+  - `repo_book_gen.py`: identifier: config
+  - `setup-mac.sh`: identifier: config
+  - `readme.md`: identifier: config
+- **CONFIG**: found in 1 location(s)
+  - `main.py`: constant: CONFIG
+- **CONFIG_PATH**: found in 1 location(s)
+  - `main.py`: constant: CONFIG_PATH
+- **configuration**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: configuration
+  - `repo_book_gen.py`: identifier: configuration
+- **Configuration**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Configuration
+- **connection**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: connection
+- **Connection**: found in 1 location(s)
+  - `main.py`: identifier: Connection
+- **ConnectionError**: found in 1 location(s)
+  - `main.py`: identifier: ConnectionError
+- **ConnectTimeout**: found in 1 location(s)
+  - `main.py`: identifier: ConnectTimeout
+- **consequence**: found in 1 location(s)
+  - `LICENSE`: identifier: consequence
+- **CONSEQUENTIAL**: found in 1 location(s)
+  - `LICENSE`: constant: CONSEQUENTIAL
+- **consider**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: consider
+- **Consolas**: found in 1 location(s)
+  - `main.py`: identifier: Consolas
+- **console**: found in 3 location(s)
+  - `index.html`: identifier: console
+  - `main.py`: identifier: console
+  - `repo_book_gen.py`: identifier: console
+- **const**: found in 1 location(s)
+  - `index.html`: identifier: const
+- **constants**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: constants
+- **construed**: found in 1 location(s)
+  - `LICENSE`: identifier: construed
+- **consumer**: found in 1 location(s)
+  - `LICENSE`: identifier: consumer
+- **contact**: found in 1 location(s)
+  - `LICENSE`: identifier: contact
+- **container**: found in 2 location(s)
+  - `index.html`: identifier: container
+  - `main.py`: constant: container
+- **containerRect**: found in 2 location(s)
+  - `index.html`: identifier: containerRect
+  - `main.py`: constant: containerRect
+- **containing**: found in 1 location(s)
+  - `LICENSE`: identifier: containing
+- **contains**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: contains
+  - `LICENSE`: identifier: contains
+- **content**: found in 5 location(s)
+  - `index.html`: identifier: content
+  - `main.py`: identifier: content
+  - `repo_book_gen.py`: identifier: content
+  - `LICENSE`: identifier: content
+  - `readme.md`: identifier: content
+- **Contents**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Contents
+- **context**: found in 3 location(s)
+  - `repo_book_gen.py`: identifier: context
+  - `LICENSE`: identifier: context
+  - `readme.md`: identifier: context
+- **Context**: found in 1 location(s)
+  - `readme.md`: identifier: Context
+- **continue**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: continue
+  - `readme.md`: identifier: continue
+- **Continue**: found in 1 location(s)
+  - `readme.md`: identifier: Continue
+- **contrast**: found in 1 location(s)
+  - `LICENSE`: identifier: contrast
+- **Control**: found in 1 location(s)
+  - `main.py`: identifier: Control
+- **control**: found in 1 location(s)
+  - `LICENSE`: identifier: control
+- **convenient**: found in 1 location(s)
+  - `LICENSE`: identifier: convenient
+- **Convey**: found in 1 location(s)
+  - `LICENSE`: identifier: Convey
+- **conveyed**: found in 1 location(s)
+  - `LICENSE`: identifier: conveyed
+- **CONVEYS**: found in 1 location(s)
+  - `LICENSE`: constant: CONVEYS
+- **Copies**: found in 1 location(s)
+  - `LICENSE`: identifier: Copies
+- **copy**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: copy
+  - `main.py`: identifier: copy
+  - `setup-windows.bat`: identifier: copy
+- **copying**: found in 1 location(s)
+  - `LICENSE`: identifier: copying
+- **COPYRIGHT**: found in 1 location(s)
+  - `LICENSE`: constant: COPYRIGHT
+- **copyrightable**: found in 1 location(s)
+  - `LICENSE`: identifier: copyrightable
+- **core**: found in 1 location(s)
+  - `readme.md`: identifier: core
+- **CORRECTION**: found in 1 location(s)
+  - `LICENSE`: constant: CORRECTION
+- **Corresponding**: found in 1 location(s)
+  - `LICENSE`: identifier: Corresponding
+- **COST**: found in 1 location(s)
+  - `LICENSE`: constant: COST
+- **Could**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Could
+- **count**: found in 3 location(s)
+  - `index.html`: identifier: count
+  - `main.py`: identifier: count
+  - `repo_book_gen.py`: identifier: count
+- **count_word_frequency**: found in 1 location(s)
+  - `main.py`: function: count_word_frequency
+- **count_words**: found in 1 location(s)
+  - `repo_book_gen.py`: function: count_words
+- **court**: found in 1 location(s)
+  - `LICENSE`: identifier: court
+- **covenant**: found in 1 location(s)
+  - `LICENSE`: identifier: covenant
+- **crawl_websites**: found in 1 location(s)
+  - `main.py`: function: crawl_websites
+- **crawler**: found in 1 location(s)
+  - `readme.md`: identifier: crawler
+- **Crawler**: found in 1 location(s)
+  - `readme.md`: identifier: Crawler
+- **Create**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Create
+- **Created**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Created
+- **created**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: created
+- **createElement**: found in 2 location(s)
+  - `index.html`: identifier: createElement
+  - `main.py`: identifier: createElement
+- **criterion**: found in 1 location(s)
+  - `LICENSE`: identifier: criterion
+- **CRLF**: found in 1 location(s)
+  - `readme.md`: constant: CRLF
+- **cron**: found in 1 location(s)
+  - `readme.md`: identifier: cron
+- **CRON_SCHEDULE**: found in 1 location(s)
+  - `readme.md`: constant: CRON_SCHEDULE
+- **crossorigin**: found in 2 location(s)
+  - `index.html`: identifier: crossorigin
+  - `main.py`: identifier: crossorigin
+- **cssText**: found in 1 location(s)
+  - `index.html`: identifier: cssText
+- **Ctrl**: found in 2 location(s)
+  - `start-http.bat`: identifier: Ctrl
+  - `start-http.sh`: identifier: Ctrl
+- **curl**: found in 2 location(s)
+  - `setup-mac.sh`: identifier: curl
+  - `readme.md`: identifier: curl
+- **current**: found in 4 location(s)
+  - `setup-windows-en.bat`: identifier: current
+  - `main.py`: identifier: current
+  - `repo_book_gen.py`: identifier: current
+  - `readme.md`: identifier: current
+- **Current**: found in 1 location(s)
+  - `main.py`: identifier: Current
+- **currentSegment**: found in 2 location(s)
+  - `index.html`: identifier: currentSegment
+  - `main.py`: variable: currentSegment
+- **cursor**: found in 3 location(s)
+  - `index.html`: identifier: cursor
+  - `main.py`: identifier: cursor
+  - `readme.md`: identifier: cursor
+- **Cursor**: found in 1 location(s)
+  - `readme.md`: identifier: Cursor
+
+## D
+
+- **daily**: found in 2 location(s)
+  - `main.py`: identifier: daily
+  - `readme.md`: identifier: daily
+- **DAMAGES**: found in 1 location(s)
+  - `LICENSE`: constant: DAMAGES
+- **danger**: found in 1 location(s)
+  - `LICENSE`: identifier: danger
+- **DATA**: found in 1 location(s)
+  - `LICENSE`: constant: DATA
+- **DataFetcher**: found in 1 location(s)
+  - `main.py`: class: DataFetcher
+- **Date**: found in 4 location(s)
+  - `index.html`: identifier: Date
+  - `main.py`: identifier: Date
+  - `repo_book_gen.py`: identifier: Date
+  - `readme.md`: identifier: Date
+- **datetime**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: datetime
+- **days**: found in 2 location(s)
+  - `main.py`: identifier: days
+  - `LICENSE`: identifier: days
+- **dc2626**: found in 1 location(s)
+  - `index.html`: identifier: dc2626
+- **decide**: found in 1 location(s)
+  - `LICENSE`: identifier: decide
+- **decode**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: decode
+- **decoration**: found in 1 location(s)
+  - `index.html`: identifier: decoration
+- **deemed**: found in 1 location(s)
+  - `LICENSE`: identifier: deemed
+- **DeepSeek**: found in 1 location(s)
+  - `index.html`: identifier: DeepSeek
+- **default**: found in 2 location(s)
+  - `main.py`: identifier: default
+  - `repo_book_gen.py`: identifier: default
+- **DEFAULT_PROXY**: found in 1 location(s)
+  - `main.py`: constant: DEFAULT_PROXY
+- **defaultdict**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: defaultdict
+- **DEFECTIVE**: found in 1 location(s)
+  - `LICENSE`: constant: DEFECTIVE
+- **defenses**: found in 1 location(s)
+  - `LICENSE`: identifier: defenses
+- **defined**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: defined
+  - `LICENSE`: identifier: defined
+  - `setup-windows.bat`: identifier: defined
+- **definition**: found in 1 location(s)
+  - `LICENSE`: identifier: definition
+- **definitions**: found in 1 location(s)
+  - `repo_book_gen.py`: class: definitions
+- **DELETE**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: DELETE
+- **denied**: found in 1 location(s)
+  - `LICENSE`: identifier: denied
+- **denominated**: found in 1 location(s)
+  - `LICENSE`: identifier: denominated
+- **dependencies**: found in 2 location(s)
+  - `pyproject.toml`: identifier: dependencies
+  - `setup-windows-en.bat`: identifier: dependencies
+- **dependency**: found in 1 location(s)
+  - `pyproject.toml`: identifier: dependency
+- **Dependency**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Dependency
+- **description**: found in 4 location(s)
+  - `pyproject.toml`: identifier: description
+  - `main.py`: identifier: description
+  - `repo_book_gen.py`: identifier: description
+  - `readme.md`: identifier: description
+- **designed**: found in 1 location(s)
+  - `LICENSE`: identifier: designed
+- **Desktop**: found in 1 location(s)
+  - `readme.md`: identifier: Desktop
+- **detail**: found in 2 location(s)
+  - `index.html`: identifier: detail
+  - `LICENSE`: identifier: detail
+- **details**: found in 2 location(s)
+  - `LICENSE`: identifier: details
+  - `readme.md`: identifier: details
+- **detect_latest_new_titles**: found in 1 location(s)
+  - `main.py`: function: detect_latest_new_titles
+- **detected**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: detected
+  - `repo_book_gen.py`: identifier: detected
+- **Determine**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Determine
+- **determining**: found in 1 location(s)
+  - `LICENSE`: identifier: determining
+- **developer**: found in 1 location(s)
+  - `readme.md`: identifier: developer
+- **Developers**: found in 1 location(s)
+  - `LICENSE`: identifier: Developers
+- **developers**: found in 1 location(s)
+  - `LICENSE`: identifier: developers
+- **device**: found in 1 location(s)
+  - `index.html`: identifier: device
+- **Dict**: found in 2 location(s)
+  - `main.py`: identifier: Dict
+  - `repo_book_gen.py`: identifier: Dict
+- **dict**: found in 2 location(s)
+  - `main.py`: identifier: dict
+  - `repo_book_gen.py`: identifier: dict
+- **differ**: found in 1 location(s)
+  - `LICENSE`: identifier: differ
+- **differently**: found in 1 location(s)
+  - `LICENSE`: identifier: differently
+- **dingtalk**: found in 1 location(s)
+  - `main.py`: identifier: dingtalk
+- **DINGTALK_BATCH_SIZE**: found in 1 location(s)
+  - `main.py`: constant: DINGTALK_BATCH_SIZE
+- **DINGTALK_WEBHOOK_URL**: found in 2 location(s)
+  - `main.py`: constant: DINGTALK_WEBHOOK_URL
+  - `readme.md`: constant: DINGTALK_WEBHOOK_URL
+- **direction**: found in 1 location(s)
+  - `index.html`: identifier: direction
+- **directly**: found in 1 location(s)
+  - `LICENSE`: identifier: directly
+- **directories**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: directories
+- **Directory**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Directory
+- **directory**: found in 6 location(s)
+  - `setup-windows-en.bat`: identifier: directory
+  - `main.py`: identifier: directory
+  - `repo_book_gen.py`: identifier: directory
+  - `setup-mac.sh`: identifier: directory
+  - `readme.md`: identifier: directory
+- **dirname**: found in 1 location(s)
+  - `setup-mac.sh`: identifier: dirname
+- **disabled**: found in 3 location(s)
+  - `index.html`: identifier: disabled
+  - `main.py`: identifier: disabled
+  - `readme.md`: identifier: disabled
+- **disclaim**: found in 1 location(s)
+  - `LICENSE`: identifier: disclaim
+- **Disclaimer**: found in 1 location(s)
+  - `LICENSE`: identifier: Disclaimer
+- **display**: found in 2 location(s)
+  - `index.html`: identifier: display
+  - `repo_book_gen.py`: identifier: display
+- **dist**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: dist
+- **distinguishing**: found in 1 location(s)
+  - `LICENSE`: identifier: distinguishing
+- **distribute**: found in 1 location(s)
+  - `LICENSE`: identifier: distribute
+- **distributed**: found in 1 location(s)
+  - `LICENSE`: identifier: distributed
+- **Docker**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: Docker
+  - `readme.md`: identifier: Docker
+  - `README-MCP-FAQ.md`: identifier: Docker
+- **docker**: found in 2 location(s)
+  - `readme.md`: identifier: docker
+  - `.dockerignore`: identifier: docker
+- **DOCKER_CONTAINER**: found in 1 location(s)
+  - `main.py`: constant: DOCKER_CONTAINER
+- **Dockerfile**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Dockerfile
+- **dockerignore**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: dockerignore
+- **docs**: found in 5 location(s)
+  - `setup-windows-en.bat`: identifier: docs
+  - `repo_book_gen.py`: identifier: docs
+  - `setup-mac.sh`: identifier: docs
+  - `readme.md`: identifier: docs
+  - `setup-windows.bat`: identifier: docs
+- **Docs**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Docs
+- **docstrings**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: docstrings
+- **DOCTYPE**: found in 2 location(s)
+  - `index.html`: constant: DOCTYPE
+  - `main.py`: constant: DOCTYPE
+- **document**: found in 4 location(s)
+  - `index.html`: identifier: document
+  - `main.py`: identifier: document
+  - `LICENSE`: identifier: document
+  - `readme.md`: identifier: document
+- **Document**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Document
+- **Documentation**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: Documentation
+  - `repo_book_gen.py`: identifier: Documentation
+- **documentation**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: documentation
+- **docx**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: docx
+- **domain**: found in 1 location(s)
+  - `main.py`: identifier: domain
+- **domains**: found in 1 location(s)
+  - `LICENSE`: identifier: domains
+- **DOMContentLoaded**: found in 1 location(s)
+  - `index.html`: identifier: DOMContentLoaded
+- **DOTALL**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: DOTALL
+- **Dots**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Dots
+- **down**: found in 1 location(s)
+  - `readme.md`: identifier: down
+- **download**: found in 2 location(s)
+  - `index.html`: identifier: download
+  - `main.py`: identifier: download
+- **Download**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: Download
+  - `setup-windows-en.bat`: identifier: Download
+  - `README-MCP-FAQ.md`: identifier: Download
+- **downloads**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: downloads
+  - `setup-windows.bat`: identifier: downloads
+- **Droid**: found in 1 location(s)
+  - `readme.md`: identifier: Droid
+- **droid**: found in 1 location(s)
+  - `readme.md`: identifier: droid
+- **dump**: found in 2 location(s)
+  - `main.py`: identifier: dump
+  - `repo_book_gen.py`: identifier: dump
+- **dumps**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: dumps
+- **dwelling**: found in 1 location(s)
+  - `LICENSE`: identifier: dwelling
+- **dylib**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: dylib
+- **dynamically**: found in 1 location(s)
+  - `LICENSE`: identifier: dynamically
+
+## E
+
+- **e0f2f1**: found in 1 location(s)
+  - `readme.md`: identifier: e0f2f1
+- **e1bee7**: found in 1 location(s)
+  - `readme.md`: identifier: e1bee7
+- **e3f2fd**: found in 1 location(s)
+  - `readme.md`: identifier: e3f2fd
+- **e5e7eb**: found in 1 location(s)
+  - `index.html`: identifier: e5e7eb
+- **e8f5e9**: found in 1 location(s)
+  - `readme.md`: identifier: e8f5e9
+- **ea580c**: found in 2 location(s)
+  - `index.html`: identifier: ea580c
+  - `main.py`: identifier: ea580c
+- **Each**: found in 1 location(s)
+  - `LICENSE`: identifier: Each
+- **earlier**: found in 1 location(s)
+  - `LICENSE`: identifier: earlier
+- **ease**: found in 1 location(s)
+  - `index.html`: identifier: ease
+- **Eason**: found in 1 location(s)
+  - `readme.md`: identifier: Eason
+- **echo**: found in 5 location(s)
+  - `start-http.bat`: identifier: echo
+  - `start-http.sh`: identifier: echo
+  - `setup-windows-en.bat`: identifier: echo
+  - `setup-mac.sh`: identifier: echo
+  - `setup-windows.bat`: identifier: echo
+- **editorconfig**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: editorconfig
+- **effective**: found in 1 location(s)
+  - `LICENSE`: identifier: effective
+- **effectively**: found in 1 location(s)
+  - `LICENSE`: identifier: effectively
+- **efforts**: found in 1 location(s)
+  - `LICENSE`: identifier: efforts
+- **ehlo**: found in 1 location(s)
+  - `main.py`: identifier: ehlo
+- **EITHER**: found in 1 location(s)
+  - `LICENSE`: constant: EITHER
+- **either**: found in 1 location(s)
+  - `LICENSE`: identifier: either
+- **electronic**: found in 1 location(s)
+  - `LICENSE`: identifier: electronic
+- **element**: found in 2 location(s)
+  - `index.html`: identifier: element
+  - `main.py`: constant: element
+- **elements**: found in 2 location(s)
+  - `index.html`: identifier: elements
+  - `main.py`: constant: elements
+- **elif**: found in 2 location(s)
+  - `main.py`: identifier: elif
+  - `repo_book_gen.py`: identifier: elif
+- **else**: found in 4 location(s)
+  - `index.html`: identifier: else
+  - `setup-windows-en.bat`: identifier: else
+  - `setup-mac.sh`: identifier: else
+  - `setup-windows.bat`: identifier: else
+- **Email**: found in 1 location(s)
+  - `readme.md`: identifier: Email
+- **EMAIL_FROM**: found in 2 location(s)
+  - `main.py`: constant: EMAIL_FROM
+  - `readme.md`: constant: EMAIL_FROM
+- **EMAIL_PASSWORD**: found in 2 location(s)
+  - `main.py`: constant: EMAIL_PASSWORD
+  - `readme.md`: constant: EMAIL_PASSWORD
+- **EMAIL_SMTP_PORT**: found in 2 location(s)
+  - `main.py`: constant: EMAIL_SMTP_PORT
+  - `readme.md`: constant: EMAIL_SMTP_PORT
+- **EMAIL_SMTP_SERVER**: found in 2 location(s)
+  - `main.py`: constant: EMAIL_SMTP_SERVER
+  - `readme.md`: constant: EMAIL_SMTP_SERVER
+- **EMAIL_TO**: found in 2 location(s)
+  - `main.py`: constant: EMAIL_TO
+  - `readme.md`: constant: EMAIL_TO
+- **embodied**: found in 1 location(s)
+  - `LICENSE`: identifier: embodied
+- **ENABLE_CRAWLER**: found in 2 location(s)
+  - `main.py`: constant: ENABLE_CRAWLER
+  - `readme.md`: constant: ENABLE_CRAWLER
+- **ENABLE_NOTIFICATION**: found in 2 location(s)
+  - `main.py`: constant: ENABLE_NOTIFICATION
+  - `readme.md`: constant: ENABLE_NOTIFICATION
+- **ENABLED**: found in 1 location(s)
+  - `main.py`: constant: ENABLED
+- **enabled**: found in 2 location(s)
+  - `main.py`: identifier: enabled
+  - `readme.md`: identifier: enabled
+- **enabledelayedexpansion**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: enabledelayedexpansion
+  - `setup-windows.bat`: identifier: enabledelayedexpansion
+- **enables**: found in 1 location(s)
+  - `LICENSE`: identifier: enables
+- **encode**: found in 1 location(s)
+  - `main.py`: identifier: encode
+- **encoding**: found in 2 location(s)
+  - `main.py`: identifier: encoding
+  - `repo_book_gen.py`: identifier: encoding
+- **encountered**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: encountered
+- **encryption**: found in 1 location(s)
+  - `main.py`: identifier: encryption
+- **END**: found in 2 location(s)
+  - `main.py`: constant: END
+  - `LICENSE`: constant: END
+- **endswith**: found in 1 location(s)
+  - `main.py`: identifier: endswith
+- **ensure_directory_exists**: found in 1 location(s)
+  - `main.py`: function: ensure_directory_exists
+- **ensure_record_dir**: found in 1 location(s)
+  - `main.py`: function: ensure_record_dir
+- **entered**: found in 1 location(s)
+  - `LICENSE`: identifier: entered
+- **ENTIRE**: found in 1 location(s)
+  - `LICENSE`: constant: ENTIRE
+- **entirely**: found in 1 location(s)
+  - `LICENSE`: identifier: entirely
+- **entry**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: entry
+- **enum**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: enum
+- **enumerate**: found in 2 location(s)
+  - `main.py`: identifier: enumerate
+  - `repo_book_gen.py`: identifier: enumerate
+- **errcode**: found in 1 location(s)
+  - `main.py`: identifier: errcode
+- **errmsg**: found in 1 location(s)
+  - `main.py`: identifier: errmsg
+- **error**: found in 3 location(s)
+  - `index.html`: identifier: error
+  - `main.py`: identifier: error
+  - `repo_book_gen.py`: identifier: error
+- **ERROR**: found in 1 location(s)
+  - `setup-windows-en.bat`: constant: ERROR
+- **Error**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Error
+- **errorlevel**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: errorlevel
+  - `setup-windows.bat`: identifier: errorlevel
+- **errors**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: errors
+- **Errors**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Errors
+- **errorSection**: found in 1 location(s)
+  - `main.py`: constant: errorSection
+- **essential**: found in 1 location(s)
+  - `LICENSE`: identifier: essential
+- **Estimate**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Estimate
+- **estimated**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: estimated
+- **EVEN**: found in 1 location(s)
+  - `LICENSE`: constant: EVEN
+- **event**: found in 2 location(s)
+  - `index.html`: identifier: event
+  - `main.py`: identifier: event
+- **EVENT**: found in 1 location(s)
+  - `LICENSE`: constant: EVENT
+- **every**: found in 1 location(s)
+  - `LICENSE`: identifier: every
+- **Everyone**: found in 1 location(s)
+  - `LICENSE`: identifier: Everyone
+- **exact**: found in 1 location(s)
+  - `LICENSE`: identifier: exact
+- **example**: found in 4 location(s)
+  - `setup-windows-en.bat`: identifier: example
+  - `repo_book_gen.py`: identifier: example
+  - `readme.md`: identifier: example
+  - `setup-windows.bat`: identifier: example
+- **Example**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Example
+- **except**: found in 2 location(s)
+  - `main.py`: identifier: except
+  - `repo_book_gen.py`: identifier: except
+- **EXCEPT**: found in 1 location(s)
+  - `LICENSE`: constant: EXCEPT
+- **Exception**: found in 2 location(s)
+  - `main.py`: identifier: Exception
+  - `repo_book_gen.py`: identifier: Exception
+- **exceptions**: found in 2 location(s)
+  - `main.py`: identifier: exceptions
+  - `LICENSE`: identifier: exceptions
+- **excluding**: found in 1 location(s)
+  - `LICENSE`: identifier: excluding
+- **exclusive**: found in 1 location(s)
+  - `LICENSE`: identifier: exclusive
+- **exclusively**: found in 1 location(s)
+  - `LICENSE`: identifier: exclusively
+- **exec**: found in 1 location(s)
+  - `readme.md`: identifier: exec
+- **executable**: found in 1 location(s)
+  - `LICENSE`: identifier: executable
+- **executing**: found in 1 location(s)
+  - `LICENSE`: identifier: executing
+- **execution**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: execution
+- **ExecutionPolicy**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: ExecutionPolicy
+  - `setup-windows.bat`: identifier: ExecutionPolicy
+- **exist**: found in 3 location(s)
+  - `start-http.bat`: identifier: exist
+  - `setup-windows-en.bat`: identifier: exist
+  - `setup-windows.bat`: identifier: exist
+- **exists**: found in 2 location(s)
+  - `main.py`: identifier: exists
+  - `repo_book_gen.py`: identifier: exists
+- **exit**: found in 5 location(s)
+  - `start-http.bat`: identifier: exit
+  - `start-http.sh`: identifier: exit
+  - `setup-windows-en.bat`: identifier: exit
+  - `setup-mac.sh`: identifier: exit
+  - `setup-windows.bat`: identifier: exit
+- **experimental**: found in 1 location(s)
+  - `readme.md`: identifier: experimental
+- **explains**: found in 1 location(s)
+  - `LICENSE`: identifier: explains
+- **export**: found in 1 location(s)
+  - `setup-mac.sh`: identifier: export
+- **EXPRESSED**: found in 1 location(s)
+  - `LICENSE`: constant: EXPRESSED
+- **extend**: found in 3 location(s)
+  - `main.py`: identifier: extend
+  - `repo_book_gen.py`: identifier: extend
+  - `LICENSE`: identifier: extend
+- **EXTENT**: found in 1 location(s)
+  - `LICENSE`: constant: EXTENT
+- **extent**: found in 1 location(s)
+  - `LICENSE`: identifier: extent
+- **External**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: External
+- **Extract**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Extract
+- **extract_keywords**: found in 1 location(s)
+  - `repo_book_gen.py`: function: extract_keywords
+- **extracted**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: extracted
+
+## F
+
+- **f0f0f0**: found in 2 location(s)
+  - `index.html`: identifier: f0f0f0
+  - `main.py`: identifier: f0f0f0
+- **f3e5f5**: found in 1 location(s)
+  - `readme.md`: identifier: f3e5f5
+- **f5f5f5**: found in 1 location(s)
+  - `index.html`: identifier: f5f5f5
+- **f8f9fa**: found in 2 location(s)
+  - `index.html`: identifier: f8f9fa
+  - `main.py`: identifier: f8f9fa
+- **f9f9f9**: found in 1 location(s)
+  - `main.py`: identifier: f9f9f9
+- **fafafa**: found in 1 location(s)
+  - `index.html`: identifier: fafafa
+- **failed**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: failed
+- **FAILURE**: found in 1 location(s)
+  - `LICENSE`: constant: FAILURE
+- **fair**: found in 1 location(s)
+  - `LICENSE`: identifier: fair
+- **family**: found in 1 location(s)
+  - `index.html`: identifier: family
+- **FAQ**: found in 1 location(s)
+  - `readme.md`: constant: FAQ
+- **fastmcp**: found in 2 location(s)
+  - `requirements.txt`: identifier: fastmcp
+  - `pyproject.toml`: identifier: fastmcp
+- **fce4ec**: found in 1 location(s)
+  - `readme.md`: identifier: fce4ec
+- **fe4947**: found in 1 location(s)
+  - `readme.md`: identifier: fe4947
+- **fecaca**: found in 1 location(s)
+  - `main.py`: identifier: fecaca
+- **fef2f2**: found in 1 location(s)
+  - `main.py`: identifier: fef2f2
+- **feishu**: found in 1 location(s)
+  - `readme.md`: identifier: feishu
+- **FEISHU_BATCH_SIZE**: found in 1 location(s)
+  - `main.py`: constant: FEISHU_BATCH_SIZE
+- **FEISHU_MESSAGE_SEPARATOR**: found in 1 location(s)
+  - `main.py`: constant: FEISHU_MESSAGE_SEPARATOR
+- **FEISHU_SHOW_VERSION_UPDATE**: found in 1 location(s)
+  - `readme.md`: constant: FEISHU_SHOW_VERSION_UPDATE
+- **FEISHU_WEBHOOK_URL**: found in 2 location(s)
+  - `main.py`: constant: FEISHU_WEBHOOK_URL
+  - `readme.md`: constant: FEISHU_WEBHOOK_URL
+- **fetch_data**: found in 1 location(s)
+  - `main.py`: function: fetch_data
+- **FF6B6B**: found in 1 location(s)
+  - `readme.md`: constant: FF6B6B
+- **fff3e0**: found in 1 location(s)
+  - `readme.md`: identifier: fff3e0
+- **fff9c4**: found in 1 location(s)
+  - `readme.md`: identifier: fff9c4
+- **ffffff**: found in 2 location(s)
+  - `index.html`: identifier: ffffff
+  - `main.py`: identifier: ffffff
+- **file**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: file
+  - `readme.md`: identifier: file
+- **File**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: File
+- **filename**: found in 2 location(s)
+  - `index.html`: identifier: filename
+  - `main.py`: constant: filename
+- **FileNotFoundError**: found in 1 location(s)
+  - `main.py`: identifier: FileNotFoundError
+- **filepath**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: filepath
+- **Files**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Files
+- **files**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: files
+  - `readme.md`: identifier: files
+- **fill**: found in 1 location(s)
+  - `readme.md`: identifier: fill
+- **filter**: found in 1 location(s)
+  - `index.html`: identifier: filter
+- **Filter**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Filter
+- **filtered**: found in 1 location(s)
+  - `readme.md`: identifier: filtered
+- **FINAL**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: FINAL
+- **Final**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Final
+- **finally**: found in 1 location(s)
+  - `LICENSE`: identifier: finally
+- **find**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: find
+- **Find**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: Find
+  - `readme.md`: identifier: Find
+- **findall**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: findall
+- **finditer**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: finditer
+- **findstr**: found in 1 location(s)
+  - `readme.md`: identifier: findstr
+- **first**: found in 4 location(s)
+  - `index.html`: identifier: first
+  - `main.py`: identifier: first
+  - `repo_book_gen.py`: identifier: first
+  - `LICENSE`: identifier: first
+- **fish**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: fish
+- **FITNESS**: found in 1 location(s)
+  - `LICENSE`: constant: FITNESS
+- **fixed**: found in 1 location(s)
+  - `LICENSE`: identifier: fixed
+- **flat**: found in 1 location(s)
+  - `readme.md`: identifier: flat
+- **flex**: found in 2 location(s)
+  - `index.html`: identifier: flex
+  - `main.py`: identifier: flex
+- **flow**: found in 1 location(s)
+  - `readme.md`: identifier: flow
+- **flowchart**: found in 1 location(s)
+  - `readme.md`: identifier: flowchart
+- **FOCUS_NEW_ONLY**: found in 1 location(s)
+  - `readme.md`: constant: FOCUS_NEW_ONLY
+- **folder**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: folder
+- **folders**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: folders
+- **follow**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: follow
+- **font**: found in 1 location(s)
+  - `index.html`: identifier: font
+- **footer**: found in 2 location(s)
+  - `index.html`: identifier: footer
+  - `main.py`: constant: footer
+- **footerRect**: found in 2 location(s)
+  - `index.html`: identifier: footerRect
+  - `main.py`: constant: footerRect
+- **FOR**: found in 1 location(s)
+  - `LICENSE`: constant: FOR
+- **force**: found in 1 location(s)
+  - `LICENSE`: identifier: force
+- **forEach**: found in 2 location(s)
+  - `index.html`: identifier: forEach
+  - `main.py`: identifier: forEach
+- **foreignObjectRendering**: found in 2 location(s)
+  - `index.html`: identifier: foreignObjectRendering
+  - `main.py`: identifier: foreignObjectRendering
+- **fork**: found in 1 location(s)
+  - `readme.md`: identifier: fork
+- **Fork**: found in 1 location(s)
+  - `readme.md`: identifier: Fork
+- **forks**: found in 1 location(s)
+  - `readme.md`: identifier: forks
+- **Forks**: found in 1 location(s)
+  - `readme.md`: identifier: Forks
+- **format**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: format
+  - `LICENSE`: identifier: format
+- **format_date_folder**: found in 1 location(s)
+  - `main.py`: function: format_date_folder
+- **format_rank_display**: found in 1 location(s)
+  - `main.py`: function: format_rank_display
+- **format_time_display**: found in 1 location(s)
+  - `main.py`: function: format_time_display
+- **format_time_filename**: found in 1 location(s)
+  - `main.py`: function: format_time_filename
+- **format_title_for_platform**: found in 1 location(s)
+  - `main.py`: function: format_title_for_platform
+- **formataddr**: found in 1 location(s)
+  - `main.py`: identifier: formataddr
+- **formatdate**: found in 1 location(s)
+  - `main.py`: identifier: formatdate
+- **Forms**: found in 1 location(s)
+  - `LICENSE`: identifier: Forms
+- **found**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: found
+  - `repo_book_gen.py`: identifier: found
+- **Free**: found in 1 location(s)
+  - `LICENSE`: identifier: Free
+- **freedom**: found in 1 location(s)
+  - `LICENSE`: identifier: freedom
+- **frequency**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: frequency
+- **FREQUENCY_WEIGHT**: found in 1 location(s)
+  - `main.py`: constant: FREQUENCY_WEIGHT
+- **FREQUENCY_WORDS_PATH**: found in 1 location(s)
+  - `main.py`: constant: FREQUENCY_WORDS_PATH
+- **full**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: full
+  - `LICENSE`: identifier: full
+- **Full**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Full
+- **func**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: func
+- **function**: found in 3 location(s)
+  - `index.html`: identifier: function
+  - `main.py`: identifier: function
+  - `repo_book_gen.py`: identifier: function
+- **Function**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Function
+- **functions**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: functions
+- **Functions**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Functions
+- **fundamentally**: found in 1 location(s)
+  - `LICENSE`: identifier: fundamentally
+- **further**: found in 1 location(s)
+  - `LICENSE`: identifier: further
+
+## G
+
+- **Gecko**: found in 1 location(s)
+  - `main.py`: identifier: Gecko
+- **GENERAL**: found in 1 location(s)
+  - `LICENSE`: constant: GENERAL
+- **generally**: found in 1 location(s)
+  - `LICENSE`: identifier: generally
+- **generate**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: generate
+- **Generate**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Generate
+- **generate_comprehensive_book**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_comprehensive_book
+- **generate_file_docs**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_file_docs
+- **generate_file_keywords**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_file_keywords
+- **generate_folder_docs**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_folder_docs
+- **generate_global_index**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_global_index
+- **generate_global_keywords**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_global_keywords
+- **generate_html_report**: found in 1 location(s)
+  - `main.py`: function: generate_html_report
+- **generate_manifest**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_manifest
+- **generate_readme**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_readme
+- **generate_verification_report**: found in 1 location(s)
+  - `repo_book_gen.py`: function: generate_verification_report
+- **Generated**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Generated
+- **generated**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: generated
+- **Generating**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Generating
+- **generating**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: generating
+- **GENERATION**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: GENERATION
+- **generation**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: generation
+- **GENERATOR**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: GENERATOR
+- **Generator**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Generator
+- **generator**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: generator
+- **Generic**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Generic
+- **get_beijing_time**: found in 1 location(s)
+  - `main.py`: function: get_beijing_time
+- **get_git_metadata**: found in 1 location(s)
+  - `repo_book_gen.py`: function: get_git_metadata
+- **get_output_path**: found in 1 location(s)
+  - `main.py`: function: get_output_path
+- **get_today_record_file**: found in 1 location(s)
+  - `main.py`: function: get_today_record_file
+- **getBoundingClientRect**: found in 2 location(s)
+  - `index.html`: identifier: getBoundingClientRect
+  - `main.py`: identifier: getBoundingClientRect
+- **getDate**: found in 2 location(s)
+  - `index.html`: identifier: getDate
+  - `main.py`: identifier: getDate
+- **getFullYear**: found in 2 location(s)
+  - `index.html`: identifier: getFullYear
+  - `main.py`: identifier: getFullYear
+- **getHours**: found in 2 location(s)
+  - `index.html`: identifier: getHours
+  - `main.py`: identifier: getHours
+- **getMinutes**: found in 1 location(s)
+  - `index.html`: identifier: getMinutes
+- **getMonth**: found in 2 location(s)
+  - `index.html`: identifier: getMonth
+  - `main.py`: identifier: getMonth
+- **getting**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: getting
+  - `setup-mac.sh`: identifier: getting
+  - `setup-windows.bat`: identifier: getting
+- **getUpdates**: found in 1 location(s)
+  - `readme.md`: identifier: getUpdates
+- **gitattributes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: gitattributes
+- **GitHub**: found in 4 location(s)
+  - `index.html`: identifier: GitHub
+  - `README-Cherry-Studio.md`: identifier: GitHub
+  - `readme.md`: identifier: GitHub
+  - `README-MCP-FAQ.md`: identifier: GitHub
+- **github**: found in 6 location(s)
+  - `index.html`: identifier: github
+  - `README-Cherry-Studio.md`: identifier: github
+  - `main.py`: identifier: github
+  - `readme.md`: identifier: github
+  - `README-MCP-FAQ.md`: identifier: github
+- **Github**: found in 1 location(s)
+  - `readme.md`: identifier: Github
+- **GITHUB_ACTIONS**: found in 1 location(s)
+  - `main.py`: constant: GITHUB_ACTIONS
+- **githubusercontent**: found in 1 location(s)
+  - `readme.md`: identifier: githubusercontent
+- **gitignore**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: gitignore
+  - `.dockerignore`: identifier: gitignore
+- **give**: found in 1 location(s)
+  - `LICENSE`: identifier: give
+- **gives**: found in 1 location(s)
+  - `LICENSE`: identifier: gives
+- **glob**: found in 1 location(s)
+  - `main.py`: identifier: glob
+- **global**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: global
+- **Global**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Global
+- **Gmail**: found in 2 location(s)
+  - `main.py`: identifier: Gmail
+  - `readme.md`: identifier: Gmail
+- **gmail**: found in 2 location(s)
+  - `main.py`: identifier: gmail
+  - `readme.md`: identifier: gmail
+- **GNU**: found in 1 location(s)
+  - `LICENSE`: constant: GNU
+- **google**: found in 1 location(s)
+  - `readme.md`: identifier: google
+- **Google**: found in 1 location(s)
+  - `readme.md`: identifier: Google
+- **GPL**: found in 2 location(s)
+  - `LICENSE`: constant: GPL
+  - `readme.md`: constant: GPL
+- **GPLv2**: found in 1 location(s)
+  - `readme.md`: identifier: GPLv2
+- **gradient**: found in 2 location(s)
+  - `index.html`: identifier: gradient
+  - `main.py`: identifier: gradient
+- **grant**: found in 1 location(s)
+  - `LICENSE`: identifier: grant
+- **grants**: found in 1 location(s)
+  - `LICENSE`: identifier: grants
+- **graphql**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: graphql
+- **gratis**: found in 1 location(s)
+  - `LICENSE`: identifier: gratis
+- **green**: found in 2 location(s)
+  - `main.py`: identifier: green
+  - `readme.md`: identifier: green
+- **GREEN**: found in 1 location(s)
+  - `setup-mac.sh`: constant: GREEN
+- **grep**: found in 1 location(s)
+  - `readme.md`: identifier: grep
+- **grid**: found in 1 location(s)
+  - `index.html`: identifier: grid
+- **group**: found in 2 location(s)
+  - `index.html`: identifier: group
+  - `repo_book_gen.py`: identifier: group
+- **Group**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Group
+- **groupNewsItems**: found in 1 location(s)
+  - `main.py`: constant: groupNewsItems
+- **groupRect**: found in 2 location(s)
+  - `index.html`: identifier: groupRect
+  - `main.py`: constant: groupRect
+- **groups**: found in 1 location(s)
+  - `pyproject.toml`: identifier: groups
+- **gU33kqBtgNS4tSPHuGibyoeqMV**: found in 2 location(s)
+  - `index.html`: identifier: gU33kqBtgNS4tSPHuGibyoeqMV
+  - `main.py`: identifier: gU33kqBtgNS4tSPHuGibyoeqMV
+- **guarantee**: found in 1 location(s)
+  - `LICENSE`: identifier: guarantee
+- **GUI**: found in 4 location(s)
+  - `README-Cherry-Studio.md`: constant: GUI
+  - `LICENSE`: constant: GUI
+  - `readme.md`: constant: GUI
+  - `README-MCP-FAQ.md`: constant: GUI
+- **guidance**: found in 1 location(s)
+  - `AGENTS.md`: identifier: guidance
+
+## H
+
+- **HAS**: found in 1 location(s)
+  - `LICENSE`: constant: HAS
+- **has_pushed_today**: found in 1 location(s)
+  - `main.py`: function: has_pushed_today
+- **Hash**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Hash
+- **hash**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: hash
+- **hashlib**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: hashlib
+- **hatch**: found in 1 location(s)
+  - `pyproject.toml`: identifier: hatch
+- **hatchling**: found in 1 location(s)
+  - `pyproject.toml`: identifier: hatchling
+- **Having**: found in 1 location(s)
+  - `LICENSE`: identifier: Having
+- **head**: found in 2 location(s)
+  - `index.html`: identifier: head
+  - `main.py`: identifier: head
+- **HEAD**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: HEAD
+- **header**: found in 2 location(s)
+  - `index.html`: identifier: header
+  - `main.py`: constant: header
+- **Header**: found in 1 location(s)
+  - `main.py`: identifier: Header
+- **headerHeight**: found in 2 location(s)
+  - `index.html`: identifier: headerHeight
+  - `main.py`: variable: headerHeight
+- **headerRect**: found in 2 location(s)
+  - `index.html`: identifier: headerRect
+  - `main.py`: constant: headerRect
+- **headers**: found in 2 location(s)
+  - `main.py`: identifier: headers
+  - `repo_book_gen.py`: identifier: headers
+- **heads**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: heads
+  - `README-MCP-FAQ.md`: identifier: heads
+- **heckel**: found in 1 location(s)
+  - `readme.md`: identifier: heckel
+- **height**: found in 3 location(s)
+  - `index.html`: identifier: height
+  - `main.py`: identifier: height
+  - `readme.md`: identifier: height
+- **help**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: help
+  - `readme.md`: identifier: help
+- **helper**: found in 1 location(s)
+  - `readme.md`: identifier: helper
+- **here**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: here
+- **hexdigest**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: hexdigest
+- **hidden**: found in 2 location(s)
+  - `index.html`: identifier: hidden
+  - `main.py`: identifier: hidden
+- **high**: found in 2 location(s)
+  - `index.html`: identifier: high
+  - `main.py`: identifier: high
+- **High**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: High
+- **history**: found in 1 location(s)
+  - `readme.md`: identifier: history
+- **History**: found in 1 location(s)
+  - `readme.md`: identifier: History
+- **HOLDER**: found in 1 location(s)
+  - `LICENSE`: constant: HOLDER
+- **HOLDERS**: found in 1 location(s)
+  - `LICENSE`: constant: HOLDERS
+- **HOME**: found in 1 location(s)
+  - `setup-mac.sh`: constant: HOME
+- **home**: found in 1 location(s)
+  - `readme.md`: identifier: home
+- **hope**: found in 1 location(s)
+  - `LICENSE`: identifier: hope
+- **host**: found in 2 location(s)
+  - `start-http.bat`: identifier: host
+  - `start-http.sh`: identifier: host
+- **hosts**: found in 1 location(s)
+  - `LICENSE`: identifier: hosts
+- **hotmail**: found in 1 location(s)
+  - `main.py`: identifier: hotmail
+- **Hotmail**: found in 1 location(s)
+  - `readme.md`: identifier: Hotmail
+- **HOTNESS_WEIGHT**: found in 1 location(s)
+  - `main.py`: constant: HOTNESS_WEIGHT
+- **hottopic**: found in 1 location(s)
+  - `index.html`: identifier: hottopic
+- **hover**: found in 1 location(s)
+  - `index.html`: identifier: hover
+- **however**: found in 1 location(s)
+  - `LICENSE`: identifier: however
+- **href**: found in 3 location(s)
+  - `index.html`: identifier: href
+  - `main.py`: identifier: href
+  - `readme.md`: identifier: href
+- **html**: found in 6 location(s)
+  - `index.html`: identifier: html
+  - `main.py`: identifier: html
+  - `repo_book_gen.py`: identifier: html
+  - `LICENSE`: identifier: html
+  - `readme.md`: identifier: html
+- **HTML**: found in 2 location(s)
+  - `main.py`: constant: HTML
+  - `readme.md`: constant: HTML
+- **html2canvas**: found in 2 location(s)
+  - `index.html`: identifier: html2canvas
+  - `main.py`: identifier: html2canvas
+- **html_escape**: found in 1 location(s)
+  - `main.py`: function: html_escape
+- **HTTP**: found in 6 location(s)
+  - `start-http.bat`: constant: HTTP
+  - `start-http.sh`: constant: HTTP
+  - `README-Cherry-Studio.md`: constant: HTTP
+  - `main.py`: constant: HTTP
+  - `readme.md`: constant: HTTP
+- **http**: found in 7 location(s)
+  - `start-http.bat`: identifier: http
+  - `start-http.sh`: identifier: http
+  - `README-Cherry-Studio.md`: identifier: http
+  - `main.py`: identifier: http
+  - `setup-mac.sh`: identifier: http
+- **https**: found in 8 location(s)
+  - `index.html`: identifier: https
+  - `README-Cherry-Studio.md`: identifier: https
+  - `setup-windows-en.bat`: identifier: https
+  - `main.py`: identifier: https
+  - `setup-mac.sh`: identifier: https
+- **hypothetical**: found in 1 location(s)
+  - `LICENSE`: identifier: hypothetical
+
+## I
+
+- **i**: found in 1 location(s)
+  - `main.py`: variable: i
+- **id1625396347**: found in 1 location(s)
+  - `readme.md`: identifier: id1625396347
+- **idea**: found in 3 location(s)
+  - `repo_book_gen.py`: identifier: idea
+  - `LICENSE`: identifier: idea
+  - `.dockerignore`: identifier: idea
+- **idempotent**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: idempotent
+- **ident**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: ident
+- **identifier**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: identifier
+- **identifiers**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: identifiers
+- **IGNORECASE**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: IGNORECASE
+- **image**: found in 3 location(s)
+  - `index.html`: identifier: image
+  - `main.py`: identifier: image
+  - `readme.md`: identifier: image
+- **images**: found in 2 location(s)
+  - `index.html`: identifier: images
+  - `main.py`: constant: images
+- **imageTimeout**: found in 2 location(s)
+  - `index.html`: identifier: imageTimeout
+  - `main.py`: identifier: imageTimeout
+- **IMAP**: found in 1 location(s)
+  - `readme.md`: constant: IMAP
+- **IMMEDIATE_RUN**: found in 1 location(s)
+  - `readme.md`: constant: IMMEDIATE_RUN
+- **impact**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: impact
+- **implementation**: found in 1 location(s)
+  - `LICENSE`: identifier: implementation
+- **IMPLIED**: found in 1 location(s)
+  - `LICENSE`: constant: IMPLIED
+- **implied**: found in 1 location(s)
+  - `LICENSE`: identifier: implied
+- **IMPORTANT**: found in 1 location(s)
+  - `setup-windows-en.bat`: constant: IMPORTANT
+- **imports**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: imports
+- **Imports**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Imports
+- **impose**: found in 1 location(s)
+  - `LICENSE`: identifier: impose
+- **in**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: in
+- **INABILITY**: found in 1 location(s)
+  - `LICENSE`: constant: INABILITY
+- **INACCURATE**: found in 1 location(s)
+  - `LICENSE`: constant: INACCURATE
+- **INCIDENTAL**: found in 1 location(s)
+  - `LICENSE`: constant: INCIDENTAL
+- **Include**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Include
+- **INCLUDING**: found in 1 location(s)
+  - `LICENSE`: constant: INCLUDING
+- **Inclusion**: found in 1 location(s)
+  - `LICENSE`: identifier: Inclusion
+- **Incompatible**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Incompatible
+- **incorporating**: found in 1 location(s)
+  - `LICENSE`: identifier: incorporating
+- **incorporation**: found in 1 location(s)
+  - `LICENSE`: identifier: incorporation
+- **incremental**: found in 2 location(s)
+  - `main.py`: identifier: incremental
+  - `readme.md`: identifier: incremental
+- **indemnification**: found in 1 location(s)
+  - `LICENSE`: identifier: indemnification
+- **indent**: found in 2 location(s)
+  - `main.py`: identifier: indent
+  - `repo_book_gen.py`: identifier: indent
+- **index**: found in 4 location(s)
+  - `index.html`: identifier: index
+  - `main.py`: identifier: index
+  - `repo_book_gen.py`: identifier: index
+  - `.dockerignore`: identifier: index
+- **Index**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Index
+- **indexes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: indexes
+- **individual**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: individual
+- **individuals**: found in 1 location(s)
+  - `LICENSE`: identifier: individuals
+- **industrial**: found in 1 location(s)
+  - `LICENSE`: identifier: industrial
+- **info**: found in 1 location(s)
+  - `index.html`: identifier: info
+- **inform**: found in 1 location(s)
+  - `LICENSE`: identifier: inform
+- **infringe**: found in 1 location(s)
+  - `LICENSE`: identifier: infringe
+- **inherits**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: inherits
+- **initial**: found in 1 location(s)
+  - `index.html`: identifier: initial
+- **injection**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: injection
+- **inline**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: inline
+- **innerHeight**: found in 2 location(s)
+  - `index.html`: identifier: innerHeight
+  - `main.py`: identifier: innerHeight
+- **innerWidth**: found in 1 location(s)
+  - `index.html`: identifier: innerWidth
+- **inspect**: found in 1 location(s)
+  - `readme.md`: identifier: inspect
+- **Inspector**: found in 1 location(s)
+  - `readme.md`: identifier: Inspector
+- **inspector**: found in 1 location(s)
+  - `readme.md`: identifier: inspector
+- **install**: found in 5 location(s)
+  - `setup-windows-en.bat`: identifier: install
+  - `LICENSE`: identifier: install
+  - `setup-mac.sh`: identifier: install
+  - `readme.md`: identifier: install
+  - `setup-windows.bat`: identifier: install
+- **Install**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Install
+- **installation**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: installation
+  - `setup-mac.sh`: identifier: installation
+  - `setup-windows.bat`: identifier: installation
+- **Installation**: found in 1 location(s)
+  - `LICENSE`: identifier: Installation
+- **installed**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: installed
+  - `LICENSE`: identifier: installed
+- **Installing**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Installing
+- **installing**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: installing
+- **instead**: found in 1 location(s)
+  - `LICENSE`: identifier: instead
+- **intact**: found in 1 location(s)
+  - `LICENSE`: identifier: intact
+- **integrity**: found in 2 location(s)
+  - `index.html`: identifier: integrity
+  - `main.py`: identifier: integrity
+- **Integrity**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Integrity
+- **interaction**: found in 1 location(s)
+  - `LICENSE`: identifier: interaction
+- **interchange**: found in 1 location(s)
+  - `LICENSE`: identifier: interchange
+- **interface**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: interface
+- **interfered**: found in 1 location(s)
+  - `LICENSE`: identifier: interfered
+- **interval**: found in 1 location(s)
+  - `main.py`: identifier: interval
+- **intimate**: found in 1 location(s)
+  - `LICENSE`: identifier: intimate
+- **into**: found in 1 location(s)
+  - `LICENSE`: identifier: into
+- **iPhone**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: iPhone
+  - `readme.md`: identifier: iPhone
+  - `README-MCP-FAQ.md`: identifier: iPhone
+- **irrevocable**: found in 1 location(s)
+  - `LICENSE`: identifier: irrevocable
+- **is_first_crawl_today**: found in 1 location(s)
+  - `main.py`: function: is_first_crawl_today
+- **is_in_time_range**: found in 1 location(s)
+  - `main.py`: function: is_in_time_range
+- **is_text_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: is_text_file
+- **isdigit**: found in 1 location(s)
+  - `main.py`: identifier: isdigit
+- **isoformat**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: isoformat
+- **issues**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: issues
+  - `repo_book_gen.py`: identifier: issues
+  - `readme.md`: identifier: issues
+- **Issues**: found in 1 location(s)
+  - `readme.md`: identifier: Issues
+- **item**: found in 3 location(s)
+  - `index.html`: identifier: item
+  - `main.py`: identifier: item
+  - `LICENSE`: identifier: item
+- **Item**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Item
+- **items**: found in 3 location(s)
+  - `index.html`: identifier: items
+  - `main.py`: identifier: items
+  - `repo_book_gen.py`: identifier: items
+- **iter**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: iter
+
+## J
+
+- **java**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: java
+- **jayzqj**: found in 1 location(s)
+  - `readme.md`: identifier: jayzqj
+- **jpeg**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: jpeg
+- **JPG**: found in 1 location(s)
+  - `readme.md`: constant: JPG
+- **json**: found in 3 location(s)
+  - `main.py`: identifier: json
+  - `repo_book_gen.py`: identifier: json
+  - `readme.md`: identifier: json
+- **JSON**: found in 2 location(s)
+  - `repo_book_gen.py`: constant: JSON
+  - `readme.md`: constant: JSON
+- **JSONDecodeError**: found in 1 location(s)
+  - `main.py`: identifier: JSONDecodeError
+- **just**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: just
+- **justify**: found in 2 location(s)
+  - `index.html`: identifier: justify
+  - `main.py`: identifier: justify
+- **jzn0vLiQFX408opcfpPPxQ**: found in 1 location(s)
+  - `readme.md`: identifier: jzn0vLiQFX408opcfpPPxQ
+
+## K
+
+- **kangfenmao**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: kangfenmao
+  - `README-MCP-FAQ.md`: identifier: kangfenmao
+- **keep**: found in 2 location(s)
+  - `main.py`: identifier: keep
+  - `LICENSE`: identifier: keep
+- **keys**: found in 3 location(s)
+  - `main.py`: identifier: keys
+  - `repo_book_gen.py`: identifier: keys
+  - `LICENSE`: identifier: keys
+- **Keys**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Keys
+- **keyword**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: keyword
+- **Keyword**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Keyword
+- **keywords**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: keywords
+- **Keywords**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Keywords
+- **KHTML**: found in 1 location(s)
+  - `main.py`: constant: KHTML
+- **KIND**: found in 1 location(s)
+  - `LICENSE`: constant: KIND
+- **kinds**: found in 1 location(s)
+  - `LICENSE`: identifier: kinds
+- **know**: found in 1 location(s)
+  - `LICENSE`: identifier: know
+- **knowingly**: found in 1 location(s)
+  - `LICENSE`: identifier: knowingly
+
+## L
+
+- **label**: found in 2 location(s)
+  - `index.html`: identifier: label
+  - `main.py`: identifier: label
+- **lambda**: found in 2 location(s)
+  - `main.py`: identifier: lambda
+  - `repo_book_gen.py`: identifier: lambda
+- **Language**: found in 1 location(s)
+  - `main.py`: identifier: Language
+- **language**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: language
+- **Large**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Large
+- **last**: found in 2 location(s)
+  - `index.html`: identifier: last
+  - `main.py`: identifier: last
+- **latest**: found in 4 location(s)
+  - `README-Cherry-Studio.md`: identifier: latest
+  - `main.py`: identifier: latest
+  - `readme.md`: identifier: latest
+  - `README-MCP-FAQ.md`: identifier: latest
+- **LAW**: found in 1 location(s)
+  - `LICENSE`: constant: LAW
+- **lawsuit**: found in 1 location(s)
+  - `LICENSE`: identifier: lawsuit
+- **left**: found in 2 location(s)
+  - `index.html`: identifier: left
+  - `main.py`: identifier: left
+- **legal**: found in 1 location(s)
+  - `LICENSE`: identifier: legal
+- **Legal**: found in 1 location(s)
+  - `LICENSE`: identifier: Legal
+- **length**: found in 1 location(s)
+  - `index.html`: identifier: length
+- **less**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: less
+- **Lesser**: found in 1 location(s)
+  - `LICENSE`: identifier: Lesser
+- **letter**: found in 2 location(s)
+  - `main.py`: identifier: letter
+  - `repo_book_gen.py`: identifier: letter
+- **Level**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Level
+- **level**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: level
+- **lgpl**: found in 1 location(s)
+  - `LICENSE`: identifier: lgpl
+- **Liability**: found in 1 location(s)
+  - `LICENSE`: identifier: Liability
+- **LIABLE**: found in 1 location(s)
+  - `LICENSE`: constant: LIABLE
+- **Libraries**: found in 1 location(s)
+  - `LICENSE`: identifier: Libraries
+- **Library**: found in 2 location(s)
+  - `LICENSE`: identifier: Library
+  - `readme.md`: identifier: Library
+- **libs**: found in 1 location(s)
+  - `index.html`: identifier: libs
+- **LICENSE**: found in 2 location(s)
+  - `LICENSE`: constant: LICENSE
+  - `readme.md`: constant: LICENSE
+- **License**: found in 1 location(s)
+  - `readme.md`: identifier: License
+- **license**: found in 1 location(s)
+  - `readme.md`: identifier: license
+- **licensed**: found in 1 location(s)
+  - `LICENSE`: identifier: licensed
+- **licensee**: found in 1 location(s)
+  - `LICENSE`: identifier: licensee
+- **licensees**: found in 1 location(s)
+  - `LICENSE`: identifier: licensees
+- **licenses**: found in 1 location(s)
+  - `LICENSE`: identifier: licenses
+- **Licensing**: found in 1 location(s)
+  - `LICENSE`: identifier: Licensing
+- **likewise**: found in 1 location(s)
+  - `LICENSE`: identifier: likewise
+- **Limit**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Limit
+- **limit**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: limit
+- **LIMITED**: found in 1 location(s)
+  - `LICENSE`: constant: LIMITED
+- **Limiting**: found in 1 location(s)
+  - `LICENSE`: identifier: Limiting
+- **line**: found in 4 location(s)
+  - `index.html`: identifier: line
+  - `setup-windows-en.bat`: identifier: line
+  - `main.py`: identifier: line
+  - `LICENSE`: identifier: line
+- **linear**: found in 2 location(s)
+  - `index.html`: identifier: linear
+  - `main.py`: identifier: linear
+- **lines**: found in 2 location(s)
+  - `main.py`: identifier: lines
+  - `repo_book_gen.py`: identifier: lines
+- **Lines**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Lines
+- **link**: found in 3 location(s)
+  - `index.html`: identifier: link
+  - `main.py`: constant: link
+  - `repo_book_gen.py`: identifier: link
+- **links**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: links
+- **Links**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Links
+- **linux**: found in 1 location(s)
+  - `readme.md`: identifier: linux
+- **Linux**: found in 1 location(s)
+  - `readme.md`: identifier: Linux
+- **LinuxDo**: found in 1 location(s)
+  - `readme.md`: identifier: LinuxDo
+- **List**: found in 3 location(s)
+  - `main.py`: identifier: List
+  - `repo_book_gen.py`: identifier: List
+  - `readme.md`: identifier: List
+- **list**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: list
+  - `readme.md`: identifier: list
+- **load**: found in 1 location(s)
+  - `main.py`: identifier: load
+- **load_config**: found in 1 location(s)
+  - `main.py`: function: load_config
+- **load_frequency_words**: found in 1 location(s)
+  - `main.py`: function: load_frequency_words
+- **loads**: found in 2 location(s)
+  - `main.py`: identifier: loads
+  - `repo_book_gen.py`: identifier: loads
+- **local**: found in 1 location(s)
+  - `.dockerignore`: identifier: local
+- **localhost**: found in 5 location(s)
+  - `start-http.bat`: identifier: localhost
+  - `start-http.sh`: identifier: localhost
+  - `README-Cherry-Studio.md`: identifier: localhost
+  - `readme.md`: identifier: localhost
+  - `README-MCP-FAQ.md`: identifier: localhost
+- **localize**: found in 1 location(s)
+  - `main.py`: identifier: localize
+- **localtime**: found in 1 location(s)
+  - `main.py`: identifier: localtime
+- **location**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: location
+- **locations**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: locations
+- **log_progress**: found in 1 location(s)
+  - `repo_book_gen.py`: function: log_progress
+- **logging**: found in 1 location(s)
+  - `index.html`: identifier: logging
+- **login**: found in 1 location(s)
+  - `main.py`: identifier: login
+- **logo**: found in 1 location(s)
+  - `readme.md`: identifier: logo
+- **logoColor**: found in 1 location(s)
+  - `readme.md`: identifier: logoColor
+- **logs**: found in 1 location(s)
+  - `readme.md`: identifier: logs
+- **loops**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: loops
+- **LOSS**: found in 1 location(s)
+  - `LICENSE`: constant: LOSS
+- **LOSSES**: found in 1 location(s)
+  - `LICENSE`: constant: LOSSES
+- **lower**: found in 2 location(s)
+  - `main.py`: identifier: lower
+  - `repo_book_gen.py`: identifier: lower
+- **lsof**: found in 1 location(s)
+  - `readme.md`: identifier: lsof
+- **LsSf**: found in 1 location(s)
+  - `setup-mac.sh`: identifier: LsSf
+
+## M
+
+- **machine**: found in 1 location(s)
+  - `LICENSE`: identifier: machine
+- **macOS**: found in 1 location(s)
+  - `readme.md`: identifier: macOS
+- **mail**: found in 1 location(s)
+  - `main.py`: identifier: mail
+- **main**: found in 3 location(s)
+  - `main.py`: function: main
+  - `repo_book_gen.py`: function: main
+  - `readme.md`: identifier: main
+- **Main**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Main
+- **maintain**: found in 1 location(s)
+  - `LICENSE`: identifier: maintain
+- **manage**: found in 1 location(s)
+  - `readme.md`: identifier: manage
+- **manifest**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: manifest
+- **manually**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: manually
+- **margin**: found in 2 location(s)
+  - `index.html`: identifier: margin
+  - `main.py`: identifier: margin
+- **markdown**: found in 2 location(s)
+  - `main.py`: identifier: markdown
+  - `repo_book_gen.py`: identifier: markdown
+- **Markdown**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Markdown
+- **marked**: found in 1 location(s)
+  - `LICENSE`: identifier: marked
+- **marks**: found in 1 location(s)
+  - `LICENSE`: identifier: marks
+- **masks**: found in 1 location(s)
+  - `LICENSE`: identifier: masks
+- **master**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: master
+  - `readme.md`: identifier: master
+  - `README-MCP-FAQ.md`: identifier: master
+- **match**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: match
+- **matches**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: matches
+- **matches_word_groups**: found in 1 location(s)
+  - `main.py`: function: matches_word_groups
+- **materially**: found in 1 location(s)
+  - `LICENSE`: identifier: materially
+- **maxHeight**: found in 2 location(s)
+  - `index.html`: identifier: maxHeight
+  - `main.py`: constant: maxHeight
+- **MCP**: found in 9 location(s)
+  - `start-http.bat`: constant: MCP
+  - `start-http.sh`: constant: MCP
+  - `pyproject.toml`: constant: MCP
+  - `README-Cherry-Studio.md`: constant: MCP
+  - `setup-windows-en.bat`: constant: MCP
+- **mcpServers**: found in 1 location(s)
+  - `readme.md`: identifier: mcpServers
+- **meaning**: found in 1 location(s)
+  - `LICENSE`: identifier: meaning
+- **measure**: found in 1 location(s)
+  - `LICENSE`: identifier: measure
+- **media**: found in 1 location(s)
+  - `index.html`: identifier: media
+- **medium**: found in 1 location(s)
+  - `LICENSE`: identifier: medium
+- **meet**: found in 1 location(s)
+  - `LICENSE`: identifier: meet
+- **meets**: found in 1 location(s)
+  - `LICENSE`: identifier: meets
+- **members**: found in 1 location(s)
+  - `readme.md`: identifier: members
+- **menu**: found in 1 location(s)
+  - `LICENSE`: identifier: menu
+- **MERCHANTABILITY**: found in 1 location(s)
+  - `LICENSE`: constant: MERCHANTABILITY
+- **merged**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: merged
+- **merges**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: merges
+- **mermaid**: found in 1 location(s)
+  - `readme.md`: identifier: mermaid
+- **message**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: message
+- **Message**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Message
+- **MESSAGE_BATCH_SIZE**: found in 1 location(s)
+  - `main.py`: constant: MESSAGE_BATCH_SIZE
+- **meta**: found in 1 location(s)
+  - `index.html`: identifier: meta
+- **metadata**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: metadata
+- **Metadata**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Metadata
+- **Method**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Method
+- **MIME**: found in 1 location(s)
+  - `main.py`: constant: MIME
+- **mime**: found in 2 location(s)
+  - `main.py`: identifier: mime
+  - `repo_book_gen.py`: identifier: mime
+- **mime_type**: found in 1 location(s)
+  - `repo_book_gen.py`: type: mime_type
+- **MIMEText**: found in 1 location(s)
+  - `main.py`: identifier: MIMEText
+- **mimetypes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: mimetypes
+- **minimal**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: minimal
+- **minute**: found in 1 location(s)
+  - `main.py`: identifier: minute
+- **misrepresentation**: found in 1 location(s)
+  - `LICENSE`: identifier: misrepresentation
+- **Missing**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Missing
+- **MIT**: found in 1 location(s)
+  - `readme.md`: constant: MIT
+- **mkdir**: found in 3 location(s)
+  - `main.py`: identifier: mkdir
+  - `repo_book_gen.py`: identifier: mkdir
+  - `readme.md`: identifier: mkdir
+- **MOBILE**: found in 1 location(s)
+  - `main.py`: constant: MOBILE
+- **mobileUrl**: found in 1 location(s)
+  - `main.py`: identifier: mobileUrl
+- **mode**: found in 1 location(s)
+  - `readme.md`: identifier: mode
+- **MODE_STRATEGIES**: found in 1 location(s)
+  - `main.py`: constant: MODE_STRATEGIES
+- **Model**: found in 1 location(s)
+  - `readme.md`: identifier: Model
+- **modelcontextprotocol**: found in 1 location(s)
+  - `readme.md`: identifier: modelcontextprotocol
+- **modelContextProtocolServers**: found in 1 location(s)
+  - `readme.md`: identifier: modelContextProtocolServers
+- **modification**: found in 1 location(s)
+  - `LICENSE`: identifier: modification
+- **Modified**: found in 1 location(s)
+  - `LICENSE`: identifier: Modified
+- **modified**: found in 1 location(s)
+  - `LICENSE`: identifier: modified
+- **MODIFIES**: found in 1 location(s)
+  - `LICENSE`: constant: MODIFIES
+- **modify**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: modify
+- **module**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: module
+- **Module**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Module
+- **modules**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: modules
+- **Mono**: found in 1 location(s)
+  - `main.py`: identifier: Mono
+- **monthly**: found in 1 location(s)
+  - `readme.md`: identifier: monthly
+- **more**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: more
+- **Moreover**: found in 1 location(s)
+  - `LICENSE`: identifier: Moreover
+- **most**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: most
+- **Mozilla**: found in 1 location(s)
+  - `main.py`: identifier: Mozilla
+- **msgtype**: found in 1 location(s)
+  - `main.py`: identifier: msgtype
+- **MULTILINE**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: MULTILINE
+- **multipart**: found in 1 location(s)
+  - `main.py`: identifier: multipart
+- **must**: found in 1 location(s)
+  - `LICENSE`: identifier: must
+- **myqcloud**: found in 1 location(s)
+  - `readme.md`: identifier: myqcloud
+
+## N
+
+- **name**: found in 3 location(s)
+  - `index.html`: identifier: name
+  - `pyproject.toml`: identifier: name
+  - `readme.md`: identifier: name
+- **Naming**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Naming
+- **NAS**: found in 1 location(s)
+  - `readme.md`: constant: NAS
+- **Navigate**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: Navigate
+  - `repo_book_gen.py`: identifier: Navigate
+- **navigation**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: navigation
+- **NECESSARY**: found in 1 location(s)
+  - `LICENSE`: constant: NECESSARY
+- **need**: found in 1 location(s)
+  - `LICENSE`: identifier: need
+- **needed**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: needed
+  - `LICENSE`: identifier: needed
+- **Nested**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Nested
+- **netstat**: found in 1 location(s)
+  - `readme.md`: identifier: netstat
+- **Network**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Network
+- **network**: found in 1 location(s)
+  - `readme.md`: identifier: network
+- **NEW**: found in 1 location(s)
+  - `main.py`: constant: NEW
+- **newbot**: found in 1 location(s)
+  - `readme.md`: identifier: newbot
+- **news**: found in 3 location(s)
+  - `index.html`: identifier: news
+  - `main.py`: identifier: news
+  - `readme.md`: identifier: news
+- **News**: found in 1 location(s)
+  - `readme.md`: identifier: News
+- **NewsAnalyzer**: found in 1 location(s)
+  - `main.py`: class: NewsAnalyzer
+- **newSection**: found in 1 location(s)
+  - `main.py`: constant: newSection
+- **newsItems**: found in 1 location(s)
+  - `main.py`: constant: newsItems
+- **newsnow**: found in 2 location(s)
+  - `main.py`: identifier: newsnow
+  - `readme.md`: identifier: newsnow
+- **next**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: next
+  - `LICENSE`: identifier: next
+- **nFailed**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: nFailed
+- **nidaye996**: found in 1 location(s)
+  - `readme.md`: identifier: nidaye996
+- **normal**: found in 1 location(s)
+  - `main.py`: identifier: normal
+- **normalize_time**: found in 1 location(s)
+  - `main.py`: function: normalize_time
+- **normally**: found in 1 location(s)
+  - `LICENSE`: identifier: normally
+- **not**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: not
+- **NOT**: found in 1 location(s)
+  - `LICENSE`: constant: NOT
+- **Note**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Note
+- **Notes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Notes
+- **notes**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: notes
+- **nothing**: found in 1 location(s)
+  - `LICENSE`: identifier: nothing
+- **notification**: found in 2 location(s)
+  - `main.py`: identifier: notification
+  - `readme.md`: identifier: notification
+- **notify**: found in 1 location(s)
+  - `LICENSE`: identifier: notify
+- **Notwithstanding**: found in 1 location(s)
+  - `LICENSE`: identifier: Notwithstanding
+- **now**: found in 1 location(s)
+  - `main.py`: constant: now
+- **nowrap**: found in 2 location(s)
+  - `index.html`: identifier: nowrap
+  - `main.py`: identifier: nowrap
+- **ntfy**: found in 2 location(s)
+  - `main.py`: identifier: ntfy
+  - `readme.md`: identifier: ntfy
+- **NTFY_SERVER_URL**: found in 2 location(s)
+  - `main.py`: constant: NTFY_SERVER_URL
+  - `readme.md`: constant: NTFY_SERVER_URL
+- **NTFY_TOKEN**: found in 2 location(s)
+  - `main.py`: constant: NTFY_TOKEN
+  - `readme.md`: constant: NTFY_TOKEN
+- **NTFY_TOPIC**: found in 2 location(s)
+  - `main.py`: constant: NTFY_TOPIC
+  - `readme.md`: constant: NTFY_TOPIC
+- **number**: found in 4 location(s)
+  - `index.html`: identifier: number
+  - `main.py`: identifier: number
+  - `repo_book_gen.py`: identifier: number
+  - `LICENSE`: identifier: number
+
+## O
+
+- **obligate**: found in 1 location(s)
+  - `LICENSE`: identifier: obligate
+- **obligated**: found in 1 location(s)
+  - `LICENSE`: identifier: obligated
+- **obligations**: found in 1 location(s)
+  - `LICENSE`: identifier: obligations
+- **obvious**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: obvious
+- **occurs**: found in 1 location(s)
+  - `LICENSE`: identifier: occurs
+- **Ocean**: found in 1 location(s)
+  - `readme.md`: identifier: Ocean
+- **offsetHeight**: found in 2 location(s)
+  - `index.html`: identifier: offsetHeight
+  - `main.py`: identifier: offsetHeight
+- **offsetWidth**: found in 1 location(s)
+  - `index.html`: identifier: offsetWidth
+- **ONCE_PER_DAY**: found in 1 location(s)
+  - `main.py`: constant: ONCE_PER_DAY
+- **onclick**: found in 1 location(s)
+  - `index.html`: identifier: onclick
+- **only**: found in 1 location(s)
+  - `LICENSE`: identifier: only
+- **opacity**: found in 1 location(s)
+  - `index.html`: identifier: opacity
+- **open**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: open
+- **OPERATE**: found in 1 location(s)
+  - `LICENSE`: constant: OPERATE
+- **operation**: found in 1 location(s)
+  - `LICENSE`: identifier: operation
+- **OPPO**: found in 1 location(s)
+  - `readme.md`: constant: OPPO
+- **option**: found in 1 location(s)
+  - `LICENSE`: identifier: option
+- **Optional**: found in 1 location(s)
+  - `main.py`: identifier: Optional
+- **OPTIONS**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: OPTIONS
+- **orange**: found in 1 location(s)
+  - `main.py`: identifier: orange
+- **order**: found in 1 location(s)
+  - `LICENSE`: identifier: order
+- **organizations**: found in 1 location(s)
+  - `LICENSE`: identifier: organizations
+- **origin**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: origin
+  - `LICENSE`: identifier: origin
+- **Original**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Original
+- **originalText**: found in 2 location(s)
+  - `index.html`: identifier: originalText
+  - `main.py`: constant: originalText
+- **OTHER**: found in 1 location(s)
+  - `LICENSE`: constant: OTHER
+- **OTHERWISE**: found in 1 location(s)
+  - `LICENSE`: constant: OTHERWISE
+- **ourongxing**: found in 1 location(s)
+  - `readme.md`: identifier: ourongxing
+- **OUT**: found in 1 location(s)
+  - `LICENSE`: constant: OUT
+- **Outlook**: found in 2 location(s)
+  - `main.py`: identifier: Outlook
+  - `readme.md`: identifier: Outlook
+- **outlook**: found in 1 location(s)
+  - `main.py`: identifier: outlook
+- **output**: found in 7 location(s)
+  - `README-Cherry-Studio.md`: identifier: output
+  - `main.py`: identifier: output
+  - `repo_book_gen.py`: identifier: output
+  - `LICENSE`: identifier: output
+  - `readme.md`: identifier: output
+- **Output**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Output
+- **overflow**: found in 2 location(s)
+  - `index.html`: identifier: overflow
+  - `main.py`: identifier: overflow
+- **Overview**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Overview
+- **overview**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: overview
+
+## P
+
+- **packaged**: found in 1 location(s)
+  - `LICENSE`: identifier: packaged
+- **packages**: found in 2 location(s)
+  - `pyproject.toml`: identifier: packages
+  - `readme.md`: identifier: packages
+- **packaging**: found in 1 location(s)
+  - `LICENSE`: identifier: packaging
+- **padding**: found in 2 location(s)
+  - `index.html`: identifier: padding
+  - `main.py`: identifier: padding
+- **padStart**: found in 1 location(s)
+  - `index.html`: identifier: padStart
+- **page**: found in 1 location(s)
+  - `readme.md`: identifier: page
+- **Pages**: found in 1 location(s)
+  - `readme.md`: identifier: Pages
+- **pages**: found in 1 location(s)
+  - `readme.md`: identifier: pages
+- **paper**: found in 1 location(s)
+  - `LICENSE`: identifier: paper
+- **parent**: found in 2 location(s)
+  - `main.py`: identifier: parent
+  - `repo_book_gen.py`: identifier: parent
+- **parents**: found in 2 location(s)
+  - `main.py`: identifier: parents
+  - `repo_book_gen.py`: identifier: parents
+- **parse**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: parse
+- **parse_file_titles**: found in 1 location(s)
+  - `main.py`: function: parse_file_titles
+- **parse_version**: found in 1 location(s)
+  - `main.py`: function: parse_version
+- **parser**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: parser
+- **part**: found in 1 location(s)
+  - `LICENSE`: identifier: part
+- **PARTICULAR**: found in 1 location(s)
+  - `LICENSE`: constant: PARTICULAR
+- **PARTIES**: found in 1 location(s)
+  - `LICENSE`: constant: PARTIES
+- **parts**: found in 2 location(s)
+  - `main.py`: identifier: parts
+  - `repo_book_gen.py`: identifier: parts
+- **PARTY**: found in 1 location(s)
+  - `LICENSE`: constant: PARTY
+- **PascalCase**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: PascalCase
+- **pass**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: pass
+- **password**: found in 2 location(s)
+  - `main.py`: identifier: password
+  - `repo_book_gen.py`: identifier: password
+- **PATCH**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: PATCH
+- **Patents**: found in 1 location(s)
+  - `LICENSE`: identifier: Patents
+- **path**: found in 4 location(s)
+  - `setup-windows-en.bat`: identifier: path
+  - `main.py`: identifier: path
+  - `repo_book_gen.py`: identifier: path
+  - `readme.md`: identifier: path
+- **Path**: found in 2 location(s)
+  - `main.py`: identifier: Path
+  - `repo_book_gen.py`: identifier: Path
+- **PATH**: found in 1 location(s)
+  - `setup-mac.sh`: constant: PATH
+- **pathlib**: found in 2 location(s)
+  - `main.py`: identifier: pathlib
+  - `repo_book_gen.py`: identifier: pathlib
+- **paths**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: paths
+- **pattern**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: pattern
+  - `LICENSE`: identifier: pattern
+- **patterns**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: patterns
+- **pause**: found in 3 location(s)
+  - `start-http.bat`: identifier: pause
+  - `setup-windows-en.bat`: identifier: pause
+  - `setup-windows.bat`: identifier: pause
+- **payload**: found in 1 location(s)
+  - `main.py`: identifier: payload
+- **peer**: found in 1 location(s)
+  - `LICENSE`: identifier: peer
+- **peers**: found in 1 location(s)
+  - `LICENSE`: identifier: peers
+- **percentage**: found in 1 location(s)
+  - `main.py`: identifier: percentage
+- **performance**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: performance
+- **Performance**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Performance
+- **PERFORMANCE**: found in 1 location(s)
+  - `LICENSE`: constant: PERFORMANCE
+- **permanently**: found in 1 location(s)
+  - `LICENSE`: identifier: permanently
+- **Permissions**: found in 1 location(s)
+  - `LICENSE`: identifier: Permissions
+- **permits**: found in 1 location(s)
+  - `LICENSE`: identifier: permits
+- **PERMITTED**: found in 1 location(s)
+  - `LICENSE`: constant: PERMITTED
+- **permitted**: found in 1 location(s)
+  - `LICENSE`: identifier: permitted
+- **pertinent**: found in 1 location(s)
+  - `LICENSE`: identifier: pertinent
+- **Peter**: found in 1 location(s)
+  - `readme.md`: identifier: Peter
+- **physical**: found in 1 location(s)
+  - `LICENSE`: identifier: physical
+- **Ping**: found in 1 location(s)
+  - `readme.md`: identifier: Ping
+- **place**: found in 1 location(s)
+  - `LICENSE`: identifier: place
+- **plain**: found in 1 location(s)
+  - `main.py`: identifier: plain
+- **platform**: found in 1 location(s)
+  - `main.py`: identifier: platform
+- **PLATFORMS**: found in 1 location(s)
+  - `main.py`: constant: PLATFORMS
+- **platforms**: found in 2 location(s)
+  - `main.py`: identifier: platforms
+  - `readme.md`: identifier: platforms
+- **Play**: found in 1 location(s)
+  - `readme.md`: identifier: Play
+- **play**: found in 1 location(s)
+  - `readme.md`: identifier: play
+- **please**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: please
+  - `LICENSE`: identifier: please
+- **Please**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Please
+- **plus**: found in 1 location(s)
+  - `LICENSE`: identifier: plus
+- **point**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: point
+- **pointer**: found in 3 location(s)
+  - `index.html`: identifier: pointer
+  - `main.py`: identifier: pointer
+  - `LICENSE`: identifier: pointer
+- **policy**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: policy
+- **POP3**: found in 1 location(s)
+  - `readme.md`: constant: POP3
+- **port**: found in 3 location(s)
+  - `start-http.bat`: identifier: port
+  - `start-http.sh`: identifier: port
+  - `readme.md`: identifier: port
+- **portion**: found in 1 location(s)
+  - `LICENSE`: identifier: portion
+- **position**: found in 2 location(s)
+  - `index.html`: identifier: position
+  - `main.py`: identifier: position
+- **possesses**: found in 1 location(s)
+  - `LICENSE`: identifier: possesses
+- **POSSIBILITY**: found in 1 location(s)
+  - `LICENSE`: constant: POSSIBILITY
+- **Possible**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Possible
+- **possible**: found in 1 location(s)
+  - `LICENSE`: identifier: possible
+- **POST**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: POST
+- **potential**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: potential
+- **potentialHeight**: found in 2 location(s)
+  - `index.html`: identifier: potentialHeight
+  - `main.py`: constant: potentialHeight
+- **power**: found in 1 location(s)
+  - `LICENSE`: identifier: power
+- **PowerShell**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: PowerShell
+  - `setup-windows.bat`: identifier: PowerShell
+- **powershell**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: powershell
+  - `setup-windows.bat`: identifier: powershell
+- **pptx**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: pptx
+- **Prepare**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Prepare
+- **prepare_report_data**: found in 1 location(s)
+  - `main.py`: function: prepare_report_data
+- **present**: found in 1 location(s)
+  - `LICENSE`: identifier: present
+- **presents**: found in 1 location(s)
+  - `LICENSE`: identifier: presents
+- **prevent**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: prevent
+- **prevented**: found in 1 location(s)
+  - `LICENSE`: identifier: prevented
+- **Preview**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Preview
+- **preview**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: preview
+- **previous**: found in 1 location(s)
+  - `LICENSE`: identifier: previous
+- **price**: found in 1 location(s)
+  - `LICENSE`: identifier: price
+- **primarily**: found in 1 location(s)
+  - `LICENSE`: identifier: primarily
+- **Print**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Print
+- **problems**: found in 1 location(s)
+  - `LICENSE`: identifier: problems
+- **Process**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Process
+- **process**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: process
+- **process_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: process_file
+- **process_source_data**: found in 1 location(s)
+  - `main.py`: function: process_source_data
+- **processed**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: processed
+- **Processed**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Processed
+- **processing**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: processing
+- **produce**: found in 1 location(s)
+  - `LICENSE`: identifier: produce
+- **Produces**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Produces
+- **Product**: found in 1 location(s)
+  - `LICENSE`: identifier: Product
+- **PROGRAM**: found in 1 location(s)
+  - `LICENSE`: constant: PROGRAM
+- **Program**: found in 1 location(s)
+  - `LICENSE`: identifier: Program
+- **programmer**: found in 1 location(s)
+  - `LICENSE`: identifier: programmer
+- **Programming**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Programming
+- **PROGRAMS**: found in 1 location(s)
+  - `LICENSE`: constant: PROGRAMS
+- **progress**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: progress
+- **prohibit**: found in 1 location(s)
+  - `LICENSE`: identifier: prohibit
+- **prohibiting**: found in 1 location(s)
+  - `LICENSE`: identifier: prohibiting
+- **project**: found in 4 location(s)
+  - `index.html`: identifier: project
+  - `pyproject.toml`: identifier: project
+  - `setup-windows-en.bat`: identifier: project
+  - `main.py`: identifier: project
+- **Project**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: Project
+  - `AGENTS.md`: identifier: Project
+- **PROJECT_ROOT**: found in 3 location(s)
+  - `setup-windows-en.bat`: constant: PROJECT_ROOT
+  - `setup-mac.sh`: constant: PROJECT_ROOT
+  - `setup-windows.bat`: constant: PROJECT_ROOT
+- **prominent**: found in 1 location(s)
+  - `LICENSE`: identifier: prominent
+- **prominently**: found in 1 location(s)
+  - `LICENSE`: identifier: prominently
+- **Promise**: found in 2 location(s)
+  - `index.html`: identifier: Promise
+  - `main.py`: identifier: Promise
+- **Prompt**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Prompt
+- **propagate**: found in 1 location(s)
+  - `LICENSE`: identifier: propagate
+- **proprietary**: found in 1 location(s)
+  - `LICENSE`: identifier: proprietary
+- **Protocol**: found in 1 location(s)
+  - `readme.md`: identifier: Protocol
+- **PROVE**: found in 1 location(s)
+  - `LICENSE`: constant: PROVE
+- **PROVIDE**: found in 1 location(s)
+  - `LICENSE`: constant: PROVIDE
+- **provided**: found in 1 location(s)
+  - `LICENSE`: identifier: provided
+- **provisionally**: found in 1 location(s)
+  - `LICENSE`: identifier: provisionally
+- **proxies**: found in 1 location(s)
+  - `main.py`: identifier: proxies
+- **proxy**: found in 1 location(s)
+  - `LICENSE`: identifier: proxy
+- **PUBLIC**: found in 1 location(s)
+  - `LICENSE`: constant: PUBLIC
+- **Public**: found in 1 location(s)
+  - `LICENSE`: identifier: Public
+- **publicity**: found in 1 location(s)
+  - `LICENSE`: identifier: publicity
+- **publicly**: found in 1 location(s)
+  - `LICENSE`: identifier: publicly
+- **publish**: found in 1 location(s)
+  - `LICENSE`: identifier: publish
+- **published**: found in 1 location(s)
+  - `LICENSE`: identifier: published
+- **pull**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: pull
+  - `readme.md`: identifier: pull
+  - `README-MCP-FAQ.md`: identifier: pull
+- **PURPOSE**: found in 1 location(s)
+  - `LICENSE`: constant: PURPOSE
+- **purposes**: found in 1 location(s)
+  - `LICENSE`: identifier: purposes
+- **push**: found in 2 location(s)
+  - `index.html`: identifier: push
+  - `main.py`: identifier: push
+- **PUSH_WINDOW**: found in 1 location(s)
+  - `main.py`: constant: PUSH_WINDOW
+- **PUSH_WINDOW_ENABLED**: found in 2 location(s)
+  - `main.py`: constant: PUSH_WINDOW_ENABLED
+  - `readme.md`: constant: PUSH_WINDOW_ENABLED
+- **PUSH_WINDOW_END**: found in 2 location(s)
+  - `main.py`: constant: PUSH_WINDOW_END
+  - `readme.md`: constant: PUSH_WINDOW_END
+- **PUSH_WINDOW_ONCE_PER_DAY**: found in 1 location(s)
+  - `main.py`: constant: PUSH_WINDOW_ONCE_PER_DAY
+- **PUSH_WINDOW_RETENTION_DAYS**: found in 1 location(s)
+  - `main.py`: constant: PUSH_WINDOW_RETENTION_DAYS
+- **PUSH_WINDOW_START**: found in 2 location(s)
+  - `main.py`: constant: PUSH_WINDOW_START
+  - `readme.md`: constant: PUSH_WINDOW_START
+- **pushed**: found in 1 location(s)
+  - `main.py`: identifier: pushed
+- **PushRecordManager**: found in 1 location(s)
+  - `main.py`: class: PushRecordManager
+- **pyproject**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: pyproject
+  - `setup-windows.bat`: identifier: pyproject
+- **python**: found in 7 location(s)
+  - `start-http.bat`: identifier: python
+  - `start-http.sh`: identifier: python
+  - `pyproject.toml`: identifier: python
+  - `setup-windows-en.bat`: identifier: python
+  - `setup-mac.sh`: identifier: python
+- **Python**: found in 5 location(s)
+  - `setup-windows-en.bat`: identifier: Python
+  - `repo_book_gen.py`: identifier: Python
+  - `setup-mac.sh`: identifier: Python
+  - `setup-windows.bat`: identifier: Python
+  - `.dockerignore`: identifier: Python
+- **python3**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: python3
+- **pytz**: found in 3 location(s)
+  - `requirements.txt`: identifier: pytz
+  - `pyproject.toml`: identifier: pytz
+  - `main.py`: identifier: pytz
+- **PyYAML**: found in 2 location(s)
+  - `requirements.txt`: identifier: PyYAML
+  - `pyproject.toml`: identifier: PyYAML
+
+## Q
+
+- **qualify**: found in 1 location(s)
+  - `LICENSE`: identifier: qualify
+- **QUALITY**: found in 1 location(s)
+  - `LICENSE`: constant: QUALITY
+- **querySelector**: found in 1 location(s)
+  - `index.html`: identifier: querySelector
+- **querySelectorAll**: found in 2 location(s)
+  - `index.html`: identifier: querySelectorAll
+  - `main.py`: identifier: querySelectorAll
+- **question**: found in 1 location(s)
+  - `index.html`: identifier: question
+- **Quick**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Quick
+- **quit**: found in 1 location(s)
+  - `main.py`: identifier: quit
+- **quot**: found in 1 location(s)
+  - `main.py`: identifier: quot
+
+## R
+
+- **radar**: found in 1 location(s)
+  - `readme.md`: identifier: radar
+- **radius**: found in 1 location(s)
+  - `index.html`: identifier: radius
+- **raise**: found in 1 location(s)
+  - `main.py`: identifier: raise
+- **randint**: found in 1 location(s)
+  - `main.py`: identifier: randint
+- **range**: found in 2 location(s)
+  - `main.py`: identifier: range
+  - `repo_book_gen.py`: identifier: range
+- **rank**: found in 2 location(s)
+  - `index.html`: identifier: rank
+  - `main.py`: identifier: rank
+- **RANK_THRESHOLD**: found in 1 location(s)
+  - `main.py`: constant: RANK_THRESHOLD
+- **RANK_WEIGHT**: found in 1 location(s)
+  - `main.py`: constant: RANK_WEIGHT
+- **ranks**: found in 1 location(s)
+  - `main.py`: identifier: ranks
+- **Read**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Read
+- **read_all_today_titles**: found in 1 location(s)
+  - `main.py`: function: read_all_today_titles
+- **README**: found in 6 location(s)
+  - `setup-windows-en.bat`: constant: README
+  - `repo_book_gen.py`: constant: README
+  - `setup-mac.sh`: constant: README
+  - `readme.md`: constant: README
+  - `setup-windows.bat`: constant: README
+- **ReadTimeout**: found in 1 location(s)
+  - `main.py`: identifier: ReadTimeout
+- **reason**: found in 1 location(s)
+  - `LICENSE`: identifier: reason
+- **reasonable**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: reasonable
+- **receive**: found in 1 location(s)
+  - `LICENSE`: identifier: receive
+- **receives**: found in 1 location(s)
+  - `LICENSE`: identifier: receives
+- **Recipients**: found in 1 location(s)
+  - `LICENSE`: identifier: Recipients
+- **record**: found in 1 location(s)
+  - `main.py`: identifier: record
+- **record_push**: found in 1 location(s)
+  - `main.py`: function: record_push
+- **RECORD_RETENTION_DAYS**: found in 1 location(s)
+  - `main.py`: constant: RECORD_RETENTION_DAYS
+- **rect**: found in 2 location(s)
+  - `index.html`: identifier: rect
+  - `main.py`: constant: rect
+- **RED**: found in 1 location(s)
+  - `setup-mac.sh`: constant: RED
+- **referenced**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: referenced
+- **references**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: references
+- **References**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: References
+- **referrer**: found in 2 location(s)
+  - `index.html`: identifier: referrer
+  - `main.py`: identifier: referrer
+- **referrerpolicy**: found in 2 location(s)
+  - `index.html`: identifier: referrerpolicy
+  - `main.py`: identifier: referrerpolicy
+- **referring**: found in 1 location(s)
+  - `LICENSE`: identifier: referring
+- **refrain**: found in 1 location(s)
+  - `LICENSE`: identifier: refrain
+- **refs**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: refs
+  - `README-MCP-FAQ.md`: identifier: refs
+- **regenerate**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: regenerate
+  - `LICENSE`: identifier: regenerate
+- **Regenerating**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Regenerating
+- **related**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: related
+- **Related**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Related
+- **relative**: found in 3 location(s)
+  - `index.html`: identifier: relative
+  - `main.py`: identifier: relative
+  - `repo_book_gen.py`: identifier: relative
+- **releases**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: releases
+  - `README-MCP-FAQ.md`: identifier: releases
+- **relevant**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: relevant
+  - `LICENSE`: identifier: relevant
+- **relicensing**: found in 1 location(s)
+  - `LICENSE`: identifier: relicensing
+- **REM**: found in 3 location(s)
+  - `start-http.bat`: constant: REM
+  - `setup-windows-en.bat`: constant: REM
+  - `setup-windows.bat`: constant: REM
+- **remain**: found in 1 location(s)
+  - `LICENSE`: identifier: remain
+- **remains**: found in 1 location(s)
+  - `LICENSE`: identifier: remains
+- **remote**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: remote
+- **removeChild**: found in 2 location(s)
+  - `index.html`: identifier: removeChild
+  - `main.py`: identifier: removeChild
+- **removeContainer**: found in 2 location(s)
+  - `index.html`: identifier: removeContainer
+  - `main.py`: identifier: removeContainer
+- **render_dingtalk_content**: found in 1 location(s)
+  - `main.py`: function: render_dingtalk_content
+- **render_feishu_content**: found in 1 location(s)
+  - `main.py`: function: render_feishu_content
+- **render_html_content**: found in 1 location(s)
+  - `main.py`: function: render_html_content
+- **RENDERED**: found in 1 location(s)
+  - `LICENSE`: constant: RENDERED
+- **Reopen**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Reopen
+- **REPAIR**: found in 1 location(s)
+  - `LICENSE`: constant: REPAIR
+- **replace**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: replace
+- **replaced**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: replaced
+- **REPO**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: REPO
+- **Repo**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Repo
+- **RepoBookGenerator**: found in 1 location(s)
+  - `repo_book_gen.py`: class: RepoBookGenerator
+- **report**: found in 3 location(s)
+  - `main.py`: identifier: report
+  - `repo_book_gen.py`: identifier: report
+  - `readme.md`: identifier: report
+- **Report**: found in 2 location(s)
+  - `main.py`: identifier: Report
+  - `repo_book_gen.py`: identifier: Report
+- **REPORT_MODE**: found in 2 location(s)
+  - `main.py`: constant: REPORT_MODE
+  - `readme.md`: constant: REPORT_MODE
+- **repos**: found in 1 location(s)
+  - `readme.md`: identifier: repos
+- **repositories**: found in 1 location(s)
+  - `readme.md`: identifier: repositories
+- **Repository**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Repository
+- **repository**: found in 1 location(s)
+  - `readme.md`: identifier: repository
+- **REQUEST_INTERVAL**: found in 1 location(s)
+  - `main.py`: constant: REQUEST_INTERVAL
+- **requests**: found in 2 location(s)
+  - `requirements.txt`: identifier: requests
+  - `pyproject.toml`: identifier: requests
+- **require**: found in 1 location(s)
+  - `LICENSE`: identifier: require
+- **required**: found in 2 location(s)
+  - `main.py`: identifier: required
+  - `LICENSE`: identifier: required
+- **REQUIRED**: found in 1 location(s)
+  - `LICENSE`: constant: REQUIRED
+- **requirement**: found in 1 location(s)
+  - `LICENSE`: identifier: requirement
+- **requires**: found in 1 location(s)
+  - `pyproject.toml`: identifier: requires
+- **requiring**: found in 1 location(s)
+  - `LICENSE`: identifier: requiring
+- **Requiring**: found in 1 location(s)
+  - `LICENSE`: identifier: Requiring
+- **research**: found in 1 location(s)
+  - `readme.md`: identifier: research
+- **resolve**: found in 1 location(s)
+  - `index.html`: identifier: resolve
+- **resolved**: found in 1 location(s)
+  - `LICENSE`: identifier: resolved
+- **respect**: found in 1 location(s)
+  - `LICENSE`: identifier: respect
+- **response**: found in 1 location(s)
+  - `main.py`: identifier: response
+- **responsible**: found in 1 location(s)
+  - `LICENSE`: identifier: responsible
+- **restart**: found in 1 location(s)
+  - `readme.md`: identifier: restart
+- **restrict**: found in 1 location(s)
+  - `LICENSE`: identifier: restrict
+- **restricting**: found in 1 location(s)
+  - `LICENSE`: identifier: restricting
+- **result**: found in 3 location(s)
+  - `main.py`: identifier: result
+  - `repo_book_gen.py`: identifier: result
+  - `LICENSE`: identifier: result
+- **resulting**: found in 1 location(s)
+  - `LICENSE`: identifier: resulting
+- **results**: found in 3 location(s)
+  - `main.py`: identifier: results
+  - `repo_book_gen.py`: identifier: results
+  - `LICENSE`: identifier: results
+- **resumable**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: resumable
+- **returncode**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: returncode
+- **reverse**: found in 2 location(s)
+  - `main.py`: identifier: reverse
+  - `repo_book_gen.py`: identifier: reverse
+- **reviewing**: found in 1 location(s)
+  - `LICENSE`: identifier: reviewing
+- **RFC**: found in 1 location(s)
+  - `main.py`: constant: RFC
+- **rgba**: found in 1 location(s)
+  - `index.html`: identifier: rgba
+- **rglob**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: rglob
+- **right**: found in 2 location(s)
+  - `index.html`: identifier: right
+  - `main.py`: identifier: right
+- **Rights**: found in 1 location(s)
+  - `LICENSE`: identifier: Rights
+- **risk**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: risk
+- **RISK**: found in 1 location(s)
+  - `LICENSE`: constant: RISK
+- **ROM**: found in 1 location(s)
+  - `LICENSE`: constant: ROM
+- **ROOT**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: ROOT
+- **root**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: root
+- **round**: found in 1 location(s)
+  - `main.py`: identifier: round
+- **royalty**: found in 1 location(s)
+  - `LICENSE`: identifier: royalty
+- **rsplit**: found in 1 location(s)
+  - `main.py`: identifier: rsplit
+- **rstrip**: found in 1 location(s)
+  - `main.py`: identifier: rstrip
+- **ruanyf**: found in 1 location(s)
+  - `readme.md`: identifier: ruanyf
+- **run**: found in 2 location(s)
+  - `main.py`: function: run
+  - `repo_book_gen.py`: function: run
+- **RUN_MODE**: found in 1 location(s)
+  - `readme.md`: constant: RUN_MODE
+- **RuntimeError**: found in 1 location(s)
+  - `main.py`: identifier: RuntimeError
+
+## S
+
+- **sake**: found in 1 location(s)
+  - `LICENSE`: identifier: sake
+- **sale**: found in 1 location(s)
+  - `LICENSE`: identifier: sale
+- **sans**: found in 2 location(s)
+  - `index.html`: identifier: sans
+  - `main.py`: identifier: sans
+- **sansan0**: found in 3 location(s)
+  - `index.html`: identifier: sansan0
+  - `main.py`: identifier: sansan0
+  - `readme.md`: identifier: sansan0
+- **sass**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: sass
+- **save**: found in 2 location(s)
+  - `index.html`: identifier: save
+  - `main.py`: identifier: save
+- **save_titles_to_file**: found in 1 location(s)
+  - `main.py`: function: save_titles_to_file
+- **saveAsImage**: found in 2 location(s)
+  - `index.html`: identifier: saveAsImage
+  - `main.py`: function: saveAsImage
+- **saveAsMultipleImages**: found in 2 location(s)
+  - `index.html`: identifier: saveAsMultipleImages
+  - `main.py`: function: saveAsMultipleImages
+- **saying**: found in 1 location(s)
+  - `LICENSE`: identifier: saying
+- **scala**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: scala
+- **scale**: found in 2 location(s)
+  - `index.html`: identifier: scale
+  - `main.py`: constant: scale
+- **Scan**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Scan
+- **scan**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: scan
+- **scan_repository**: found in 1 location(s)
+  - `repo_book_gen.py`: function: scan_repository
+- **scanned**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: scanned
+- **Scanned**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Scanned
+- **script**: found in 3 location(s)
+  - `index.html`: identifier: script
+  - `setup-windows-en.bat`: identifier: script
+  - `main.py`: identifier: script
+- **Scripts**: found in 1 location(s)
+  - `start-http.bat`: identifier: Scripts
+- **scripts**: found in 2 location(s)
+  - `pyproject.toml`: identifier: scripts
+  - `LICENSE`: identifier: scripts
+- **scrollTo**: found in 1 location(s)
+  - `index.html`: identifier: scrollTo
+- **scrollX**: found in 2 location(s)
+  - `index.html`: identifier: scrollX
+  - `main.py`: identifier: scrollX
+- **scrollY**: found in 2 location(s)
+  - `index.html`: identifier: scrollY
+  - `main.py`: identifier: scrollY
+- **scss**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: scss
+- **secret**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: secret
+  - `readme.md`: identifier: secret
+- **Secret**: found in 1 location(s)
+  - `readme.md`: identifier: Secret
+- **secrets**: found in 1 location(s)
+  - `readme.md`: identifier: secrets
+- **Secrets**: found in 1 location(s)
+  - `readme.md`: identifier: Secrets
+- **section**: found in 3 location(s)
+  - `main.py`: identifier: section
+  - `repo_book_gen.py`: identifier: section
+  - `LICENSE`: identifier: section
+- **sections**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: sections
+- **Sections**: found in 1 location(s)
+  - `LICENSE`: identifier: Sections
+- **security**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: security
+- **Security**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Security
+- **segment**: found in 2 location(s)
+  - `index.html`: identifier: segment
+  - `main.py`: constant: segment
+- **segments**: found in 2 location(s)
+  - `index.html`: identifier: segments
+  - `main.py`: constant: segments
+- **Segoe**: found in 2 location(s)
+  - `index.html`: identifier: Segoe
+  - `main.py`: identifier: Segoe
+- **self**: found in 1 location(s)
+  - `index.html`: identifier: self
+- **sell**: found in 1 location(s)
+  - `LICENSE`: identifier: sell
+- **selling**: found in 1 location(s)
+  - `LICENSE`: identifier: selling
+- **semiconductor**: found in 1 location(s)
+  - `LICENSE`: identifier: semiconductor
+- **send_to_dingtalk**: found in 1 location(s)
+  - `main.py`: function: send_to_dingtalk
+- **send_to_email**: found in 1 location(s)
+  - `main.py`: function: send_to_email
+- **send_to_feishu**: found in 1 location(s)
+  - `main.py`: function: send_to_feishu
+- **send_to_notifications**: found in 1 location(s)
+  - `main.py`: function: send_to_notifications
+- **send_to_ntfy**: found in 1 location(s)
+  - `main.py`: function: send_to_ntfy
+- **send_to_telegram**: found in 1 location(s)
+  - `main.py`: function: send_to_telegram
+- **send_to_wework**: found in 1 location(s)
+  - `main.py`: function: send_to_wework
+- **sendMessage**: found in 1 location(s)
+  - `main.py`: identifier: sendMessage
+- **serif**: found in 1 location(s)
+  - `index.html`: identifier: serif
+- **serve**: found in 1 location(s)
+  - `readme.md`: identifier: serve
+- **server**: found in 8 location(s)
+  - `start-http.bat`: identifier: server
+  - `start-http.sh`: identifier: server
+  - `pyproject.toml`: identifier: server
+  - `setup-windows-en.bat`: identifier: server
+  - `main.py`: identifier: server
+- **Server**: found in 5 location(s)
+  - `start-http.bat`: identifier: Server
+  - `start-http.sh`: identifier: Server
+  - `pyproject.toml`: identifier: Server
+  - `setup-windows-en.bat`: identifier: Server
+  - `readme.md`: identifier: Server
+- **Servers**: found in 1 location(s)
+  - `setup-mac.sh`: identifier: Servers
+- **serves**: found in 1 location(s)
+  - `LICENSE`: identifier: serves
+- **SERVICING**: found in 1 location(s)
+  - `LICENSE`: constant: SERVICING
+- **setlocal**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: setlocal
+  - `setup-windows.bat`: identifier: setlocal
+- **setTimeout**: found in 1 location(s)
+  - `index.html`: identifier: setTimeout
+- **Settings**: found in 1 location(s)
+  - `readme.md`: identifier: Settings
+- **setup**: found in 7 location(s)
+  - `start-http.bat`: identifier: setup
+  - `start-http.sh`: identifier: setup
+  - `README-Cherry-Studio.md`: identifier: setup
+  - `setup-windows-en.bat`: identifier: setup
+  - `readme.md`: identifier: setup
+- **Setup**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Setup
+- **SHA256**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: SHA256
+- **sha256**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: sha256
+- **sha512**: found in 2 location(s)
+  - `index.html`: identifier: sha512
+  - `main.py`: identifier: sha512
+- **shadow**: found in 2 location(s)
+  - `index.html`: identifier: shadow
+  - `main.py`: identifier: shadow
+- **Shanghai**: found in 1 location(s)
+  - `main.py`: identifier: Shanghai
+- **shanghai**: found in 1 location(s)
+  - `readme.md`: identifier: shanghai
+- **shell**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: shell
+  - `readme.md`: identifier: shell
+- **shields**: found in 1 location(s)
+  - `readme.md`: identifier: shields
+- **short**: found in 1 location(s)
+  - `LICENSE`: identifier: short
+- **should**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: should
+  - `LICENSE`: identifier: should
+- **SHOULD**: found in 1 location(s)
+  - `LICENSE`: constant: SHOULD
+- **should_exclude**: found in 1 location(s)
+  - `repo_book_gen.py`: function: should_exclude
+- **Show**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Show
+- **SHOW_VERSION_UPDATE**: found in 1 location(s)
+  - `main.py`: constant: SHOW_VERSION_UPDATE
+- **shrink**: found in 1 location(s)
+  - `index.html`: identifier: shrink
+- **similar**: found in 1 location(s)
+  - `LICENSE`: identifier: similar
+- **simultaneously**: found in 1 location(s)
+  - `LICENSE`: identifier: simultaneously
+- **sina**: found in 1 location(s)
+  - `main.py`: identifier: sina
+- **since**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: since
+- **single**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: single
+  - `LICENSE`: identifier: single
+- **size**: found in 2 location(s)
+  - `index.html`: identifier: size
+  - `main.py`: identifier: size
+- **Size**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Size
+- **sizing**: found in 2 location(s)
+  - `index.html`: identifier: sizing
+  - `main.py`: identifier: sizing
+- **Skipped**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Skipped
+- **sleep**: found in 1 location(s)
+  - `main.py`: identifier: sleep
+- **SMTP**: found in 2 location(s)
+  - `main.py`: constant: SMTP
+  - `readme.md`: constant: SMTP
+- **smtp**: found in 2 location(s)
+  - `main.py`: identifier: smtp
+  - `readme.md`: identifier: smtp
+- **SMTP_CONFIGS**: found in 1 location(s)
+  - `main.py`: constant: SMTP_CONFIGS
+- **SMTP_SSL**: found in 1 location(s)
+  - `main.py`: constant: SMTP_SSL
+- **SMTPAuthenticationError**: found in 1 location(s)
+  - `main.py`: identifier: SMTPAuthenticationError
+- **SMTPConnectError**: found in 1 location(s)
+  - `main.py`: identifier: SMTPConnectError
+- **SMTPRecipientsRefused**: found in 1 location(s)
+  - `main.py`: identifier: SMTPRecipientsRefused
+- **SMTPSenderRefused**: found in 1 location(s)
+  - `main.py`: identifier: SMTPSenderRefused
+- **SMTPServerDisconnected**: found in 1 location(s)
+  - `main.py`: identifier: SMTPServerDisconnected
+- **Snapshot**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Snapshot
+- **Software**: found in 1 location(s)
+  - `LICENSE`: identifier: Software
+- **sold**: found in 1 location(s)
+  - `LICENSE`: identifier: sold
+- **sole**: found in 1 location(s)
+  - `LICENSE`: identifier: sole
+- **solely**: found in 1 location(s)
+  - `LICENSE`: identifier: solely
+- **solid**: found in 2 location(s)
+  - `index.html`: identifier: solid
+  - `main.py`: identifier: solid
+- **Sort**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Sort
+- **sorted**: found in 2 location(s)
+  - `main.py`: identifier: sorted
+  - `repo_book_gen.py`: identifier: sorted
+- **source**: found in 3 location(s)
+  - `index.html`: identifier: source
+  - `main.py`: identifier: source
+  - `repo_book_gen.py`: identifier: source
+- **Source**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: Source
+  - `LICENSE`: identifier: Source
+- **sources**: found in 1 location(s)
+  - `readme.md`: identifier: sources
+- **space**: found in 1 location(s)
+  - `index.html`: identifier: space
+- **spacing**: found in 1 location(s)
+  - `main.py`: identifier: spacing
+- **span**: found in 2 location(s)
+  - `index.html`: identifier: span
+  - `main.py`: identifier: span
+- **spare**: found in 1 location(s)
+  - `LICENSE`: identifier: spare
+- **SPECIAL**: found in 1 location(s)
+  - `LICENSE`: constant: SPECIAL
+- **specific**: found in 3 location(s)
+  - `repo_book_gen.py`: identifier: specific
+  - `LICENSE`: identifier: specific
+  - `AGENTS.md`: identifier: specific
+- **specifies**: found in 1 location(s)
+  - `LICENSE`: identifier: specifies
+- **specify**: found in 1 location(s)
+  - `LICENSE`: identifier: specify
+- **spirit**: found in 1 location(s)
+  - `LICENSE`: identifier: spirit
+- **split**: found in 2 location(s)
+  - `main.py`: identifier: split
+  - `repo_book_gen.py`: identifier: split
+- **split_content_into_batches**: found in 1 location(s)
+  - `main.py`: function: split_content_into_batches
+- **splitlines**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: splitlines
+- **square**: found in 1 location(s)
+  - `readme.md`: identifier: square
+- **SSL**: found in 2 location(s)
+  - `main.py`: constant: SSL
+  - `readme.md`: constant: SSL
+- **standards**: found in 1 location(s)
+  - `LICENSE`: identifier: standards
+- **Star**: found in 1 location(s)
+  - `readme.md`: identifier: Star
+- **star**: found in 1 location(s)
+  - `readme.md`: identifier: star
+- **stargazers**: found in 1 location(s)
+  - `readme.md`: identifier: stargazers
+- **Stars**: found in 1 location(s)
+  - `readme.md`: identifier: Stars
+- **stars**: found in 1 location(s)
+  - `readme.md`: identifier: stars
+- **start**: found in 6 location(s)
+  - `index.html`: identifier: start
+  - `README-Cherry-Studio.md`: identifier: start
+  - `main.py`: identifier: start
+  - `setup-mac.sh`: identifier: start
+  - `readme.md`: identifier: start
+- **START**: found in 1 location(s)
+  - `main.py`: constant: START
+- **Start**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Start
+- **started**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: started
+  - `setup-mac.sh`: identifier: started
+  - `setup-windows.bat`: identifier: started
+- **STARTING**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: STARTING
+- **Starting**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Starting
+- **startswith**: found in 2 location(s)
+  - `main.py`: identifier: startswith
+  - `repo_book_gen.py`: identifier: startswith
+- **STARTTLS**: found in 1 location(s)
+  - `main.py`: constant: STARTTLS
+- **startup**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: startup
+- **stat**: found in 2 location(s)
+  - `main.py`: identifier: stat
+  - `repo_book_gen.py`: identifier: stat
+- **state**: found in 1 location(s)
+  - `LICENSE`: identifier: state
+- **STATED**: found in 1 location(s)
+  - `LICENSE`: constant: STATED
+- **stated**: found in 1 location(s)
+  - `LICENSE`: identifier: stated
+- **static**: found in 2 location(s)
+  - `index.html`: identifier: static
+  - `main.py`: identifier: static
+- **statistics**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: statistics
+- **Statistics**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Statistics
+- **stats**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: stats
+- **status**: found in 3 location(s)
+  - `main.py`: identifier: status
+  - `LICENSE`: identifier: status
+  - `readme.md`: identifier: status
+- **STDIO**: found in 2 location(s)
+  - `setup-mac.sh`: constant: STDIO
+  - `readme.md`: constant: STDIO
+- **stdio**: found in 1 location(s)
+  - `readme.md`: identifier: stdio
+- **stdout**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: stdout
+- **steps**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: steps
+- **stop**: found in 1 location(s)
+  - `readme.md`: identifier: stop
+- **Store**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: Store
+  - `readme.md`: identifier: Store
+- **store**: found in 1 location(s)
+  - `readme.md`: identifier: store
+- **streamableHttp**: found in 3 location(s)
+  - `README-Cherry-Studio.md`: identifier: streamableHttp
+  - `readme.md`: identifier: streamableHttp
+  - `README-MCP-FAQ.md`: identifier: streamableHttp
+- **strftime**: found in 1 location(s)
+  - `main.py`: identifier: strftime
+- **String**: found in 1 location(s)
+  - `index.html`: identifier: String
+- **strip**: found in 2 location(s)
+  - `main.py`: identifier: strip
+  - `repo_book_gen.py`: identifier: strip
+- **Strip**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Strip
+- **strong**: found in 2 location(s)
+  - `main.py`: identifier: strong
+  - `readme.md`: identifier: strong
+- **strptime**: found in 1 location(s)
+  - `main.py`: identifier: strptime
+- **Structure**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Structure
+- **structure**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: structure
+- **studio**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: identifier: studio
+  - `README-MCP-FAQ.md`: identifier: studio
+- **Studio**: found in 6 location(s)
+  - `README-Cherry-Studio.md`: identifier: Studio
+  - `setup-windows-en.bat`: identifier: Studio
+  - `setup-mac.sh`: identifier: Studio
+  - `readme.md`: identifier: Studio
+  - `README-MCP-FAQ.md`: identifier: Studio
+- **style**: found in 3 location(s)
+  - `index.html`: identifier: style
+  - `main.py`: identifier: style
+  - `readme.md`: identifier: style
+- **subfolder**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: subfolder
+- **Subfolders**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Subfolders
+- **subject**: found in 2 location(s)
+  - `main.py`: identifier: subject
+  - `LICENSE`: identifier: subject
+- **Subject**: found in 1 location(s)
+  - `main.py`: identifier: Subject
+- **Sublicensing**: found in 1 location(s)
+  - `LICENSE`: identifier: Sublicensing
+- **Subprocess**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Subprocess
+- **subprocess**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: subprocess
+- **substantial**: found in 1 location(s)
+  - `LICENSE`: identifier: substantial
+- **SUCCESS**: found in 1 location(s)
+  - `setup-windows-en.bat`: constant: SUCCESS
+- **success**: found in 1 location(s)
+  - `main.py`: identifier: success
+- **successfully**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: successfully
+  - `repo_book_gen.py`: identifier: successfully
+- **SUCH**: found in 1 location(s)
+  - `LICENSE`: constant: SUCH
+- **such**: found in 1 location(s)
+  - `LICENSE`: identifier: such
+- **suffix**: found in 2 location(s)
+  - `main.py`: identifier: suffix
+  - `repo_book_gen.py`: identifier: suffix
+- **summaries**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: summaries
+- **Summary**: found in 2 location(s)
+  - `main.py`: identifier: Summary
+  - `repo_book_gen.py`: identifier: Summary
+- **SUMMARY**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: SUMMARY
+- **summary**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: summary
+  - `readme.md`: identifier: summary
+- **Support**: found in 1 location(s)
+  - `readme.md`: identifier: Support
+- **sure**: found in 1 location(s)
+  - `LICENSE`: identifier: sure
+- **SUSTAINED**: found in 1 location(s)
+  - `LICENSE`: constant: SUSTAINED
+- **swift**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: swift
+- **sync**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: sync
+  - `setup-mac.sh`: identifier: sync
+  - `setup-windows.bat`: identifier: sync
+- **Sync**: found in 1 location(s)
+  - `readme.md`: identifier: Sync
+- **system**: found in 5 location(s)
+  - `index.html`: identifier: system
+  - `pyproject.toml`: identifier: system
+  - `main.py`: identifier: system
+  - `repo_book_gen.py`: identifier: system
+  - `LICENSE`: identifier: system
+- **System**: found in 1 location(s)
+  - `LICENSE`: identifier: System
+- **systematic**: found in 1 location(s)
+  - `LICENSE`: identifier: systematic
+
+## T
+
+- **Table**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Table
+- **table**: found in 1 location(s)
+  - `readme.md`: identifier: table
+- **Tags**: found in 1 location(s)
+  - `main.py`: identifier: Tags
+- **tail**: found in 1 location(s)
+  - `readme.md`: identifier: tail
+- **take**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: take
+- **target**: found in 4 location(s)
+  - `index.html`: identifier: target
+  - `main.py`: identifier: target
+  - `repo_book_gen.py`: identifier: target
+  - `readme.md`: identifier: target
+- **targets**: found in 1 location(s)
+  - `pyproject.toml`: identifier: targets
+- **technological**: found in 1 location(s)
+  - `LICENSE`: identifier: technological
+- **Telegram**: found in 2 location(s)
+  - `main.py`: identifier: Telegram
+  - `readme.md`: identifier: Telegram
+- **telegram**: found in 2 location(s)
+  - `main.py`: identifier: telegram
+  - `readme.md`: identifier: telegram
+- **TELEGRAM_BOT_TOKEN**: found in 2 location(s)
+  - `main.py`: constant: TELEGRAM_BOT_TOKEN
+  - `readme.md`: constant: TELEGRAM_BOT_TOKEN
+- **TELEGRAM_CHAT_ID**: found in 2 location(s)
+  - `main.py`: constant: TELEGRAM_CHAT_ID
+  - `readme.md`: constant: TELEGRAM_CHAT_ID
+- **tempContainer**: found in 2 location(s)
+  - `index.html`: identifier: tempContainer
+  - `main.py`: constant: tempContainer
+- **template**: found in 1 location(s)
+  - `index.html`: identifier: template
+- **terminated**: found in 1 location(s)
+  - `LICENSE`: identifier: terminated
+- **terminates**: found in 1 location(s)
+  - `LICENSE`: identifier: terminates
+- **Termination**: found in 1 location(s)
+  - `LICENSE`: identifier: Termination
+- **terms**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: terms
+- **TERMS**: found in 1 location(s)
+  - `LICENSE`: constant: TERMS
+- **test**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: test
+- **tests**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: tests
+- **text**: found in 4 location(s)
+  - `index.html`: identifier: text
+  - `main.py`: identifier: text
+  - `repo_book_gen.py`: identifier: text
+  - `readme.md`: identifier: text
+- **textContent**: found in 2 location(s)
+  - `index.html`: identifier: textContent
+  - `main.py`: identifier: textContent
+- **than**: found in 1 location(s)
+  - `LICENSE`: identifier: than
+- **THE**: found in 1 location(s)
+  - `LICENSE`: constant: THE
+- **their**: found in 2 location(s)
+  - `repo_book_gen.py`: identifier: their
+  - `LICENSE`: identifier: their
+- **then**: found in 3 location(s)
+  - `start-http.sh`: identifier: then
+  - `LICENSE`: identifier: then
+  - `setup-mac.sh`: identifier: then
+- **THERE**: found in 1 location(s)
+  - `LICENSE`: constant: THERE
+- **there**: found in 1 location(s)
+  - `LICENSE`: identifier: there
+- **these**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: these
+- **they**: found in 1 location(s)
+  - `LICENSE`: identifier: they
+- **THIRD**: found in 1 location(s)
+  - `LICENSE`: constant: THIRD
+- **though**: found in 1 location(s)
+  - `LICENSE`: identifier: though
+- **through**: found in 1 location(s)
+  - `LICENSE`: identifier: through
+- **Thumbs**: found in 1 location(s)
+  - `.dockerignore`: identifier: Thumbs
+- **tieba**: found in 1 location(s)
+  - `index.html`: identifier: tieba
+- **time**: found in 1 location(s)
+  - `index.html`: identifier: time
+- **TIME_RANGE**: found in 1 location(s)
+  - `main.py`: constant: TIME_RANGE
+- **timeout**: found in 1 location(s)
+  - `main.py`: identifier: timeout
+- **timestamp**: found in 3 location(s)
+  - `main.py`: identifier: timestamp
+  - `repo_book_gen.py`: identifier: timestamp
+  - `readme.md`: identifier: timestamp
+- **timezone**: found in 1 location(s)
+  - `main.py`: identifier: timezone
+- **title**: found in 3 location(s)
+  - `index.html`: identifier: title
+  - `repo_book_gen.py`: identifier: title
+  - `readme.md`: identifier: title
+- **Title**: found in 1 location(s)
+  - `main.py`: identifier: Title
+- **titles**: found in 1 location(s)
+  - `main.py`: identifier: titles
+- **TJlSKda6FXzoEyYGjTe**: found in 1 location(s)
+  - `index.html`: identifier: TJlSKda6FXzoEyYGjTe
+- **TLS**: found in 2 location(s)
+  - `main.py`: constant: TLS
+  - `readme.md`: constant: TLS
+- **TOC**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: TOC
+- **toDataURL**: found in 2 location(s)
+  - `index.html`: identifier: toDataURL
+  - `main.py`: identifier: toDataURL
+- **today**: found in 1 location(s)
+  - `main.py`: identifier: today
+- **together**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: together
+- **Token**: found in 1 location(s)
+  - `readme.md`: identifier: Token
+- **tokens**: found in 2 location(s)
+  - `setup-windows-en.bat`: identifier: tokens
+  - `setup-windows.bat`: identifier: tokens
+- **toml**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: toml
+  - `repo_book_gen.py`: identifier: toml
+  - `setup-windows.bat`: identifier: toml
+- **tool**: found in 1 location(s)
+  - `pyproject.toml`: identifier: tool
+- **tools**: found in 1 location(s)
+  - `LICENSE`: identifier: tools
+- **Tools**: found in 1 location(s)
+  - `readme.md`: identifier: Tools
+- **topic**: found in 1 location(s)
+  - `main.py`: identifier: topic
+- **Topic**: found in 1 location(s)
+  - `readme.md`: identifier: Topic
+- **Total**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Total
+- **toutiao**: found in 1 location(s)
+  - `readme.md`: identifier: toutiao
+- **traceback**: found in 1 location(s)
+  - `main.py`: identifier: traceback
+- **Track**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Track
+- **transaction**: found in 1 location(s)
+  - `LICENSE`: identifier: transaction
+- **transferred**: found in 1 location(s)
+  - `LICENSE`: identifier: transferred
+- **transform**: found in 2 location(s)
+  - `index.html`: identifier: transform
+  - `main.py`: identifier: transform
+- **transition**: found in 1 location(s)
+  - `index.html`: identifier: transition
+- **translateY**: found in 2 location(s)
+  - `index.html`: identifier: translateY
+  - `main.py`: identifier: translateY
+- **transmission**: found in 1 location(s)
+  - `LICENSE`: identifier: transmission
+- **transport**: found in 3 location(s)
+  - `start-http.bat`: identifier: transport
+  - `start-http.sh`: identifier: transport
+  - `readme.md`: identifier: transport
+- **tree**: found in 1 location(s)
+  - `readme.md`: identifier: tree
+- **trend**: found in 1 location(s)
+  - `readme.md`: identifier: trend
+- **TrendRadar**: found in 11 location(s)
+  - `start-http.bat`: identifier: TrendRadar
+  - `start-http.sh`: identifier: TrendRadar
+  - `index.html`: identifier: TrendRadar
+  - `pyproject.toml`: identifier: TrendRadar
+  - `README-Cherry-Studio.md`: identifier: TrendRadar
+- **trendradar**: found in 2 location(s)
+  - `pyproject.toml`: identifier: trendradar
+  - `readme.md`: identifier: trendradar
+- **trendRadar**: found in 1 location(s)
+  - `readme.md`: identifier: trendRadar
+- **trendshift**: found in 1 location(s)
+  - `readme.md`: identifier: trendshift
+- **Trendshift**: found in 1 location(s)
+  - `readme.md`: identifier: Trendshift
+- **trigger**: found in 1 location(s)
+  - `readme.md`: identifier: trigger
+- **truncated**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: truncated
+- **Tuple**: found in 2 location(s)
+  - `main.py`: identifier: Tuple
+  - `repo_book_gen.py`: identifier: Tuple
+- **type**: found in 5 location(s)
+  - `index.html`: identifier: type
+  - `main.py`: identifier: type
+  - `repo_book_gen.py`: identifier: type
+  - `LICENSE`: identifier: type
+  - `readme.md`: identifier: type
+- **Type**: found in 2 location(s)
+  - `main.py`: identifier: Type
+  - `repo_book_gen.py`: identifier: Type
+- **TypeScript**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: TypeScript
+- **typing**: found in 2 location(s)
+  - `main.py`: identifier: typing
+  - `repo_book_gen.py`: identifier: typing
+
+## U
+
+- **U7onG1sTTdwdW2zg**: found in 1 location(s)
+  - `readme.md`: identifier: U7onG1sTTdwdW2zg
+- **Unable**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Unable
+- **underline**: found in 2 location(s)
+  - `index.html`: identifier: underline
+  - `main.py`: identifier: underline
+- **underscores**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: underscores
+- **uniform**: found in 1 location(s)
+  - `main.py`: identifier: uniform
+- **Unique**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Unique
+- **Unknown**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Unknown
+- **UNLESS**: found in 1 location(s)
+  - `LICENSE`: constant: UNLESS
+- **unless**: found in 1 location(s)
+  - `LICENSE`: identifier: unless
+- **unlimited**: found in 1 location(s)
+  - `LICENSE`: identifier: unlimited
+- **unlink**: found in 1 location(s)
+  - `main.py`: identifier: unlink
+- **unmodified**: found in 1 location(s)
+  - `LICENSE`: identifier: unmodified
+- **unpacking**: found in 1 location(s)
+  - `LICENSE`: identifier: unpacking
+- **until**: found in 1 location(s)
+  - `LICENSE`: identifier: until
+- **update**: found in 2 location(s)
+  - `main.py`: identifier: update
+  - `repo_book_gen.py`: identifier: update
+- **upper**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: upper
+- **URL**: found in 5 location(s)
+  - `README-Cherry-Studio.md`: constant: URL
+  - `main.py`: constant: URL
+  - `repo_book_gen.py`: constant: URL
+  - `readme.md`: constant: URL
+  - `README-MCP-FAQ.md`: constant: URL
+- **URLs**: found in 1 location(s)
+  - `readme.md`: identifier: URLs
+- **USE**: found in 1 location(s)
+  - `LICENSE`: constant: USE
+- **USE_PROXY**: found in 1 location(s)
+  - `main.py`: constant: USE_PROXY
+- **useCORS**: found in 1 location(s)
+  - `index.html`: identifier: useCORS
+- **used**: found in 1 location(s)
+  - `LICENSE`: identifier: used
+- **useful**: found in 1 location(s)
+  - `LICENSE`: identifier: useful
+- **user1**: found in 1 location(s)
+  - `readme.md`: identifier: user1
+- **user2**: found in 1 location(s)
+  - `readme.md`: identifier: user2
+- **user3**: found in 1 location(s)
+  - `readme.md`: identifier: user3
+- **userinfobot**: found in 1 location(s)
+  - `readme.md`: identifier: userinfobot
+- **users**: found in 2 location(s)
+  - `LICENSE`: identifier: users
+  - `readme.md`: identifier: users
+- **Users**: found in 1 location(s)
+  - `readme.md`: identifier: Users
+- **using**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: using
+- **UTF**: found in 4 location(s)
+  - `index.html`: constant: UTF
+  - `setup-windows-en.bat`: constant: UTF
+  - `main.py`: constant: UTF
+  - `repo_book_gen.py`: constant: UTF
+- **utils**: found in 1 location(s)
+  - `main.py`: identifier: utils
+- **UV_PATH**: found in 3 location(s)
+  - `setup-windows-en.bat`: constant: UV_PATH
+  - `setup-mac.sh`: constant: UV_PATH
+  - `setup-windows.bat`: constant: UV_PATH
+
+## V
+
+- **valid**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: valid
+- **validation**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: validation
+- **Validation**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Validation
+- **value**: found in 1 location(s)
+  - `index.html`: identifier: value
+- **ValueError**: found in 1 location(s)
+  - `main.py`: identifier: ValueError
+- **variable**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: variable
+- **variables**: found in 1 location(s)
+  - `readme.md`: identifier: variables
+- **vendor**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: vendor
+- **venv**: found in 2 location(s)
+  - `start-http.bat`: identifier: venv
+  - `start-http.sh`: identifier: venv
+- **verification**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: verification
+- **Verification**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Verification
+- **version**: found in 7 location(s)
+  - `pyproject.toml`: identifier: version
+  - `setup-windows-en.bat`: identifier: version
+  - `LICENSE`: identifier: version
+  - `setup-mac.sh`: identifier: version
+  - `readme.md`: identifier: version
+- **VERSION**: found in 1 location(s)
+  - `main.py`: constant: VERSION
+- **Version**: found in 3 location(s)
+  - `main.py`: identifier: Version
+  - `LICENSE`: identifier: Version
+  - `readme.md`: identifier: Version
+- **VERSION_CHECK_URL**: found in 1 location(s)
+  - `main.py`: constant: VERSION_CHECK_URL
+- **versions**: found in 1 location(s)
+  - `LICENSE`: identifier: versions
+- **Versions**: found in 1 location(s)
+  - `LICENSE`: identifier: Versions
+- **view**: found in 1 location(s)
+  - `LICENSE`: identifier: view
+- **viewport**: found in 1 location(s)
+  - `index.html`: identifier: viewport
+- **visibility**: found in 1 location(s)
+  - `index.html`: identifier: visibility
+- **visible**: found in 3 location(s)
+  - `index.html`: identifier: visible
+  - `main.py`: identifier: visible
+  - `LICENSE`: identifier: visible
+- **Visit**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Visit
+- **visited**: found in 2 location(s)
+  - `index.html`: identifier: visited
+  - `main.py`: identifier: visited
+- **vivo**: found in 1 location(s)
+  - `readme.md`: identifier: vivo
+- **void**: found in 1 location(s)
+  - `LICENSE`: identifier: void
+- **VSCode**: found in 1 location(s)
+  - `readme.md`: identifier: VSCode
+- **vscode**: found in 1 location(s)
+  - `.dockerignore`: identifier: vscode
+
+## W
+
+- **waive**: found in 1 location(s)
+  - `LICENSE`: identifier: waive
+- **walk**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: walk
+- **wallstreetcn**: found in 2 location(s)
+  - `index.html`: identifier: wallstreetcn
+  - `readme.md`: identifier: wallstreetcn
+- **want**: found in 1 location(s)
+  - `LICENSE`: identifier: want
+- **wantcat**: found in 1 location(s)
+  - `readme.md`: identifier: wantcat
+- **warm**: found in 1 location(s)
+  - `index.html`: identifier: warm
+- **WARNING**: found in 1 location(s)
+  - `setup-windows-en.bat`: constant: WARNING
+- **WARRANTIES**: found in 1 location(s)
+  - `LICENSE`: constant: WARRANTIES
+- **warranties**: found in 1 location(s)
+  - `LICENSE`: identifier: warranties
+- **WARRANTY**: found in 1 location(s)
+  - `LICENSE`: constant: WARRANTY
+- **Webhook**: found in 1 location(s)
+  - `readme.md`: identifier: Webhook
+- **webhook**: found in 1 location(s)
+  - `readme.md`: identifier: webhook
+- **webhooks**: found in 2 location(s)
+  - `main.py`: identifier: webhooks
+  - `readme.md`: identifier: webhooks
+- **websockets**: found in 2 location(s)
+  - `requirements.txt`: identifier: websockets
+  - `pyproject.toml`: identifier: websockets
+- **weekly**: found in 1 location(s)
+  - `readme.md`: identifier: weekly
+- **weibo**: found in 1 location(s)
+  - `readme.md`: identifier: weibo
+- **weight**: found in 3 location(s)
+  - `index.html`: identifier: weight
+  - `main.py`: identifier: weight
+  - `readme.md`: identifier: weight
+- **WEIGHT_CONFIG**: found in 1 location(s)
+  - `main.py`: constant: WEIGHT_CONFIG
+- **weixin**: found in 1 location(s)
+  - `readme.md`: identifier: weixin
+- **welcome**: found in 1 location(s)
+  - `LICENSE`: identifier: welcome
+- **wework**: found in 2 location(s)
+  - `main.py`: identifier: wework
+  - `readme.md`: identifier: wework
+- **WEWORK_WEBHOOK_URL**: found in 2 location(s)
+  - `main.py`: constant: WEWORK_WEBHOOK_URL
+  - `readme.md`: constant: WEWORK_WEBHOOK_URL
+- **Wgds8Gp**: found in 1 location(s)
+  - `index.html`: identifier: Wgds8Gp
+- **wget**: found in 1 location(s)
+  - `readme.md`: identifier: wget
+- **wheel**: found in 1 location(s)
+  - `pyproject.toml`: identifier: wheel
+- **WHEN**: found in 1 location(s)
+  - `LICENSE`: constant: WHEN
+- **where**: found in 3 location(s)
+  - `setup-windows-en.bat`: identifier: where
+  - `readme.md`: identifier: where
+  - `setup-windows.bat`: identifier: where
+- **which**: found in 3 location(s)
+  - `LICENSE`: identifier: which
+  - `setup-mac.sh`: identifier: which
+  - `readme.md`: identifier: which
+- **white**: found in 3 location(s)
+  - `index.html`: identifier: white
+  - `main.py`: identifier: white
+  - `readme.md`: identifier: white
+- **WHO**: found in 1 location(s)
+  - `LICENSE`: constant: WHO
+- **whole**: found in 1 location(s)
+  - `LICENSE`: identifier: whole
+- **whom**: found in 1 location(s)
+  - `LICENSE`: identifier: whom
+- **widely**: found in 1 location(s)
+  - `LICENSE`: identifier: widely
+- **width**: found in 3 location(s)
+  - `index.html`: identifier: width
+  - `main.py`: identifier: width
+  - `readme.md`: identifier: width
+- **WILL**: found in 1 location(s)
+  - `LICENSE`: constant: WILL
+- **Win64**: found in 1 location(s)
+  - `main.py`: identifier: Win64
+- **window**: found in 4 location(s)
+  - `index.html`: identifier: window
+  - `setup-windows-en.bat`: identifier: window
+  - `main.py`: identifier: window
+  - `LICENSE`: identifier: window
+- **windowHeight**: found in 2 location(s)
+  - `index.html`: identifier: windowHeight
+  - `main.py`: identifier: windowHeight
+- **windows**: found in 6 location(s)
+  - `start-http.bat`: identifier: windows
+  - `README-Cherry-Studio.md`: identifier: windows
+  - `setup-windows-en.bat`: identifier: windows
+  - `readme.md`: identifier: windows
+  - `README-MCP-FAQ.md`: identifier: windows
+- **Windows**: found in 5 location(s)
+  - `README-Cherry-Studio.md`: identifier: Windows
+  - `setup-windows-en.bat`: identifier: Windows
+  - `readme.md`: identifier: Windows
+  - `README-MCP-FAQ.md`: identifier: Windows
+  - `setup-windows.bat`: identifier: Windows
+- **windowWidth**: found in 1 location(s)
+  - `index.html`: identifier: windowWidth
+- **WIPO**: found in 1 location(s)
+  - `LICENSE`: constant: WIPO
+- **WITH**: found in 1 location(s)
+  - `LICENSE`: constant: WITH
+- **WITHOUT**: found in 1 location(s)
+  - `LICENSE`: constant: WITHOUT
+- **woff**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: woff
+- **woff2**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: woff2
+- **word**: found in 3 location(s)
+  - `index.html`: identifier: word
+  - `main.py`: identifier: word
+  - `repo_book_gen.py`: identifier: word
+- **wordGroups**: found in 2 location(s)
+  - `index.html`: identifier: wordGroups
+  - `main.py`: constant: wordGroups
+- **wordHeader**: found in 2 location(s)
+  - `index.html`: identifier: wordHeader
+  - `main.py`: constant: wordHeader
+- **Words**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Words
+- **work**: found in 2 location(s)
+  - `LICENSE`: identifier: work
+  - `readme.md`: identifier: work
+- **workflow**: found in 1 location(s)
+  - `readme.md`: identifier: workflow
+- **workflows**: found in 1 location(s)
+  - `readme.md`: identifier: workflows
+- **Working**: found in 1 location(s)
+  - `setup-windows-en.bat`: identifier: Working
+- **working**: found in 1 location(s)
+  - `LICENSE`: identifier: working
+- **world**: found in 2 location(s)
+  - `main.py`: identifier: world
+  - `readme.md`: identifier: world
+- **World**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: World
+- **worldwide**: found in 1 location(s)
+  - `LICENSE`: identifier: worldwide
+- **wrap**: found in 2 location(s)
+  - `index.html`: identifier: wrap
+  - `main.py`: identifier: wrap
+- **write**: found in 2 location(s)
+  - `main.py`: identifier: write
+  - `repo_book_gen.py`: identifier: write
+- **Write**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Write
+- **WRITING**: found in 1 location(s)
+  - `LICENSE`: constant: WRITING
+- **Written**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: Written
+- **written**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: written
+
+## X
+
+- **xlsx**: found in 1 location(s)
+  - `repo_book_gen.py`: identifier: xlsx
+
+## Y
+
+- **yaml**: found in 6 location(s)
+  - `setup-windows-en.bat`: identifier: yaml
+  - `main.py`: identifier: yaml
+  - `repo_book_gen.py`: identifier: yaml
+  - `setup-mac.sh`: identifier: yaml
+  - `readme.md`: identifier: yaml
+- **YAML**: found in 1 location(s)
+  - `repo_book_gen.py`: constant: YAML
+- **year**: found in 1 location(s)
+  - `LICENSE`: identifier: year
+- **YELLOW**: found in 1 location(s)
+  - `setup-mac.sh`: constant: YELLOW
+- **yellow**: found in 1 location(s)
+  - `readme.md`: identifier: yellow
+- **YOU**: found in 1 location(s)
+  - `LICENSE`: constant: YOU
+- **your**: found in 1 location(s)
+  - `LICENSE`: identifier: your
+- **yourdomain**: found in 1 location(s)
+  - `readme.md`: identifier: yourdomain
+- **YourName**: found in 1 location(s)
+  - `readme.md`: identifier: YourName
+- **yourself**: found in 1 location(s)
+  - `LICENSE`: identifier: yourself
+- **YYYY**: found in 1 location(s)
+  - `readme.md`: constant: YYYY
+- **yzyf1312**: found in 1 location(s)
+  - `readme.md`: identifier: yzyf1312
+
+## Z
+
+- **zhihu**: found in 2 location(s)
+  - `index.html`: identifier: zhihu
+  - `readme.md`: identifier: zhihu
+- **ZIP**: found in 2 location(s)
+  - `README-Cherry-Studio.md`: constant: ZIP
+  - `README-MCP-FAQ.md`: constant: ZIP
+- **ziventian**: found in 1 location(s)
+  - `readme.md`: identifier: ziventian
+
+## _
+
+- **__init__**: found in 2 location(s)
+  - `main.py`: function: __init__
+  - `repo_book_gen.py`: function: __init__
+- **_analyze_generic_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _analyze_generic_file
+- **_analyze_javascript_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _analyze_javascript_file
+- **_analyze_json_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _analyze_json_file
+- **_analyze_markdown_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _analyze_markdown_file
+- **_analyze_python_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _analyze_python_file
+- **_analyze_security_performance**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _analyze_security_performance
+- **_analyze_yaml_file**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _analyze_yaml_file
+- **_check_version_update**: found in 1 location(s)
+  - `main.py`: function: _check_version_update
+- **_crawl_data**: found in 1 location(s)
+  - `main.py`: function: _crawl_data
+- **_detect_docker_environment**: found in 1 location(s)
+  - `main.py`: function: _detect_docker_environment
+- **_execute_mode_strategy**: found in 1 location(s)
+  - `main.py`: function: _execute_mode_strategy
+- **_find_related_files**: found in 1 location(s)
+  - `repo_book_gen.py`: function: _find_related_files
+- **_generate_summary_html**: found in 1 location(s)
+  - `main.py`: function: _generate_summary_html
+- **_generate_summary_report**: found in 1 location(s)
+  - `main.py`: function: _generate_summary_report
+- **_get_mode_strategy**: found in 1 location(s)
+  - `main.py`: function: _get_mode_strategy
+- **_has_notification_configured**: found in 1 location(s)
+  - `main.py`: function: _has_notification_configured
+- **_has_valid_content**: found in 1 location(s)
+  - `main.py`: function: _has_valid_content
+- **_initialize_and_check_config**: found in 1 location(s)
+  - `main.py`: function: _initialize_and_check_config
+- **_load_analysis_data**: found in 1 location(s)
+  - `main.py`: function: _load_analysis_data
+- **_prepare_current_title_info**: found in 1 location(s)
+  - `main.py`: function: _prepare_current_title_info
+- **_run_analysis_pipeline**: found in 1 location(s)
+  - `main.py`: function: _run_analysis_pipeline
+- **_send_notification_if_needed**: found in 1 location(s)
+  - `main.py`: function: _send_notification_if_needed
+- **_setup_proxy**: found in 1 location(s)
+  - `main.py`: function: _setup_proxy
+- **_should_open_browser**: found in 1 location(s)
+  - `main.py`: function: _should_open_browser
+
